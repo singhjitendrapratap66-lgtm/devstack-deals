@@ -1,0 +1,75 @@
+{
+  "site_name": "DevStack & AI Deals Daily",
+  "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
+  "site_url": "https://yourusername.github.io/devstack-deals",
+  "default_affiliate_tag": "devdeals-20",
+  "feeds": [
+    {
+      "name": "GitHub Trending & Explore",
+      "category": "Open Source & Free Tools",
+      "url": "https://hnrss.org/frontpage?points=100",
+      "type": "rss",
+      "affiliate_param": "ref=devdeals"
+    },
+    {
+      "name": "Dev.to Discounts & Tools",
+      "category": "Developer Tools",
+      "url": "https://dev.to/feed/tag/showdev",
+      "type": "rss",
+      "affiliate_param": "ref=devdeals"
+    },
+    {
+      "name": "Product Hunt Tech Launches",
+      "category": "AI & SaaS",
+      "url": "https://hnrss.org/newest?q=launch+OR+AI+OR+SaaS",
+      "type": "rss",
+      "affiliate_param": "utm_source=devdeals"
+    }
+  ],
+  "featured_deals": [
+    {
+      "title": "DigitalOcean $200 Cloud Credits (60-Day Trial)",
+      "badge": "FREE $200 CREDITS",
+      "category": "Cloud & Hosting",
+      "description": "Deploy VMs, Docker containers, and managed Kubernetes with $200 free starter infrastructure credits for engineers.",
+      "url": "https://m.do.co/c/devdealspulse",
+      "price": "$0.00",
+      "original_price": "$200.00",
+      "affiliate_network": "DigitalOcean Referral",
+      "estimated_payout": "$25 per active referral"
+    },
+    {
+      "title": "GitHub Student Developer Pack (Free SaaS Suite)",
+      "badge": "100% FREE",
+      "category": "Developer Tools",
+      "description": "Over $200k in free cloud credits, domain names from Namecheap, JetBrains IDE licenses, and Canva Pro for students and learners.",
+      "url": "https://education.github.com/pack",
+      "price": "Free",
+      "original_price": "$200,000 value",
+      "affiliate_network": "Free Resource / High SEO Traffic",
+      "estimated_payout": "Organic Traffic Driver"
+    },
+    {
+      "title": "Supabase - Open Source Firebase Alternative",
+      "badge": "FREE TIER",
+      "category": "Cloud & Hosting",
+      "description": "Generous free PostgreSQL database, authentication, storage, and auto-generated REST/GraphQL APIs with instant setup.",
+      "url": "https://supabase.com/?ref=devdeals",
+      "price": "$0 / mo",
+      "original_price": "$25 / mo",
+      "affiliate_network": "PartnerStack",
+      "estimated_payout": "20% recurring"
+    },
+    {
+      "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
+      "badge": "UP TO 90% OFF",
+      "category": "AI & SaaS",
+      "description": "Curated pay-once-use-forever software licenses for AI copywriting, SEO auditing, video generation, and CRM tools.",
+      "url": "https://appsumo.8odi.net/devdeals",
+      "price": "$49 Lifetime",
+      "original_price": "$600 / yr",
+      "affiliate_network": "Impact Radius",
+      "estimated_payout": "15% - 25% per transaction"
+    }
+  ]
+}

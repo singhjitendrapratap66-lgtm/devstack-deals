@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{site_name}} - Verified Tech Freebies & Discounts</title>
+  <meta name="description" content="{{site_description}}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0a0e17;
+      --bg-card: #131b2e;
+      --bg-card-hover: #19243d;
+      --border-subtle: #233152;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent-blue: #3b82f6;
+      --accent-cyan: #06b6d4;
+      --accent-green: #10b981;
+      --accent-amber: #f59e0b;
+      --badge-featured: linear-gradient(135deg, #f59e0b, #ef4444);
+      --font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      font-family: var(--font-family);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      border-bottom: 1px solid var(--border-subtle);
+      background: rgba(10, 14, 23, 0.85);
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .navbar {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .logo-pulse {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--accent-cyan);
+      box-shadow: 0 0 12px var(--accent-cyan);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+
+    .badge-updated {
+      font-size: 0.75rem;
+      background: #1e293b;
+      color: var(--accent-cyan);
+      padding: 0.25rem 0.75rem;
+      border-radius: 9999px;
+      border: 1px solid #334155;
+      font-weight: 500;
+    }
+
+    .hero {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 2rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #ffffff 40%, var(--accent-cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      color: var(--text-muted);
+      font-size: 1.125rem;
+      max-width: 700px;
+      margin: 0 auto 2rem;
+    }
+
+    .controls-bar {
+      max-width: 1200px;
+      margin: 0 auto 2rem;
+      padding: 0 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 260px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: #fff;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      border-radius: 10px;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-blue);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .filter-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .tag-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.5rem 0.85rem;
+      border-radius: 8px;
+      font-size: 0.825rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tag-btn.active, .tag-btn:hover {
+      background: var(--accent-blue);
+      color: #fff;
+      border-color: var(--accent-blue);
+    }
+
+    .monetization-banner {
+      max-width: 1200px;
+      margin: 0 auto 2.5rem;
+      padding: 0 1.5rem;
+    }
+
+    .banner-inner {
+      background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(6, 182, 212, 0.1));
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      padding: 1.5rem;
+      border-radius: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .banner-text h3 {
+      font-size: 1.15rem;
+      margin-bottom: 0.25rem;
+      color: #fff;
+    }
+
+    .banner-text p {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    .banner-cta {
+      background: var(--accent-blue);
+      color: #fff;
+      padding: 0.65rem 1.25rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-decoration: none;
+      transition: background 0.2s;
+      white-space: nowrap;
+    }
+
+    .banner-cta:hover {
+      background: #2563eb;
+    }
+
+    .deals-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.5rem;
+      flex: 1;
+    }
+
+    .deal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s, background 0.2s, border-color 0.2s;
+      position: relative;
+    }
+
+    .deal-card:hover {
+      background: var(--bg-card-hover);
+      transform: translateY(-3px);
+      border-color: #3b82f6;
+    }
+
+    .deal-card.is-featured {
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      background: linear-gradient(180deg, rgba(245, 158, 11, 0.05) 0%, var(--bg-card) 40%);
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .deal-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .badge-partner {
+      background: rgba(245, 158, 11, 0.2);
+      color: var(--accent-amber);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+
+    .badge-community {
+      background: rgba(16, 185, 129, 0.15);
+      color: var(--accent-green);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .deal-category {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .deal-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.35;
+      margin-bottom: 0.75rem;
+    }
+
+    .deal-desc {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+      flex: 1;
+    }
+
+    .pricing-box {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    .price-value {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent-green);
+    }
+
+    .original-price {
+      font-size: 0.85rem;
+      color: #64748b;
+      text-decoration: line-through;
+      margin-left: 0.5rem;
+    }
+
+    .deal-btn {
+      display: block;
+      text-align: center;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 0.75rem;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.2s, box-shadow 0.2s;
+    }
+
+    .deal-btn:hover {
+      background: #1d4ed8;
+      box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+    }
+
+    footer {
+      border-top: 1px solid var(--border-subtle);
+      margin-top: 4rem;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    footer a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+    }
+
+    .disclosure {
+      max-width: 800px;
+      margin: 1rem auto 0;
+      font-size: 0.75rem;
+      color: #64748b;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="navbar">
+      <a href="#" class="logo">
+        <div class="logo-pulse"></div>
+        <span>{{site_name}}</span>
+      </a>
+      <div class="badge-updated">● Updated: {{updated_at}}</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Automated Tech Deals & Free Developer Credits</h1>
+      <p>{{site_description}}</p>
+    </section>
+
+    <!-- Sponsored Lead / Ad Slot -->
+    <div class="monetization-banner">
+      <div class="banner-inner">
+        <div class="banner-text">
+          <h3>⚡ Developer Starter Kit: $200 in Free Cloud Compute</h3>
+          <p>Spin up cloud databases, AI APIs, and Docker apps at zero cost with DigitalOcean developer credits.</p>
+        </div>
+        <a href="https://m.do.co/c/devdealspulse" target="_blank" rel="noopener noreferrer sponsored" class="banner-cta">Claim $200 Credits &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Interactive Client-Side Wedge: Cloud & Dev Free Tier Savings Calculator -->
+    <section class="calculator-section" style="max-width: 1200px; margin: 0 auto 2.5rem; padding: 0 1.5rem;">
+      <div style="background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: 14px; padding: 1.75rem;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.25rem;">
+          <div>
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: #fff; margin-bottom: 0.25rem;">
+              🧮 Free Tier Cloud & Dev Savings Calculator
+            </h3>
+            <p style="color: var(--text-muted); font-size: 0.875rem;">
+              Calculate how much you save yearly by utilizing verified developer credits &amp; open-source tiers instead of paid retail SaaS.
+            </p>
+          </div>
+          <span style="background: rgba(16, 185, 129, 0.15); color: var(--accent-green); border: 1px solid rgba(16, 185, 129, 0.3); font-size: 0.75rem; font-weight: 700; padding: 0.25rem 0.65rem; border-radius: 6px;">
+            100% CLIENT-SIDE UTILITY
+          </span>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">Cloud Compute & VMs (monthly spend)</label>
+            <input type="number" id="calcVm" value="48" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">Managed Database & Auth (monthly spend)</label>
+            <input type="number" id="calcDb" value="25" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">AI API & SaaS Subscriptions (monthly spend)</label>
+            <input type="number" id="calcAi" value="40" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div style="background: rgba(59, 130, 246, 0.08); border: 1px dashed rgba(59, 130, 246, 0.4); border-radius: 8px; padding: 0.85rem; display: flex; flex-direction: column; justify-content: center; text-align: center;">
+            <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Estimated Annual Savings</span>
+            <span id="calcResult" style="font-size: 1.6rem; font-weight: 800; color: var(--accent-cyan);">$1,356 / yr</span>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; padding-top: 1rem; border-top: 1px solid var(--border-subtle);">
+          <span style="font-size: 0.8rem; color: #64748b;">
+            💡 Based on $200 DigitalOcean trial + Supabase free tier + open-source self-hosting credits.
+          </span>
+          <a href="https://m.do.co/c/devdealspulse" target="_blank" rel="noopener noreferrer sponsored" style="color: var(--accent-cyan); font-size: 0.85rem; font-weight: 600; text-decoration: none;">
+            Claim $200 Compute Credits to Start Saving &rarr;
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Direct Sponsor Submission / Monetization Wedge -->
+    <div style="max-width: 1200px; margin: 0 auto 2rem; padding: 0 1.5rem;">
+      <div style="background: rgba(245, 158, 11, 0.05); border: 1px dashed rgba(245, 158, 11, 0.35); border-radius: 12px; padding: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <span style="color: var(--accent-amber); font-weight: 700; font-size: 0.95rem;">🚀 Launching a Developer Tool or AI SaaS?</span>
+          <p style="color: var(--text-muted); font-size: 0.825rem; margin-top: 0.2rem;">
+            Feature your tool at the top of this directory and in our scheduled feeds for 30 days. Direct founder placement.
+          </p>
+        </div>
+        <a href="https://buy.stripe.com/test_placeholder_devdeals" target="_blank" rel="noopener noreferrer" style="background: var(--accent-amber); color: #0a0e17; font-weight: 700; font-size: 0.85rem; padding: 0.6rem 1.1rem; border-radius: 8px; text-decoration: none;">
+          Promote Your Product ($29/mo) &rarr;
+        </a>
+      </div>
+    </div>
+
+    <!-- Filter & Search Controls -->
+    <div class="controls-bar">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="dealSearch" class="search-input" placeholder="Search by tool, cloud credits, or keyword...">
+      </div>
+      <div class="filter-tags" id="categoryFilters">
+        <button class="tag-btn active" data-cat="all">All ({{total_items}})</button>
+        <button class="tag-btn" data-cat="Cloud & Hosting">Cloud & Hosting</button>
+        <button class="tag-btn" data-cat="AI & SaaS">AI & SaaS</button>
+        <button class="tag-btn" data-cat="Developer Tools">Developer Tools</button>
+        <button class="tag-btn" data-cat="Open Source & Free Tools">Open Source</button>
+      </div>
+    </div>
+
+    <!-- Live Grid of Deals -->
+    <section class="deals-grid" id="dealsContainer">
+      {{deals_html}}
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 <strong>{{site_name}}</strong>. Fully automated via GitHub Actions &amp; Python.</p>
+    <p class="disclosure">
+      <strong>Affiliate Disclosure:</strong> This directory is completely free for our community. Some links above contain affiliate tracking links where we may earn a referral commission at no additional cost to you. We only index legitimate developer resources, official credit programs, and high-value tools.
+    </p>
+  </footer>
+
+  <script>
+    // Client-side instant filter and search
+    const searchInput = document.getElementById('dealSearch');
+    const cards = document.querySelectorAll('.deal-card');
+    const filterBtns = document.querySelectorAll('.tag-btn');
+    let activeCategory = 'all';
+
+    function filterDeals() {
+      const term = searchInput.value.toLowerCase().trim();
+      cards.forEach(card => {
+        const title = card.getAttribute('data-title').toLowerCase();
+        const desc = card.getAttribute('data-desc').toLowerCase();
+        const cat = card.getAttribute('data-category');
+
+        const matchesSearch = title.includes(term) || desc.includes(term);
+        const matchesCategory = activeCategory === 'all' || cat === activeCategory;
+
+        if (matchesSearch && matchesCategory) {
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    searchInput.addEventListener('input', filterDeals);
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategory = btn.getAttribute('data-cat');
+        filterDeals();
+      });
+    });
+
+    // Real-time Cloud Savings Calculation Logic
+    const calcVm = document.getElementById('calcVm');
+    const calcDb = document.getElementById('calcDb');
+    const calcAi = document.getElementById('calcAi');
+    const calcResult = document.getElementById('calcResult');
+
+    function updateSavings() {
+      const vm = parseFloat(calcVm.value) || 0;
+      const db = parseFloat(calcDb.value) || 0;
+      const ai = parseFloat(calcAi.value) || 0;
+      const monthlyTotal = vm + db + ai;
+      const annualSavings = Math.round(monthlyTotal * 12);
+      calcResult.textContent = '$' + annualSavings.toLocaleString() + ' / yr';
+    }
+
+    if (calcVm && calcDb && calcAi) {
+      [calcVm, calcDb, calcAi].forEach(el => el.addEventListener('input', updateSavings));
+      updateSavings();
+    }
+  </script>
+</body>
+</html>

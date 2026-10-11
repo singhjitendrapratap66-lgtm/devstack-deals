@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DevStack & AI Deals Daily - Verified Tech Freebies & Discounts</title>
+  <meta name="description" content="Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #0a0e17;
+      --bg-card: #131b2e;
+      --bg-card-hover: #19243d;
+      --border-subtle: #233152;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent-blue: #3b82f6;
+      --accent-cyan: #06b6d4;
+      --accent-green: #10b981;
+      --accent-amber: #f59e0b;
+      --badge-featured: linear-gradient(135deg, #f59e0b, #ef4444);
+      --font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      font-family: var(--font-family);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      border-bottom: 1px solid var(--border-subtle);
+      background: rgba(10, 14, 23, 0.85);
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .navbar {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .logo-pulse {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--accent-cyan);
+      box-shadow: 0 0 12px var(--accent-cyan);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+
+    .badge-updated {
+      font-size: 0.75rem;
+      background: #1e293b;
+      color: var(--accent-cyan);
+      padding: 0.25rem 0.75rem;
+      border-radius: 9999px;
+      border: 1px solid #334155;
+      font-weight: 500;
+    }
+
+    .hero {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 2rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #ffffff 40%, var(--accent-cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      color: var(--text-muted);
+      font-size: 1.125rem;
+      max-width: 700px;
+      margin: 0 auto 2rem;
+    }
+
+    .controls-bar {
+      max-width: 1200px;
+      margin: 0 auto 2rem;
+      padding: 0 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 260px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: #fff;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      border-radius: 10px;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-blue);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .filter-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .tag-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 0.5rem 0.85rem;
+      border-radius: 8px;
+      font-size: 0.825rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tag-btn.active, .tag-btn:hover {
+      background: var(--accent-blue);
+      color: #fff;
+      border-color: var(--accent-blue);
+    }
+
+    .monetization-banner {
+      max-width: 1200px;
+      margin: 0 auto 2.5rem;
+      padding: 0 1.5rem;
+    }
+
+    .banner-inner {
+      background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(6, 182, 212, 0.1));
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      padding: 1.5rem;
+      border-radius: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .banner-text h3 {
+      font-size: 1.15rem;
+      margin-bottom: 0.25rem;
+      color: #fff;
+    }
+
+    .banner-text p {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    .banner-cta {
+      background: var(--accent-blue);
+      color: #fff;
+      padding: 0.65rem 1.25rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-decoration: none;
+      transition: background 0.2s;
+      white-space: nowrap;
+    }
+
+    .banner-cta:hover {
+      background: #2563eb;
+    }
+
+    .deals-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.5rem;
+      flex: 1;
+    }
+
+    .deal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s, background 0.2s, border-color 0.2s;
+      position: relative;
+    }
+
+    .deal-card:hover {
+      background: var(--bg-card-hover);
+      transform: translateY(-3px);
+      border-color: #3b82f6;
+    }
+
+    .deal-card.is-featured {
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      background: linear-gradient(180deg, rgba(245, 158, 11, 0.05) 0%, var(--bg-card) 40%);
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .deal-badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .badge-partner {
+      background: rgba(245, 158, 11, 0.2);
+      color: var(--accent-amber);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+
+    .badge-community {
+      background: rgba(16, 185, 129, 0.15);
+      color: var(--accent-green);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+
+    .deal-category {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .deal-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.35;
+      margin-bottom: 0.75rem;
+    }
+
+    .deal-desc {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+      flex: 1;
+    }
+
+    .pricing-box {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    .price-value {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent-green);
+    }
+
+    .original-price {
+      font-size: 0.85rem;
+      color: #64748b;
+      text-decoration: line-through;
+      margin-left: 0.5rem;
+    }
+
+    .deal-btn {
+      display: block;
+      text-align: center;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 0.75rem;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.2s, box-shadow 0.2s;
+    }
+
+    .deal-btn:hover {
+      background: #1d4ed8;
+      box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+    }
+
+    footer {
+      border-top: 1px solid var(--border-subtle);
+      margin-top: 4rem;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    footer a {
+      color: var(--accent-cyan);
+      text-decoration: none;
+    }
+
+    .disclosure {
+      max-width: 800px;
+      margin: 1rem auto 0;
+      font-size: 0.75rem;
+      color: #64748b;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="navbar">
+      <a href="#" class="logo">
+        <div class="logo-pulse"></div>
+        <span>DevStack & AI Deals Daily</span>
+      </a>
+      <div class="badge-updated">● Updated: 2026-10-06 20:56:06 UTC</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Automated Tech Deals & Free Developer Credits</h1>
+      <p>Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.</p>
+    </section>
+
+    <!-- Sponsored Lead / Ad Slot -->
+    <div class="monetization-banner">
+      <div class="banner-inner">
+        <div class="banner-text">
+          <h3>⚡ Developer Starter Kit: $200 in Free Cloud Compute</h3>
+          <p>Spin up cloud databases, AI APIs, and Docker apps at zero cost with DigitalOcean developer credits.</p>
+        </div>
+        <a href="https://m.do.co/c/devdealspulse" target="_blank" rel="noopener noreferrer sponsored" class="banner-cta">Claim $200 Credits &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Interactive Client-Side Wedge: Cloud & Dev Free Tier Savings Calculator -->
+    <section class="calculator-section" style="max-width: 1200px; margin: 0 auto 2.5rem; padding: 0 1.5rem;">
+      <div style="background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: 14px; padding: 1.75rem;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.25rem;">
+          <div>
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: #fff; margin-bottom: 0.25rem;">
+              🧮 Free Tier Cloud & Dev Savings Calculator
+            </h3>
+            <p style="color: var(--text-muted); font-size: 0.875rem;">
+              Calculate how much you save yearly by utilizing verified developer credits &amp; open-source tiers instead of paid retail SaaS.
+            </p>
+          </div>
+          <span style="background: rgba(16, 185, 129, 0.15); color: var(--accent-green); border: 1px solid rgba(16, 185, 129, 0.3); font-size: 0.75rem; font-weight: 700; padding: 0.25rem 0.65rem; border-radius: 6px;">
+            100% CLIENT-SIDE UTILITY
+          </span>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">Cloud Compute & VMs (monthly spend)</label>
+            <input type="number" id="calcVm" value="48" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">Managed Database & Auth (monthly spend)</label>
+            <input type="number" id="calcDb" value="25" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div>
+            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem;">AI API & SaaS Subscriptions (monthly spend)</label>
+            <input type="number" id="calcAi" value="40" style="width: 100%; background: #0a0e17; border: 1px solid var(--border-subtle); color: #fff; padding: 0.6rem 0.8rem; border-radius: 8px;">
+          </div>
+          <div style="background: rgba(59, 130, 246, 0.08); border: 1px dashed rgba(59, 130, 246, 0.4); border-radius: 8px; padding: 0.85rem; display: flex; flex-direction: column; justify-content: center; text-align: center;">
+            <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Estimated Annual Savings</span>
+            <span id="calcResult" style="font-size: 1.6rem; font-weight: 800; color: var(--accent-cyan);">$1,356 / yr</span>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; padding-top: 1rem; border-top: 1px solid var(--border-subtle);">
+          <span style="font-size: 0.8rem; color: #64748b;">
+            💡 Based on $200 DigitalOcean trial + Supabase free tier + open-source self-hosting credits.
+          </span>
+          <a href="https://m.do.co/c/devdealspulse" target="_blank" rel="noopener noreferrer sponsored" style="color: var(--accent-cyan); font-size: 0.85rem; font-weight: 600; text-decoration: none;">
+            Claim $200 Compute Credits to Start Saving &rarr;
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Direct Sponsor Submission / Monetization Wedge -->
+    <div style="max-width: 1200px; margin: 0 auto 2rem; padding: 0 1.5rem;">
+      <div style="background: rgba(245, 158, 11, 0.05); border: 1px dashed rgba(245, 158, 11, 0.35); border-radius: 12px; padding: 1.25rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <span style="color: var(--accent-amber); font-weight: 700; font-size: 0.95rem;">🚀 Launching a Developer Tool or AI SaaS?</span>
+          <p style="color: var(--text-muted); font-size: 0.825rem; margin-top: 0.2rem;">
+            Feature your tool at the top of this directory and in our scheduled feeds for 30 days. Direct founder placement.
+          </p>
+        </div>
+        <a href="https://buy.stripe.com/test_placeholder_devdeals" target="_blank" rel="noopener noreferrer" style="background: var(--accent-amber); color: #0a0e17; font-weight: 700; font-size: 0.85rem; padding: 0.6rem 1.1rem; border-radius: 8px; text-decoration: none;">
+          Promote Your Product ($29/mo) &rarr;
+        </a>
+      </div>
+    </div>
+
+    <!-- Filter & Search Controls -->
+    <div class="controls-bar">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="dealSearch" class="search-input" placeholder="Search by tool, cloud credits, or keyword...">
+      </div>
+      <div class="filter-tags" id="categoryFilters">
+        <button class="tag-btn active" data-cat="all">All (46)</button>
+        <button class="tag-btn" data-cat="Cloud & Hosting">Cloud & Hosting</button>
+        <button class="tag-btn" data-cat="AI & SaaS">AI & SaaS</button>
+        <button class="tag-btn" data-cat="Developer Tools">Developer Tools</button>
+        <button class="tag-btn" data-cat="Open Source & Free Tools">Open Source</button>
+      </div>
+    </div>
+
+    <!-- Live Grid of Deals -->
+    <section class="deals-grid" id="dealsContainer">
+      
+      <article class="deal-card is-featured" data-title="DigitalOcean $200 Cloud Credits (60-Day Trial)" data-desc="Deploy VMs, Docker containers, and managed Kubernetes with $200 free starter infrastructure credits for engineers." data-category="Cloud &amp; Hosting">
+        <div class="card-top">
+          <span class="deal-badge badge-partner">FREE $200 CREDITS</span>
+          <span class="deal-category">Cloud &amp; Hosting</span>
+        </div>
+        <h2 class="deal-title">DigitalOcean $200 Cloud Credits (60-Day Trial)</h2>
+        <p class="deal-desc">Deploy VMs, Docker containers, and managed Kubernetes with $200 free starter infrastructure credits for engineers.</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">$0.00</span>
+            <span class="original-price">$200.00</span>
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Official Partner</span>
+        </div>
+        <a href="https://m.do.co/c/devdealspulse" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card is-featured" data-title="GitHub Student Developer Pack (Free SaaS Suite)" data-desc="Over $200k in free cloud credits, domain names from Namecheap, JetBrains IDE licenses, and Canva Pro for students and learners." data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-partner">100% FREE</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">GitHub Student Developer Pack (Free SaaS Suite)</h2>
+        <p class="deal-desc">Over $200k in free cloud credits, domain names from Namecheap, JetBrains IDE licenses, and Canva Pro for students and learners.</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free</span>
+            <span class="original-price">$200,000 value</span>
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Official Partner</span>
+        </div>
+        <a href="https://education.github.com/pack" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card is-featured" data-title="Supabase - Open Source Firebase Alternative" data-desc="Generous free PostgreSQL database, authentication, storage, and auto-generated REST/GraphQL APIs with instant setup." data-category="Cloud &amp; Hosting">
+        <div class="card-top">
+          <span class="deal-badge badge-partner">FREE TIER</span>
+          <span class="deal-category">Cloud &amp; Hosting</span>
+        </div>
+        <h2 class="deal-title">Supabase - Open Source Firebase Alternative</h2>
+        <p class="deal-desc">Generous free PostgreSQL database, authentication, storage, and auto-generated REST/GraphQL APIs with instant setup.</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">$0 / mo</span>
+            <span class="original-price">$25 / mo</span>
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Official Partner</span>
+        </div>
+        <a href="https://supabase.com/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card is-featured" data-title="AppSumo AI Productivity &amp; Lifetime SaaS Deals" data-desc="Curated pay-once-use-forever software licenses for AI copywriting, SEO auditing, video generation, and CRM tools." data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-partner">UP TO 90% OFF</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">AppSumo AI Productivity &amp; Lifetime SaaS Deals</h2>
+        <p class="deal-desc">Curated pay-once-use-forever software licenses for AI copywriting, SEO auditing, video generation, and CRM tools.</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">$49 Lifetime</span>
+            <span class="original-price">$600 / yr</span>
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Official Partner</span>
+        </div>
+        <a href="https://appsumo.8odi.net/devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Tapo (Rust/Python library) now speaks TP-Link&#x27;s TPAP protocol" data-desc="Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/ Comments URL: https://news.ycombinator.com/item?id=49978563 Points: 118 # Comments: 53" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Tapo (Rust/Python library) now speaks TP-Link&#x27;s TPAP protocol</h2>
+        <p class="deal-desc">Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/ Comments URL: https://news.ycombinator.com/item?id=49978563 Points: 118 # Comments: 53</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Mistral Large 4" data-desc="https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1362 # Comments: 853" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Mistral Large 4</h2>
+        <p class="deal-desc">https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1362 # Comments: 853</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://mistral.ai/news/mistral-large-4/\?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Polars 2.0" data-desc="Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 372 # Comments: 86" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Polars 2.0</h2>
+        <p class="deal-desc">Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 372 # Comments: 86</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://pola.rs/posts/release-polars-2/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="World&#x27;s First enhanced geothermal power plant completed in just 23 months" data-desc="Article URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/ Comments URL: https://news.ycombinator.com/item?id=49976993 Points: 137 # Comments: 57" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">World&#x27;s First enhanced geothermal power plant completed in just 23 months</h2>
+        <p class="deal-desc">Article URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/ Comments URL: https://news.ycombinator.com/item?id=49976993 Points: 137 # Comments: 57</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Nature&#x27;s capacity to &#x27;bounce back&#x27; when species are lost is overestimated: study" data-desc="Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 277 # Comments: 140" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Nature&#x27;s capacity to &#x27;bounce back&#x27; when species are lost is overestimated: study</h2>
+        <p class="deal-desc">Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 277 # Comments: 140</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Nobel Prize in Physics 2026: Francis Halzen" data-desc="Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 461 # Comments: 153" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Nobel Prize in Physics 2026: Francis Halzen</h2>
+        <p class="deal-desc">Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 461 # Comments: 153</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://www.nobelprize.org/prizes/physics/2026/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Gleam doesn&#x27;t compile to Erlang source anymore" data-desc="Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points: 262 # Comments: 105" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Gleam doesn&#x27;t compile to Erlang source anymore</h2>
+        <p class="deal-desc">Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points: 262 # Comments: 105</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Example.com just launched the biggest redesign in decades" data-desc="Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 328 # Comments: 220" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Example.com just launched the biggest redesign in decades</h2>
+        <p class="deal-desc">Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 328 # Comments: 220</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://www.debugbear.com/blog/example-dot-com-redesign-history?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Friendship ended with Deno, now Node is my best friend" data-desc="Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 296 # Comments: 223" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Friendship ended with Deno, now Node is my best friend</h2>
+        <p class="deal-desc">Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 296 # Comments: 223</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://dbushell.com/2026/10/03/deno-to-node/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Find the flattest route between any two points in SF" data-desc="Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 295 # Comments: 104" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Find the flattest route between any two points in SF</h2>
+        <p class="deal-desc">Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 295 # Comments: 104</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://flattensf.com/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Dust: Pretraining Transformers Without Backpropagation" data-desc="Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 262 # Comments: 76" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Dust: Pretraining Transformers Without Backpropagation</h2>
+        <p class="deal-desc">Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 262 # Comments: 76</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://qlabs.sh/research/dust?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Beam: Reflection&#x27;s 501B open-weight model" data-desc="Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 530 # Comments: 164" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Beam: Reflection&#x27;s 501B open-weight model</h2>
+        <p class="deal-desc">Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 530 # Comments: 164</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://reflection.ai/blog/introducing-beam?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Benchmark in Milliseconds" data-desc="Article URL: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html Comments URL: https://news.ycombinator.com/item?id=49967427 Points: 105 # Comments: 24" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Benchmark in Milliseconds</h2>
+        <p class="deal-desc">Article URL: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html Comments URL: https://news.ycombinator.com/item?id=49967427 Points: 105 # Comments: 24</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://matklad.github.io/2026/10/05/benchmark-milliseconds.html?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Best-selling Zigbee temperature sensors tested and compared" data-desc="Article URL: https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/ Comments URL: https://news.ycombinator.com/item?id=49950653 Points: 216 # Comments: 116" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Best-selling Zigbee temperature sensors tested and compared</h2>
+        <p class="deal-desc">Article URL: https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/ Comments URL: https://news.ycombinator.com/item?id=49950653 Points: 216 # Comments: 116</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Direct retinal projection display for smart glasses using a meta-optic mirror" data-desc="Article URL: https://www.tdk.com/en/news_center/press/20261002_01.html Comments URL: https://news.ycombinator.com/item?id=49944369 Points: 114 # Comments: 55" data-category="Open Source &amp; Free Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Open Source &amp; Free Tools</span>
+        </div>
+        <h2 class="deal-title">Direct retinal projection display for smart glasses using a meta-optic mirror</h2>
+        <p class="deal-desc">Article URL: https://www.tdk.com/en/news_center/press/20261002_01.html Comments URL: https://news.ycombinator.com/item?id=49944369 Points: 114 # Comments: 55</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: GitHub Trending &amp; Explore</span>
+        </div>
+        <a href="https://www.tdk.com/en/news_center/press/20261002_01.html?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="How my Mac game turns a screenshot into a destructible level (no OCR)" data-desc="At the end of September, Destroy Any Website by Hugo Duprez went viral: a little guy with a jetpack and a gun wrecks whatever page you&#x27;re on. I wanted the same thing for the apps I actually stare at all day, like Slack, Jira, Xcode and my inbox. The catch is that on a web page th" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">How my Mac game turns a screenshot into a destructible level (no OCR)</h2>
+        <p class="deal-desc">At the end of September, Destroy Any Website by Hugo Duprez went viral: a little guy with a jetpack and a gun wrecks whatever page you&#x27;re on. I wanted the same thing for the apps I actually stare at all day, like Slack, Jira, Xcode and my inbox. The catch is that on a web page th</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/alex_alex_alex/how-my-mac-game-turns-a-screenshot-into-a-destructible-level-no-ocr-18d9?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Compressing 4K Video in the Browser: Replacing $20/mo Cloud SaaS with WebCodecs &amp; WebGPU" data-desc="Cloud video compressors are one of the most frustrating traps on the web: &quot;Your video exceeds the 500MB free upload limit. Please upgrade to Pro for $19.99/mo to continue.&quot; Why are developers transferring gigabytes of raw 4K video over the internet just to re-encode H.264 / AV1 f" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">Compressing 4K Video in the Browser: Replacing $20/mo Cloud SaaS with WebCodecs &amp; WebGPU</h2>
+        <p class="deal-desc">Cloud video compressors are one of the most frustrating traps on the web: &quot;Your video exceeds the 500MB free upload limit. Please upgrade to Pro for $19.99/mo to continue.&quot; Why are developers transferring gigabytes of raw 4K video over the internet just to re-encode H.264 / AV1 f</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/khaithisran/compressing-4k-video-in-the-browser-replacing-20mo-cloud-saas-with-webcodecs-webgpu-4od9?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="I kept re-explaining my project to Codex, so I built Cricino" data-desc="I&#x27;m building my first application, and I have really bad memory. probably not the best combination lol. I use Codex for a lot of the work. We&#x27;d make a decision, fix something, leave another idea for later, and then the next session I&#x27;d be trying to remember how all of it connecte" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">I kept re-explaining my project to Codex, so I built Cricino</h2>
+        <p class="deal-desc">I&#x27;m building my first application, and I have really bad memory. probably not the best combination lol. I use Codex for a lot of the work. We&#x27;d make a decision, fix something, leave another idea for later, and then the next session I&#x27;d be trying to remember how all of it connecte</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/meesam_abbas_4dacfd9a01d3/i-kept-re-explaining-my-project-to-codex-so-i-built-cricino-15gf?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="I put a public Deriv demo book on the internet. Rise/fall break-even sits near 53%." data-desc="I run a watch-only Deriv practice desk on GitHub Pages. You do not log in to watch it. Every demo fill is on the page. This is education. It is not a signal. The live book As of 6 October 2026 the public tape (still running) is: 62 CALL trades 33 wins, 29 losses 53.2% realized +$" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">I put a public Deriv demo book on the internet. Rise/fall break-even sits near 53%.</h2>
+        <p class="deal-desc">I run a watch-only Deriv practice desk on GitHub Pages. You do not log in to watch it. Every demo fill is on the page. This is education. It is not a signal. The live book As of 6 October 2026 the public tape (still running) is: 62 CALL trades 33 wins, 29 losses 53.2% realized +$</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/iedereesfrancis/i-put-a-public-deriv-demo-book-on-the-internet-risefall-break-even-sits-near-53-1flj?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="I turned my GitHub contribution graph into a Metro train" data-desc="My GitHub contribution graph is a metro train now. vineetjk (Vineet J Karni) · GitHub Best things need time! . vineetjk has 80 repositories available. Follow their code on GitHub. github.com A few days ago I listed my GitHub profile on the stock market . The stock, $VJK, gets its" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">I turned my GitHub contribution graph into a Metro train</h2>
+        <p class="deal-desc">My GitHub contribution graph is a metro train now. vineetjk (Vineet J Karni) · GitHub Best things need time! . vineetjk has 80 repositories available. Follow their code on GitHub. github.com A few days ago I listed my GitHub profile on the stock market . The stock, $VJK, gets its</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/vineetjk/i-turned-my-github-contribution-graph-into-a-metro-train-4m50?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Free Social, Travel Map, Trip Planner &amp; Where-to-Go Guide" data-desc="Find the best places to visit in any month, check the best time to visit 250 destinations, plan trips day by day, and map every country you&#x27;ve been to, all in one free platform. You&#x27;ve got a week off in July. Where should you go? For most of us, answering that question takes a do" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">Free Social, Travel Map, Trip Planner &amp; Where-to-Go Guide</h2>
+        <p class="deal-desc">Find the best places to visit in any month, check the best time to visit 250 destinations, plan trips day by day, and map every country you&#x27;ve been to, all in one free platform. You&#x27;ve got a week off in July. Where should you go? For most of us, answering that question takes a do</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/prashanthsams/free-social-travel-map-trip-planner-where-to-go-guide-ajp?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="a digital Squishy simulation for the browser! 🦠✨" data-desc="My Son Loves Squishies, So I Built Him One for the Browser Hacktoberfest Weekend Challenge: Build for a Friend Submission 🤝 DaC DaC DaC Follow Oct 4 My Son Loves Squishies, So I Built Him One for the Browser # devchallenge # weekendchallenge # hf26challenge 27 reactions 3 comment" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">a digital Squishy simulation for the browser! 🦠✨</h2>
+        <p class="deal-desc">My Son Loves Squishies, So I Built Him One for the Browser Hacktoberfest Weekend Challenge: Build for a Friend Submission 🤝 DaC DaC DaC Follow Oct 4 My Son Loves Squishies, So I Built Him One for the Browser # devchallenge # weekendchallenge # hf26challenge 27 reactions 3 comment</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/danielecangi/-24na?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="# I Built Toolkit360: One Simple Place for Everyday Digital Tools" data-desc="I often found myself switching between different websites for simple tasks—compressing an image, converting a PDF, generating a QR code, formatting JSON, creating an invoice, or previewing a 3D model. Each tool solved only one problem, but using many different websites made the w" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title"># I Built Toolkit360: One Simple Place for Everyday Digital Tools</h2>
+        <p class="deal-desc">I often found myself switching between different websites for simple tasks—compressing an image, converting a PDF, generating a QR code, formatting JSON, creating an invoice, or previewing a 3D model. Each tool solved only one problem, but using many different websites made the w</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/akash_max_d80b991c156d8db/-i-built-toolkit360-one-simple-place-for-everyday-digital-tools-1d6k?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Your Side Project Doesn’t Need a Pricing Page" data-desc="Somewhere between “I have an idea” and “I should build this,” a perfectly reasonable side project can turn into an imaginary software company. It starts with: “I want to make a tool that resizes images.” Then suddenly you’re thinking about subscription tiers, team accounts, onboa" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">Your Side Project Doesn’t Need a Pricing Page</h2>
+        <p class="deal-desc">Somewhere between “I have an idea” and “I should build this,” a perfectly reasonable side project can turn into an imaginary software company. It starts with: “I want to make a tool that resizes images.” Then suddenly you’re thinking about subscription tiers, team accounts, onboa</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/base31/your-side-project-doesnt-need-a-pricing-page-4978?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="I Built a Free Threads Video Downloader — Here&#x27;s What I Learned Shipping a Single-Purpose Tool" data-desc="A few months ago I kept running into the same complaint from creators: Threads has no download button. You see a video you want to keep — your own clip, a tutorial, something inspiring — and the app just doesn&#x27;t let you save it. The existing &quot;solutions&quot; were mostly ad-stuffed mob" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">I Built a Free Threads Video Downloader — Here&#x27;s What I Learned Shipping a Single-Purpose Tool</h2>
+        <p class="deal-desc">A few months ago I kept running into the same complaint from creators: Threads has no download button. You see a video you want to keep — your own clip, a tutorial, something inspiring — and the app just doesn&#x27;t let you save it. The existing &quot;solutions&quot; were mostly ad-stuffed mob</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/muhammad_shakir_b1085c496/i-built-a-free-threads-video-downloader-heres-what-i-learned-shipping-a-single-purpose-tool-3ki9?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Jev Decision Model" data-desc="Jev Decision Model The missing piece in agent commerce isn&#x27;t the payment — it&#x27;s the decision to pay . The Jev Decision Model wires TypeSafe&#x27;s Jev to confidence gates and per-decision x402 billing: the gate is the product. The model: Score ≥ 0.80 → agent pays automatically Score 0" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">Jev Decision Model</h2>
+        <p class="deal-desc">Jev Decision Model The missing piece in agent commerce isn&#x27;t the payment — it&#x27;s the decision to pay . The Jev Decision Model wires TypeSafe&#x27;s Jev to confidence gates and per-decision x402 billing: the gate is the product. The model: Score ≥ 0.80 → agent pays automatically Score 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/scriptmasterlabs01/jev-decision-model-3eo7?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Local Services Ads to Performance Max Migration" data-desc="Local Services Ads to Performance Max Migration Google is moving Local Services Ads advertisers toward Performance Max whether they&#x27;re ready or not. The Local Services Ads to Performance Max Migration guide is the migration-day playbook. What&#x27;s inside: Pre-migration backup checkl" data-category="Developer Tools">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">Developer Tools</span>
+        </div>
+        <h2 class="deal-title">Local Services Ads to Performance Max Migration</h2>
+        <p class="deal-desc">Local Services Ads to Performance Max Migration Google is moving Local Services Ads advertisers toward Performance Max whether they&#x27;re ready or not. The Local Services Ads to Performance Max Migration guide is the migration-day playbook. What&#x27;s inside: Pre-migration backup checkl</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Dev.to Discounts &amp; Tools</span>
+        </div>
+        <a href="https://dev.to/scriptmasterlabs01/local-services-ads-to-performance-max-migration-3hm7?ref=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Record labels are in a spin over AI music" data-desc="Article URL: https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music Comments URL: https://news.ycombinator.com/item?id=49983879 Points: 1 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Record labels are in a spin over AI music</h2>
+        <p class="deal-desc">Article URL: https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music Comments URL: https://news.ycombinator.com/item?id=49983879 Points: 1 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Enterprise AI is vaporware without access to systems of record" data-desc="Article URL: https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents Comments URL: https://news.ycombinator.com/item?id=49983597 Points: 2 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Enterprise AI is vaporware without access to systems of record</h2>
+        <p class="deal-desc">Article URL: https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents Comments URL: https://news.ycombinator.com/item?id=49983597 Points: 2 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Meta&#x27;s Muse AI agent is building a dossier on you" data-desc="Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/ Comments URL: https://news.ycombinator.com/item?id=49983579 Points: 8 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Meta&#x27;s Muse AI agent is building a dossier on you</h2>
+        <p class="deal-desc">Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/ Comments URL: https://news.ycombinator.com/item?id=49983579 Points: 8 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Most AI data businesses should run as cash / dividend businesses" data-desc="Article URL: https://twitter.com/gokulr/status/2107538431375241564 Comments URL: https://news.ycombinator.com/item?id=49983467 Points: 1 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Most AI data businesses should run as cash / dividend businesses</h2>
+        <p class="deal-desc">Article URL: https://twitter.com/gokulr/status/2107538431375241564 Comments URL: https://news.ycombinator.com/item?id=49983467 Points: 1 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://twitter.com/gokulr/status/2107538431375241564?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="OpenAI Dots: The New Always-On AI Agents from OpenAI" data-desc="Article URL: https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49983255 Points: 1 # Comments: 1" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">OpenAI Dots: The New Always-On AI Agents from OpenAI</h2>
+        <p class="deal-desc">Article URL: https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49983255 Points: 1 # Comments: 1</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Reducing the cognitive load of AI changes" data-desc="Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=49983006 Points: 2 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Reducing the cognitive load of AI changes</h2>
+        <p class="deal-desc">Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=49983006 Points: 2 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://amoffat.github.io/blog/cognitive-load.html?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Spurred on by AI usage Google Docs and Drive now support Markdown files natively" data-desc="Article URL: https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively Comments URL: https://news.ycombinator.com/item?id=49982940 Points: 3 # Comments: 1" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Spurred on by AI usage Google Docs and Drive now support Markdown files natively</h2>
+        <p class="deal-desc">Article URL: https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively Comments URL: https://news.ycombinator.com/item?id=49982940 Points: 3 # Comments: 1</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?" data-desc="I&#x27;m obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don&#x27;t know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It&#x27;s as old as hieroglyphs. I then went on a mission to have a sentence translat" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?</h2>
+        <p class="deal-desc">I&#x27;m obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don&#x27;t know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It&#x27;s as old as hieroglyphs. I then went on a mission to have a sentence translat</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://hieraticbench.vercel.app/?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="The biggest advance in AI since the LLM" data-desc="Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=49982799 Points: 3 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">The biggest advance in AI since the LLM</h2>
+        <p class="deal-desc">Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=49982799 Points: 3 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Kent Beck: Software Engineering in the Age of AI [video]" data-desc="Article URL: https://www.youtube.com/watch?v=F8fBgDCf2Y4 Comments URL: https://news.ycombinator.com/item?id=49982715 Points: 2 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Kent Beck: Software Engineering in the Age of AI [video]</h2>
+        <p class="deal-desc">Article URL: https://www.youtube.com/watch?v=F8fBgDCf2Y4 Comments URL: https://news.ycombinator.com/item?id=49982715 Points: 2 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.youtube.com/watch?v=F8fBgDCf2Y4&amp;utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Optimizing Away Learning with AI" data-desc="Article URL: https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49982693 Points: 4 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Optimizing Away Learning with AI</h2>
+        <p class="deal-desc">Article URL: https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49982693 Points: 4 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Norway&#x27;s biggest bank DNB to lay off around 400 staff amid AI-driven changes" data-desc="Article URL: https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49982516 Points: 3 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Norway&#x27;s biggest bank DNB to lay off around 400 staff amid AI-driven changes</h2>
+        <p class="deal-desc">Article URL: https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49982516 Points: 3 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="The First Brain Manifesto: AI that amplifies the human brain" data-desc="Article URL: https://github.com/Serhii2009/first-brain Comments URL: https://news.ycombinator.com/item?id=49982462 Points: 1 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">The First Brain Manifesto: AI that amplifies the human brain</h2>
+        <p class="deal-desc">Article URL: https://github.com/Serhii2009/first-brain Comments URL: https://news.ycombinator.com/item?id=49982462 Points: 1 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://github.com/Serhii2009/first-brain?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="UT Austin Math Chair says OpenAI preparing to release 400 AI-generated proofs" data-desc="Article URL: https://twitter.com/Frances01896069/status/2107171555973185577 Comments URL: https://news.ycombinator.com/item?id=49982415 Points: 2 # Comments: 0" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">UT Austin Math Chair says OpenAI preparing to release 400 AI-generated proofs</h2>
+        <p class="deal-desc">Article URL: https://twitter.com/Frances01896069/status/2107171555973185577 Comments URL: https://news.ycombinator.com/item?id=49982415 Points: 2 # Comments: 0</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://twitter.com/Frances01896069/status/2107171555973185577?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+
+      <article class="deal-card " data-title="Show HN: Talk to Sam (AI) and send a real letter by post" data-desc="I built a little piece of Her. Remember Theodore&#x27;s job writing letters for other people? You talk to Sam, edit the letter together, then have it printed and mailed. I put a lot of time and effort into making it feel as close to the movie as possible. Very happy with the animation" data-category="AI &amp; SaaS">
+        <div class="card-top">
+          <span class="deal-badge badge-community">COMMUNITY DEAL</span>
+          <span class="deal-category">AI &amp; SaaS</span>
+        </div>
+        <h2 class="deal-title">Show HN: Talk to Sam (AI) and send a real letter by post</h2>
+        <p class="deal-desc">I built a little piece of Her. Remember Theodore&#x27;s job writing letters for other people? You talk to Sam, edit the letter together, then have it printed and mailed. I put a lot of time and effort into making it feel as close to the movie as possible. Very happy with the animation</p>
+        <div class="pricing-box">
+          <div>
+            <span class="price-value">Free / Discounted</span>
+            
+          </div>
+          <span style="font-size:0.75rem; color:#64748b;">Source: Product Hunt Tech Launches</span>
+        </div>
+        <a href="https://www.sendwithsam.com?utm_source=devdeals" target="_blank" rel="noopener noreferrer sponsored" class="deal-btn">
+          Claim Deal / View Tool &rarr;
+        </a>
+      </article>
+    
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 <strong>DevStack & AI Deals Daily</strong>. Fully automated via GitHub Actions &amp; Python.</p>
+    <p class="disclosure">
+      <strong>Affiliate Disclosure:</strong> This directory is completely free for our community. Some links above contain affiliate tracking links where we may earn a referral commission at no additional cost to you. We only index legitimate developer resources, official credit programs, and high-value tools.
+    </p>
+  </footer>
+
+  <script>
+    // Client-side instant filter and search
+    const searchInput = document.getElementById('dealSearch');
+    const cards = document.querySelectorAll('.deal-card');
+    const filterBtns = document.querySelectorAll('.tag-btn');
+    let activeCategory = 'all';
+
+    function filterDeals() {
+      const term = searchInput.value.toLowerCase().trim();
+      cards.forEach(card => {
+        const title = card.getAttribute('data-title').toLowerCase();
+        const desc = card.getAttribute('data-desc').toLowerCase();
+        const cat = card.getAttribute('data-category');
+
+        const matchesSearch = title.includes(term) || desc.includes(term);
+        const matchesCategory = activeCategory === 'all' || cat === activeCategory;
+
+        if (matchesSearch && matchesCategory) {
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    searchInput.addEventListener('input', filterDeals);
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategory = btn.getAttribute('data-cat');
+        filterDeals();
+      });
+    });
+
+    // Real-time Cloud Savings Calculation Logic
+    const calcVm = document.getElementById('calcVm');
+    const calcDb = document.getElementById('calcDb');
+    const calcAi = document.getElementById('calcAi');
+    const calcResult = document.getElementById('calcResult');
+
+    function updateSavings() {
+      const vm = parseFloat(calcVm.value) || 0;
+      const db = parseFloat(calcDb.value) || 0;
+      const ai = parseFloat(calcAi.value) || 0;
+      const monthlyTotal = vm + db + ai;
+      const annualSavings = Math.round(monthlyTotal * 12);
+      calcResult.textContent = '$' + annualSavings.toLocaleString() + ' / yr';
+    }
+
+    if (calcVm && calcDb && calcAi) {
+      [calcVm, calcDb, calcAi].forEach(el => el.addEventListener('input', updateSavings));
+      updateSavings();
+    }
+  </script>
+</body>
+</html>
