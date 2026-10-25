@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-10-25 11:41:03 UTC",
+    "updated_at": "2026-10-25 15:38:21 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,9 +63,31 @@
       "date": "Oct 25, 2026"
     },
     {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "description": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 207 # Comments: 140",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order?ref=devdeals",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "description": "Article URL: https://loeffelholz-codex.org/en/ Comments URL: https://news.ycombinator.com/item?id=50230917 Points: 102 # Comments: 40",
+      "url": "https://loeffelholz-codex.org/en/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 25 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "description": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 107 # Comments: 36",
+      "url": "https://github.com/ihhub/fheroes2?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 25 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "description": "Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 203 # Comments: 133",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Sun, 25 Oct 2026",
@@ -75,7 +97,7 @@
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 193 # Comments: 64",
+      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 266 # Comments: 88",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -85,8 +107,19 @@
       "is_featured": false
     },
     {
+      "title": "Why Gopher in 2026?",
+      "description": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 108 # Comments: 59",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 24 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 380 # Comments: 385",
+      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 428 # Comments: 456",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +130,7 @@
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 463 # Comments: 409",
+      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 574 # Comments: 537",
       "url": "https://danluu.com/ambitious/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +141,7 @@
     },
     {
       "title": "Small Programs and Languages",
-      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 126 # Comments: 17",
+      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 152 # Comments: 21",
       "url": "https://ratfactor.com/cards/pl-small?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,8 +151,19 @@
       "is_featured": false
     },
     {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "description": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 103 # Comments: 33",
+      "url": "https://ratfactor.com/cards/limitations?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 24 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "SpeedCrunch 1.1",
-      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 161 # Comments: 29",
+      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 190 # Comments: 37",
       "url": "https://www.speedcrunch.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -130,7 +174,7 @@
     },
     {
       "title": "The Goose Programming Language",
-      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 262",
+      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 495 # Comments: 303",
       "url": "https://aardappel.github.io/goose/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -140,19 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "Bbtree: Fastest Ordered Map",
-      "description": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 119 # Comments: 14",
-      "url": "https://bbtree.xiangpeng.systems/post/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 121 # Comments: 39",
+      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 130 # Comments: 43",
       "url": "https://de.numista.com/9866?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -162,19 +195,8 @@
       "is_featured": false
     },
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 288 # Comments: 203",
-      "url": "https://blog.roku.com/developer/gitlab-move?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Neural chip decodes interactions between brain regions",
-      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 111 # Comments: 43",
+      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 126 # Comments: 46",
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -185,7 +207,7 @@
     },
     {
       "title": "FreeDNS",
-      "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 300 # Comments: 83",
+      "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 324 # Comments: 85",
       "url": "https://freedns.afraid.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -196,7 +218,7 @@
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 262 # Comments: 73",
+      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 299 # Comments: 74",
       "url": "https://github.com/Zagitta/gpu-unlock?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -206,31 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "I don't understand quantum physics (2018)",
-      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 321 # Comments: 257",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "description": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 332 # Comments: 157",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Bilibili video stats, comments and danmaku as JSON with Python (no login)",
-      "description": "Bilibili (哔哩哔哩, B站) is one of China's biggest video sites. If you research how a product, game or topic lands with Chinese viewers, the numbers are richer than on most platforms: besides views and likes there are coins, favorites, shares, and danmaku (弹幕), the comments that fly a",
-      "url": "https://dev.to/serenido/bilibili-video-stats-comments-and-danmaku-as-json-with-python-no-login-a63?ref=devdeals",
+      "title": "TikTok photo posts have no video file, so I stopped looking for one",
+      "description": "Most TikTok downloaders fail on photo posts in the same quiet way. You paste the link, press download, and you get the background song instead of the pictures. That is not a bug in one tool. It is how a TikTok photo post works. There is no video file behind it. The post is a set ",
+      "url": "https://dev.to/mobeenahmedgondal/tiktok-photo-posts-have-no-video-file-so-i-stopped-looking-for-one-1e8a?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
-      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat Hello Developers, That's a wrap on Halloween DEV Challenge 1: Trick or Treat? , hosted by Google Developer Groups on Campus at Visvesvaraya Technological University (VTU), Belagavi. This internal community challenge encouraged chapter",
-      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf?ref=devdeals",
+      "title": "I built a free video downloader that runs on plain PHP hosting",
+      "description": "I wanted a simple way to save a video I had the right to keep, without installing an app or wading through pop-ups. Most tools I tried were slow, cluttered, or stopped working after a few weeks. So I built my own: RamRom. RamRom is a free web tool. You paste a link, it finds the ",
+      "url": "https://dev.to/mobeenahmedgondal/i-built-a-free-video-downloader-that-runs-on-plain-php-hosting-1cbh?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Pausing the one Amazon SES lane that's bouncing, and proving the pause took",
-      "description": "A small shop usually sends all its mail through one Amazon SES account: receipts, password resets, the newsletter. SES judges bounces across the whole account, so one stale list imported into the newsletter can take the password resets down with it. I built Fothering for the AWS ",
-      "url": "https://dev.to/voyagi/pausing-the-one-amazon-ses-lane-thats-bouncing-and-proving-the-pause-took-3b7j?ref=devdeals",
+      "title": "TikTok rejected our scheduler as \"internal use\", so we made it a real product. Approved 10 days later.",
+      "description": "In October 2026 we applied for TikTok's Content Posting API for a scheduling tool we used for our own small media brands. TikTok rejected it on 12 October: tools for personal or internal company use are not eligible, and the site said \"not open for public sign-up\". We had two opt",
+      "url": "https://dev.to/viralgenhub/tiktok-rejected-our-scheduler-as-internal-use-so-we-made-it-a-real-product-approved-10-days-10ep?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Ankita v2.7.0: undo for destructive actions — and skill permissions that advise, not enforce",
-      "description": "Ankita is my open-source personal AI companion for the desktop — a little companion, a lot more possible. It runs locally, it uses your models, and it does real things on your machine: editing files, moving them, deleting them. That last part is why v2.7.0, released today, is bui",
-      "url": "https://dev.to/krish_verma_77e28d3fd63ca/ankita-v270-undo-for-destructive-actions-and-skill-permissions-that-advise-not-enforce-2kb7?ref=devdeals",
+      "title": "Your habit app died on day 3. A photo might have saved it.",
+      "description": "You have done it for a day or two before, and stopped. Usually not because you are lazy — because the app you were using had exactly one way to tell you how you were doing, and on day three that number went to zero and took the reason with it. Once a streak reads zero, there is n",
+      "url": "https://dev.to/coachdanielg/your-habit-app-died-on-day-3-a-photo-might-have-saved-it-4i36?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Building UtilityFlow.in: 20 Privacy-First Browser Utilities in a Single Zero-Server App",
-      "description": "Every developer has been there: you just need to quickly format a JSON payload, check a code diff, validate an international IBAN, or merge two images into a PDF. You search Google, click the first result, and get hit with cookie banners, \"Upload to our cloud server\" spinners, or",
-      "url": "https://dev.to/santarana5/building-utilityflowin-20-privacy-first-browser-utilities-in-a-single-zero-server-app-544?ref=devdeals",
+      "title": "Buying the dip without catching the knife: a 2-line crypto pullback rule, walk-forward validated across 40 coins",
+      "description": "\"Buy the dip\" is the most repeated advice in crypto — and following it blindly is one of the most reliable ways to lose money. A 6% pullback inside a bull market and a 6% bleed on the way to zero print the same red candle. One is an opportunity; the other is a knife. We built Tre",
+      "url": "https://dev.to/fu_liang_dfbec863ed6c21e3/buying-the-dip-without-catching-the-knife-a-2-line-crypto-pullback-rule-walk-forward-validated-3g5p?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Building a TCG price API solo: asking price is not sold price",
-      "description": "I build Flipzi, a price API for trading cards, on my own. It began as a collection tracker, where I kept running into the same problem: a card's visible price usually describes what a seller wants, not what a buyer paid. That distinction became the central design decision behind ",
-      "url": "https://dev.to/flipzi/building-a-tcg-price-api-solo-asking-price-is-not-sold-price-22n5?ref=devdeals",
+      "title": "Who is Aayush Bhatta? (@aayushifty) — Building Local AI Systems from Kathmandu",
+      "description": "Who is Aayush Bhatta? I am Aayush Bhatta (known online across developer networks as @aayushifty and on Instagram as @aayushshshhshifty ). I am a Grade 12 student, local AI systems builder, and UI/UX designer based in Kathmandu, Nepal. What I Build JARVIS AI Assistant : Multimodal",
+      "url": "https://dev.to/aayushifty/who-is-aayush-bhatta-aayushifty-building-local-ai-systems-from-kathmandu-22mg?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Introducing OrgExplorer v1.0.0: Making Open-Source Organization Insights More Accessible",
-      "description": "Finally, we're excited to announce the first release of OrgExplorer v1.0.0 , launched on October 25, 2026! OrgExplorer started with a simple idea: building a platform that helps contributors, mentors, and organization admins better understand their open-source communities through",
-      "url": "https://dev.to/rahul_vyas_cd4ab88ce6c842/introducing-orgexplorer-v100-making-open-source-organization-insights-more-accessible-193e?ref=devdeals",
+      "title": "Introducing H&F Giving: We’ve already achieved a lot in a short time!",
+      "description": "About H&F Giving We’ve already achieved a lot in a short time! But this is just the start for us… Key capabilities ~10,000: people in need reached via 50+ community partners annually Product details The following overview draws on the product's website. Looking to contribute? Fin",
+      "url": "https://dev.to/saletise/introducing-hf-giving-weve-already-achieved-a-lot-in-a-short-time-3egc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Runner: the desktop tool I use to manage my coding agents",
-      "description": "Hi everyone, I've been working on a few personal projects with coding agents and gradually settled into a workflow that works for me. I wanted to share a small tool I've been building and using myself, Runner . If you use several agents too, I'd appreciate you giving it a try and",
-      "url": "https://dev.to/yicheng47/runner-the-desktop-tool-i-use-to-manage-my-coding-agents-2431?ref=devdeals",
+      "title": "I built a live \"story of Earth\" in one HTML file, on free open data and a free database published: true",
+      "description": "Three weeks ago I published EarthVault, a web app where the whole planet is the game board: quiz games on real World Bank numbers, a 3D globe with live fires, storms and earthquakes, guided data stories, and a country profile for every nation. It is free, has no login, no ads, wo",
+      "url": "https://dev.to/charalambos_mitropoulos_7/i-built-a-live-story-of-earth-in-one-html-file-on-free-open-data-and-a-free-database-published-ghb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "AI Tool Discovery Log: Week of Local-First Experiments and Futurepedia Noise",
-      "description": "Every week I run StackIndex AI's discovery engine across Product Hunt and Futurepedia, dedup the results, and try to make sense of what actually launched versus what just showed up in the feed. Here's this week's honest read. The Futurepedia caveat, upfront Eight of this week's f",
-      "url": "https://dev.to/anders-rasmussen/ai-tool-discovery-log-week-of-local-first-experiments-and-futurepedia-noise-4ahh?ref=devdeals",
+      "title": "You Can Now Build Your Own Skill on Skill123 — Scored Before You Download It",
+      "description": "Our directory has evaluated 745 skills that other people wrote. Starting today, you can create your own — and it gets the same scorecard before you ever download it. The most common feedback we get is some version of \"I love the directory, but I want a skill for my own workflow, ",
+      "url": "https://dev.to/skill123/you-can-now-build-your-own-skill-on-skill123-scored-before-you-download-it-1le?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "I built \"CleanShot X for Windows\" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR",
-      "description": "If you use macOS, you probably love CleanShot X . On Windows 10/11, however, taking a clean screenshot, redacting sensitive info, adding step badges, or recording a quick GIF for a GitHub PR usually means juggling Snipping Tool , ShareX , an external video trimmer, and an online ",
-      "url": "https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je?ref=devdeals",
+      "title": "EnvTrail: compare Node.js environments without recording secret values",
+      "description": "“It works on my machine” usually leads to a few questions: Which Node version? Did the lockfile change? Is a variable missing from .env ? I made EnvTrail to put those checks in one comparison. Save a snapshot where the project works, then compare it with another machine. The outp",
+      "url": "https://dev.to/v1sion/envtrail-compare-nodejs-environments-without-recording-secret-values-850?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Hello DEV 👋 We're Cliqto Media, and we build web data tools",
-      "description": "Hi DEV community! We're Cliqto Media, a small independent digital media company. Since 2020 we've been building our own tools and brands. Most of them are for people who work with data and automation, so this is where we'll share the technical side of our work. What we build Apif",
-      "url": "https://dev.to/cliqtomedia/hello-dev-were-cliqto-media-and-we-build-web-data-tools-306i?ref=devdeals",
+      "title": "[Boost]",
+      "description": "Thooriga: Turning Endless Photo Searching into AI-Assisted Selection with Gemma Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥 Ayesha Siddiqa Ayesha Siddiqa Ayesha Siddiqa Follow Oct 25 Thooriga: Turning Endless Photo Searching into AI-Assisted Select",
+      "url": "https://dev.to/divya_sree_r_/-4jnh?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "Show DEV: HackWithUs, hackathons and growth programs where builders ship weekly",
-      "description": "HackWithUs is a series of hackathons and growth programs for builders and founders who want real traction, not just a demo. How it works Ship every week and report real traction Compete on a live leaderboard Win cash prizes: $10K in prizes, $1K+ per finalist Keep 100% of your com",
-      "url": "https://dev.to/placed/show-dev-hackwithus-hackathons-and-growth-programs-where-builders-ship-weekly-40a7?ref=devdeals",
+      "title": "Show DEV: I Built a Bayesian GitHub Action to Find the Commit That Broke Your C++ Project",
+      "description": "Show DEV: I Built a Bayesian GitHub Action to Find the Commit That Broke Your C++ Build Hey DEV community! 👋 I've been experimenting with probability theory and wanted to see whether Bayes' theorem could help identify which commit caused a failed CI build . So I built BayesCI , a",
+      "url": "https://dev.to/superuser038/show-dev-i-built-a-bayesian-github-action-to-find-the-commit-that-broke-your-c-project-2lo8?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
