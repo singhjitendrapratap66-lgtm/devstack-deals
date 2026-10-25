@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs & temp files
+*.log
+.tmp
+.system_generated/
+
+# Conversation transcripts and scratch logs
+184e86fd-7cae-4d0c-bcd5-0f859fe9a460/.system_generated/

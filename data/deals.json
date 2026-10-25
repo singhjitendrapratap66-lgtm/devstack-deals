@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-10-25 11:27:52 UTC",
+    "updated_at": "2026-10-25 11:39:27 UTC",
     "total_items": 46
   },
   "deals": [
@@ -64,7 +64,7 @@
     },
     {
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "description": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 189 # Comments: 121",
+      "description": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 207 # Comments: 140",
       "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 189 # Comments: 63",
+      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 193 # Comments: 64",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -86,7 +86,7 @@
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 376 # Comments: 382",
+      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 380 # Comments: 385",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +97,7 @@
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 458 # Comments: 408",
+      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 463 # Comments: 409",
       "url": "https://danluu.com/ambitious/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +108,7 @@
     },
     {
       "title": "Small Programs and Languages",
-      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 122 # Comments: 15",
+      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 126 # Comments: 17",
       "url": "https://ratfactor.com/cards/pl-small?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -119,7 +119,7 @@
     },
     {
       "title": "SpeedCrunch 1.1",
-      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 158 # Comments: 29",
+      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 161 # Comments: 29",
       "url": "https://www.speedcrunch.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -130,7 +130,7 @@
     },
     {
       "title": "The Goose Programming Language",
-      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 427 # Comments: 260",
+      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 262",
       "url": "https://aardappel.github.io/goose/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -140,8 +140,19 @@
       "is_featured": false
     },
     {
+      "title": "Bbtree: Fastest Ordered Map",
+      "description": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 119 # Comments: 14",
+      "url": "https://bbtree.xiangpeng.systems/post/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 24 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 120 # Comments: 39",
+      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 121 # Comments: 39",
       "url": "https://de.numista.com/9866?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +174,7 @@
     },
     {
       "title": "Neural chip decodes interactions between brain regions",
-      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 110 # Comments: 43",
+      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 111 # Comments: 43",
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -174,7 +185,7 @@
     },
     {
       "title": "FreeDNS",
-      "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 297 # Comments: 82",
+      "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 300 # Comments: 83",
       "url": "https://freedns.afraid.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -185,7 +196,7 @@
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 261 # Comments: 73",
+      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 262 # Comments: 73",
       "url": "https://github.com/Zagitta/gpu-unlock?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -196,7 +207,7 @@
     },
     {
       "title": "I don't understand quantum physics (2018)",
-      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 320 # Comments: 256",
+      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 321 # Comments: 257",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -207,7 +218,7 @@
     },
     {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "description": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 328 # Comments: 157",
+      "description": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 332 # Comments: 157",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -217,12 +228,12 @@
       "is_featured": false
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "description": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1601 # Comments: 247",
-      "url": "https://edjefferson.com/localwiki/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 22 Oct 2026",
+      "title": "Bilibili video stats, comments and danmaku as JSON with Python (no login)",
+      "description": "Bilibili (哔哩哔哩, B站) is one of China's biggest video sites. If you research how a product, game or topic lands with Chinese viewers, the numbers are richer than on most platforms: besides views and likes there are coins, favorites, shares, and danmaku (弹幕), the comments that fly a",
+      "url": "https://dev.to/serenido/bilibili-video-stats-comments-and-danmaku-as-json-with-python-no-login-a63?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Sun, 25 Oct 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
@@ -231,6 +242,17 @@
       "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
       "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat Hello Developers, That's a wrap on Halloween DEV Challenge 1: Trick or Treat? , hosted by Google Developer Groups on Campus at Visvesvaraya Technological University (VTU), Belagavi. This internal community challenge encouraged chapter",
       "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Sun, 25 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Pausing the one Amazon SES lane that's bouncing, and proving the pause took",
+      "description": "A small shop usually sends all its mail through one Amazon SES account: receipts, password resets, the newsletter. SES judges bounces across the whole account, so one stale list imported into the newsletter can take the password resets down with it. I built Fothering for the AWS ",
+      "url": "https://dev.to/voyagi/pausing-the-one-amazon-ses-lane-thats-bouncing-and-proving-the-pause-took-3b7j?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
@@ -330,28 +352,6 @@
       "title": "Show DEV: HackWithUs, hackathons and growth programs where builders ship weekly",
       "description": "HackWithUs is a series of hackathons and growth programs for builders and founders who want real traction, not just a demo. How it works Ship every week and report real traction Compete on a live leaderboard Win cash prizes: $10K in prizes, $1K+ per finalist Keep 100% of your com",
       "url": "https://dev.to/placed/show-dev-hackwithus-hackathons-and-growth-programs-where-builders-ship-weekly-40a7?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 25 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "How We Built a Zero-Backend, Infinite-Resolution QR Generator Entirely Client-Side",
-      "description": "There’s a silent, insidious battle being waged on the open web, and it's against a phenomenon I've come to call \"basic geometry hostage-taking.\" I'm talking about the egregious rise of \"dynamic QR code\" SaaS platforms that charge exorbitant monthly fees – often $45/month or more ",
-      "url": "https://dev.to/khaithisran/how-we-built-a-zero-backend-infinite-resolution-qr-generator-entirely-client-side-4j95?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 25 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "I built DreamDwell: one phone photo in, a finished listing or campaign out",
-      "description": "A photoshoot costs €1,500 to €5,000 and takes weeks. Most people skip it and post phone photos. I'm Pavel Sich, a founder based in Prague. In September 2026 I launched DreamDwell to fix that. The problem Good photos sell homes and products. But real estate agents, small brands an",
-      "url": "https://dev.to/pavel_sich_74b1433f4fdee6/i-built-dreamdwell-one-phone-photo-in-a-finished-listing-or-campaign-out-3klg?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 25 Oct 2026",
