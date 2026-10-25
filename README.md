@@ -1,5 +1,7 @@
 # DevStack & AI Deals Aggregator (Automated & Zero-Cost)
 
+<a href="https://www.digitalocean.com/?refcode=b8677cf8f4c9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+
 An automated, self-updating deals, cloud-credits, and AI software aggregator designed to run 100% on free-tier infrastructure (GitHub Actions + GitHub Pages).
 
 ---
