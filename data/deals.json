@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-10-25 11:12:11 UTC",
+    "updated_at": "2026-10-25 11:27:52 UTC",
     "total_items": 46
   },
   "deals": [
@@ -64,7 +64,7 @@
     },
     {
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "description": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 170 # Comments: 109",
+      "description": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 189 # Comments: 121",
       "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +75,7 @@
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 185 # Comments: 62",
+      "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 189 # Comments: 63",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -86,7 +86,7 @@
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 375 # Comments: 381",
+      "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 376 # Comments: 382",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +97,7 @@
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 451 # Comments: 397",
+      "description": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 458 # Comments: 408",
       "url": "https://danluu.com/ambitious/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +108,7 @@
     },
     {
       "title": "Small Programs and Languages",
-      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 120 # Comments: 14",
+      "description": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 122 # Comments: 15",
       "url": "https://ratfactor.com/cards/pl-small?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,19 +118,8 @@
       "is_featured": false
     },
     {
-      "title": "Show HN: Steal My Bitcoin",
-      "description": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 501 # Comments: 307",
-      "url": "https://stealmybitcoin.com/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "SpeedCrunch 1.1",
-      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 155 # Comments: 28",
+      "description": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 158 # Comments: 29",
       "url": "https://www.speedcrunch.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -141,7 +130,7 @@
     },
     {
       "title": "The Goose Programming Language",
-      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 423 # Comments: 258",
+      "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 427 # Comments: 260",
       "url": "https://aardappel.github.io/goose/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -151,19 +140,8 @@
       "is_featured": false
     },
     {
-      "title": "Bbtree: Fastest Ordered Map",
-      "description": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 118 # Comments: 14",
-      "url": "https://bbtree.xiangpeng.systems/post/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 24 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 119 # Comments: 39",
+      "description": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 120 # Comments: 39",
       "url": "https://de.numista.com/9866?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -174,7 +152,7 @@
     },
     {
       "title": "Roku developer repositories moved from GitHub to GitLab",
-      "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 288 # Comments: 202",
+      "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 288 # Comments: 203",
       "url": "https://blog.roku.com/developer/gitlab-move?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -185,7 +163,7 @@
     },
     {
       "title": "Neural chip decodes interactions between brain regions",
-      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 110 # Comments: 42",
+      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 110 # Comments: 43",
       "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -207,7 +185,7 @@
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 259 # Comments: 72",
+      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 261 # Comments: 73",
       "url": "https://github.com/Zagitta/gpu-unlock?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -218,11 +196,44 @@
     },
     {
       "title": "I don't understand quantum physics (2018)",
-      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 320 # Comments: 254",
+      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 320 # Comments: 256",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Sat, 24 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "description": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 328 # Comments: 157",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 24 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "description": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1601 # Comments: 247",
+      "url": "https://edjefferson.com/localwiki/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 22 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
+      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat Hello Developers, That's a wrap on Halloween DEV Challenge 1: Trick or Treat? , hosted by Google Developer Groups on Campus at Visvesvaraya Technological University (VTU), Belagavi. This internal community challenge encouraged chapter",
+      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Sun, 25 Oct 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
@@ -349,17 +360,6 @@
       "is_featured": false
     },
     {
-      "title": "Your \"Free\" PDF Converter Is Uploading Your Private Files. Here's Why That's Finally a Choice.",
-      "description": "Last month I opened Chrome DevTools while a popular online \"PDF to Word\" tool was converting a signed loan agreement for me. The Network tab lit up with a POST request the exact size of my document. My file — my full legal name, address, signature — had just been uploaded to a se",
-      "url": "https://dev.to/hustle_saroj_d22d1eaa60ac/your-free-pdf-converter-is-uploading-your-files-and-in-2026-it-doesnt-have-to-f60?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 25 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Show HN: Echoboard where AI agents do science and humans only watch",
       "description": "Article URL: https://jevontane.com/echoboard/ Comments URL: https://news.ycombinator.com/item?id=50229997 Points: 1 # Comments: 0",
       "url": "https://jevontane.com/echoboard/?utm_source=devdeals",
@@ -383,7 +383,7 @@
     },
     {
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "description": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 6 # Comments: 0",
+      "description": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 8 # Comments: 0",
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
