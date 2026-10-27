@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-10-27 17:32:45 UTC",
-    "total_items": 28
+    "updated_at": "2026-10-27 21:52:32 UTC",
+    "total_items": 31
   },
   "deals": [
     {
@@ -63,8 +63,74 @@
       "date": "Oct 27, 2026"
     },
     {
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "description": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 131 # Comments: 91",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Ghostty 1.4.0",
+      "description": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 514 # Comments: 152",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "description": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 295 # Comments: 227",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "description": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 135 # Comments: 30",
+      "url": "https://cfsg.axiommath.ai/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "description": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 158 # Comments: 75",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "description": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 204 # Comments: 237",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Genie 4",
-      "description": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 231 # Comments: 120",
+      "description": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 569 # Comments: 341",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +141,7 @@
     },
     {
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "description": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 112 # Comments: 44",
+      "description": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 357 # Comments: 191",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -85,8 +151,8 @@
       "is_featured": false
     },
     {
-      "title": "The US government is hiding secret court ruling about how it spies on Americans",
-      "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 385 # Comments: 116",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 658 # Comments: 231",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -96,19 +162,8 @@
       "is_featured": false
     },
     {
-      "title": "Is my data used for model training?",
-      "description": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 171 # Comments: 75",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Tue, 27 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "PHP2Shell: Exploitation attempts and remediation trends",
-      "description": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 153 # Comments: 51",
+      "description": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 174 # Comments: 56",
       "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,8 +173,19 @@
       "is_featured": false
     },
     {
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "description": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 130 # Comments: 63",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 27 Oct 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "New iMac with M6",
-      "description": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 173 # Comments: 193",
+      "description": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 267 # Comments: 321",
       "url": "https://www.apple.com/imac/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -129,30 +195,8 @@
       "is_featured": false
     },
     {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "description": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50258521 Points: 137 # Comments: 157",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Tue, 27 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Software may be getting worse, but it used to be horrible",
-      "description": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 236 # Comments: 196",
-      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Tue, 27 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Python's experimental JIT to be removed",
-      "description": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 305 # Comments: 154",
+      "description": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 394 # Comments: 205",
       "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +207,7 @@
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "description": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 293 # Comments: 140",
+      "description": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 403 # Comments: 182",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -173,31 +217,20 @@
       "is_featured": false
     },
     {
-      "title": "Gforth 1.0",
-      "description": "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 116 # Comments: 6",
-      "url": "https://gforth.org/manual/1.0/NEWS.html?ref=devdeals",
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "description": "Article URL: https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram Comments URL: https://news.ycombinator.com/item?id=50245014 Points: 117 # Comments: 18",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 27 Oct 2026",
+      "date": "Mon, 26 Oct 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "description": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 362 # Comments: 243",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Tue, 27 Oct 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "What if a programming language asked 'What do you intend?' instead of 'How?'",
-      "description": "Most programming languages ask you a question before you've even started: How? How do I allocate this window? How do I register this callback? How do I keep the button and the label in sync? How do I build, package, sign and ship it? I've been building a language that asks someth",
-      "url": "https://dev.to/artanidos/what-if-a-programming-language-asked-what-do-you-intend-instead-of-how-22j2?ref=devdeals",
+      "title": "5 Git Commands Keep My AI Context in Sync Across Machines",
+      "description": "I keep the context I hand to AI coding tools as plain Markdown in a git repository, and a small Zig CLI called zemo syncs it between my machines. The happy path was easy: once zemo has checked that the directory is a repository root, a successful edit runs five git commands, pull",
+      "url": "https://dev.to/hidetzu/5-git-commands-keep-my-ai-context-in-sync-across-machines-26nc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -206,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "DEV·TV's second real ad is live, and the next one could be yours 📺",
-      "description": "A few days ago, DEV·TV ran its first real ad. Until then, every commercial break was a joke: Off-By-One Pizza 🍕, Rollback Airlines ✈️, node_modules Self Storage 📦. Then leantext took the first real slot. Today there's a second one. 🎉 🎨 Meet living-canvas living-canvas is a Claude",
-      "url": "https://dev.to/shouvik12/devtvs-second-real-ad-is-live-and-the-next-one-could-be-yours-5he8?ref=devdeals",
+      "title": "🚀 Meet ConfigPilot — Because Setting Up .env Files Shouldn't Be a Headache",
+      "description": "Ever cloned a project and spent way too much time figuring out which environment variables you need? Yeah, same here 😅 That's why I built ConfigPilot, an open-source CLI tool that helps developers discover, generate, and validate environment configurations in just a few commands.",
+      "url": "https://dev.to/ghazy001/meet-configpilot-because-setting-up-env-files-shouldnt-be-a-headache-422i?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -217,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Recovering an expired checkout without retrying an AI video charge",
-      "description": "A browser can preserve exactly the wrong thing: an old checkout link. In a photo-to-video product, that is especially confusing because the customer may already have spent time choosing a scene and preparing a photograph. I build and maintain Marigold Bridge AI , an adult-portrai",
-      "url": "https://dev.to/_ed179994b6c24a61b5e3db/recovering-an-expired-checkout-without-retrying-an-ai-video-charge-5e08?ref=devdeals",
+      "title": "Show dev.to: I sell a $1 plain-markdown study vault into a market of free templates",
+      "description": "Disclosure up front: this is our own product, and we made it. Nothing here is a neutral review. It is a build-in-public post about a small bet, including the parts that might not work. The product is LectureVault, an Obsidian study vault for students: https://nandminc.gumroad.com",
+      "url": "https://dev.to/the_movie_9b1357e8c99cfaa/show-devto-i-sell-a-1-plain-markdown-study-vault-into-a-market-of-free-templates-17k2?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -228,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Matching millions of pixels to a few hundred real threads: the color science behind cross-stitch pattern makers",
-      "description": "A phone photo can contain millions of distinct colors. A skein of embroidery floss comes in one. And the world's most common thread brand, DMC, sells only around 500 colors total. Turning a photo into a stitchable cross-stitch pattern is therefore not an image-resizing problem - ",
-      "url": "https://dev.to/mcinstinct/matching-millions-of-pixels-to-a-few-hundred-real-threads-the-color-science-behind-cross-stitch-h5a?ref=devdeals",
+      "title": "I Built a Tarot Website, Is My UX Good on Desktop and Mobile?",
+      "description": "Building a website is one thing. Making it intuitive for people who have never visited it befo re is something completely different. I've been working on Arcanio.xyz, an online tarot and Arcana platform where people can explore tarot readings, card meanings, spreads, and their pe",
+      "url": "https://dev.to/arcane_arcanio_fe4a1e0151/i-built-a-tarot-website-is-my-ux-good-on-desktop-and-mobile-4ekc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -239,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "A generated MP4 is not a delivered result: checks from a pet memorial tool",
-      "description": "A dog can cross a glowing flower bridge in an AI-generated clip, yet the user can still end up with an unusable download. The provider's completed status only answers one part of the delivery problem. I build and maintain Day of the Dead Pet AI , a photo-to-video remembrance proj",
-      "url": "https://dev.to/_ed179994b6c24a61b5e3db/a-generated-mp4-is-not-a-delivered-result-checks-from-a-pet-memorial-tool-4oc2?ref=devdeals",
+      "title": "A new Git worktree shouldn’t mean another copy of your secrets",
+      "description": "Git worktrees let you keep several branches checked out at once, each in its own directory. Getting your application running in each directory can still involve some manual work. You create a worktree, install dependencies, and start the app. It fails because the ignored .env fil",
+      "url": "https://dev.to/titanron/a-new-git-worktree-shouldnt-mean-another-copy-of-your-secrets-424?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -250,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "One product photo, twelve required sizes: what 18 marketplaces actually demand",
-      "description": "I build a small tool that resizes product photos for marketplace listings, and the hard part was never the resizing. It was answering one question 51 times: what exactly does this platform require? Those requirements live in help-center pages, seller forums, and blog posts — ofte",
-      "url": "https://dev.to/pgodace/one-product-photo-twelve-required-sizes-what-18-marketplaces-actually-demand-11ha?ref=devdeals",
+      "title": "I built a walk-in waitlist app for barbershops and salons",
+      "description": "Walk-in shops have a quiet problem: someone walks in, sees a full waiting room, and leaves. I built NextUp Walk-in so people can hold their place in line from their own phone instead. How it works A customer scans a QR code (or opens a link) and joins the line. No app to install.",
+      "url": "https://dev.to/photonicman/i-built-a-walk-in-waitlist-app-for-barbershops-and-salons-4dpd?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -261,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Show DEV: when tide predictions and observed water levels disagree, how do you label predicted vs observed?",
-      "description": "Disclosure: I run a small water-temperature site, watertemperaturelive.com. This post was drafted with AI assistance and edited by me. I am asking about a presentation pattern, not promoting the site. My earlier posts here were about labeling a temperature with its source, and ab",
-      "url": "https://dev.to/ericmcway1/show-dev-when-tide-predictions-and-observed-water-levels-disagree-how-do-you-label-predicted-vs-4aj2?ref=devdeals",
+      "title": "Telegram Stars: Zero-Friction Micro-Payments for Utility Bots",
+      "description": "When I added Stars support to @liveavabot , I expected the usual friction. Card forms, KYC prompts, redirect to Stripe, payment failures. What I got instead was a payment flow that feels like clicking a reaction. Here's what I learned building it, including the actual aiogram 3 c",
+      "url": "https://dev.to/liveavabot/telegram-stars-zero-friction-micro-payments-for-utility-bots-2a0h?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -272,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "I made a Mac window manager where nothing ever shrinks",
-      "description": "Every window manager on the Mac gives you one of two deals. Snapping apps like Rectangle and Magnet give you halves and thirds. You drag a window to an edge, it snaps in, and the moment you open one more app you start playing musical chairs with your screen. Everything is visible",
-      "url": "https://dev.to/ribbonmac/i-made-a-mac-window-manager-where-nothing-ever-shrinks-n61?ref=devdeals",
+      "title": "habits.me: A Privacy-First, Fully Offline Habit Tracker for Android",
+      "description": "habits.me 🎯 In a world full of apps requiring constant sign-ins, cloud syncs, and telemetry, habits.me takes a different path: your data stays entirely on your device . Whether you want to build positive daily habits, break bad ones, or track long-term routines, habits.me offers ",
+      "url": "https://dev.to/arunkrish11/habitsme-a-privacy-first-fully-offline-habit-tracker-for-android-31hc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -283,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Eight CA keys were guessable. The padlock never noticed.",
-      "description": "On Saturday 17 October 2026, a researcher who goes by Wayne ran a test over a public certificate corpus and found something that should not exist: intermediate certificate authority keys that could be recovered from their public certificates, near instantly. Wayne reported it the",
-      "url": "https://dev.to/indirectb/eight-ca-keys-were-guessable-the-padlock-never-noticed-10kg?ref=devdeals",
+      "title": "I Built a Free KDV (VAT) Calculator PWA - 22 Languages, Offline, No Signup",
+      "description": "I was tired of wrong KDV calculations in Turkey, so I built a free tool. Live tool: https://www.invoiceluxe.com/tr/calculator.html The Problem Most calculators do this wrong: 600 TL including 20% KDV Wrong: 600 - 20% = 480 TL Correct: 600 / 1.20 = 500 TL net + 100 TL KDV My tool ",
+      "url": "https://dev.to/yusuf_invoiceluxe/i-built-a-free-kdv-vat-calculator-pwa-22-languages-offline-no-signup-48gk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -294,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Your DEV posts have a beautiful new share card ✨",
-      "description": "The image that shows up when you share a DEV post just got a brand-new look! I got to work on forem/forem#24071 last week and I'm so excited to see it live in production: Redesign generated social images as quote cards that work on X and LinkedIn #24071 jessleenyc posted on Oct 2",
-      "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8?ref=devdeals",
+      "title": "Checking EU tender criteria with a model whose every quote has to be found word for word",
+      "description": "A small IT firm can lose two days on a bid before it finds the one line that rules it out: a minimum yearly turnover, a staff count per role, a certificate. That line sits in the tender's selection criteria, in German, Dutch or French, and when the notice sends you to the procure",
+      "url": "https://dev.to/voyagi/checking-eu-tender-criteria-with-a-model-whose-every-quote-has-to-be-found-word-for-word-5dmi?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -305,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "My first open-source project: a pixel-art office where my coding agents work, and I'd love for you to try it",
-      "description": "Agent World runs and steers your coding agents from one place, drawn as characters working in a pixel-art office. Code, guide and downloads: https://github.com/hodkep/agent-world (Apache 2.0) For Mac for now. Windows and Linux are coming soon. This is the first open-source projec",
-      "url": "https://dev.to/agentworld/my-first-open-source-project-a-pixel-art-office-where-my-coding-agents-work-and-id-love-for-you-d1c?ref=devdeals",
+      "title": "Your Mac already has OCR. d2md puts it in your terminal.",
+      "description": "Your Mac already has an OCR engine. d2md lets you use it from the terminal and get Markdown back. On macOS, the direct OCR mode uses Apple Vision. No API key. No extra OCR model to download. You just need the optional OCR dependencies. Here's the 42-second demo: // Detect dark th",
+      "url": "https://dev.to/wtigero/your-mac-already-has-ocr-d2md-puts-it-in-your-terminal-25c?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
@@ -316,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "I'm an animator, learning to be a programmer. I built a free ebook reader with AI. Here's how...",
-      "description": "I draw and animate as my main hustle. I had never built an app before this year. But I read a lot of ebooks on my PC, and none of the readers I used felt good enough. What I wanted was simple: read a book the way I read a PDF in Acrobat. Scroll straight through it. Keep a page co",
-      "url": "https://dev.to/drawerjo/im-an-animator-learning-to-be-a-programmer-i-built-a-free-ebook-reader-with-ai-heres-how-2imh?ref=devdeals",
+      "title": "Your product photos get rejected for file size, not resolution",
+      "description": "Marketplaces reject product photos far more often for file size than for dimensions, and almost nobody documents the ceiling next to the pixel size. I compiled the published upload rules for 18 marketplaces into one file, and the volume constraints turned out to be the most hosti",
+      "url": "https://dev.to/pgodace/your-product-photos-get-rejected-for-file-size-not-resolution-54h3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 27 Oct 2026",
