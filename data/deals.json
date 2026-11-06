@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-06 13:49:17 UTC",
-    "total_items": 46
+    "updated_at": "2026-11-06 22:45:27 UTC",
+    "total_items": 45
   },
   "deals": [
     {
@@ -63,9 +63,9 @@
       "date": "Nov 06, 2026"
     },
     {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "description": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 309 # Comments: 194",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105?ref=devdeals",
+      "title": "AI is dramatically accelerating AI research",
+      "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 109 # Comments: 61",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -74,9 +74,119 @@
       "is_featured": false
     },
     {
-      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-      "description": "Article URL: https://apps.metaebene.me/en/kugelblitz Comments URL: https://news.ycombinator.com/item?id=50389370 Points: 136 # Comments: 42",
-      "url": "https://apps.metaebene.me/en/kugelblitz?ref=devdeals",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "description": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 214 # Comments: 46",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 119 # Comments: 61",
+      "url": "https://pwn.ai/blog/firecracker-escape?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "description": "Article URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/ Comments URL: https://news.ycombinator.com/item?id=50396064 Points: 124 # Comments: 107",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "description": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 169 # Comments: 391",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "description": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 156 # Comments: 29",
+      "url": "https://kevinboone.me/efitest_index.html?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "description": "Article URL: https://github.com/anomalyco/rune Comments URL: https://news.ycombinator.com/item?id=50394569 Points: 128 # Comments: 97",
+      "url": "https://github.com/anomalyco/rune?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Deus Ex",
+      "description": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 308 # Comments: 151",
+      "url": "https://www.filfre.net/2026/11/deus-ex/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 274 # Comments: 210",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 737 # Comments: 1553",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "We've built an open-source feature flag server for 11 years",
+      "description": "Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 135 # Comments: 95",
+      "url": "https://github.com/Unleash/unleash?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "description": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 156 # Comments: 49",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096&ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -86,7 +196,7 @@
     },
     {
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "description": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 368 # Comments: 150",
+      "description": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 663 # Comments: 267",
       "url": "https://github.com/ppmpreetham/BUI?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -96,9 +206,9 @@
       "is_featured": false
     },
     {
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "description": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 339 # Comments: 283",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/?ref=devdeals",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "description": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 237 # Comments: 191",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -107,130 +217,9 @@
       "is_featured": false
     },
     {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "description": "Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50388122 Points: 164 # Comments: 54",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Pwn.college",
-      "description": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 208 # Comments: 32",
-      "url": "https://pwn.college/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "description": "Article URL: https://github.com/dsx-ai-factory/nvke Comments URL: https://news.ycombinator.com/item?id=50387738 Points: 102 # Comments: 23",
-      "url": "https://github.com/dsx-ai-factory/nvke?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Inkling 2 Small",
-      "description": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 235 # Comments: 75",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 417 # Comments: 190",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Claude Code sends your email address to websites",
-      "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1303 # Comments: 411",
-      "url": "https://github.com/anthropics/claude-code/issues/107757?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "description": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 601 # Comments: 223",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844&ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Pangram Image 1.0",
-      "description": "Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 128 # Comments: 58",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "The Hackintosh Reborn",
-      "description": "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 348 # Comments: 195",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "description": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provid",
-      "url": "https://github.com/rivet-dev/rivet?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Window Sweaters",
-      "description": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 388 # Comments: 113",
-      "url": "https://github.com/saragordic/window-sweaters?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 05 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "TasteTrail AI: Your Taste, Your Preferences, Your Memory | Hindsight Hackathon 🚀",
-      "description": "🚀 Excited to share TasteTrail AI , our project built for the Hindsight Hackathon! 🍽️ TasteTrail AI is a personalized food recommendation assistant that remembers users' food preferences, recalls previous conversations and learns from feedback. 🧠 Powered by Hindsight by Vectorize,",
-      "url": "https://dev.to/bhoomika_nv_7bba3e3f62cfd/tastetrail-ai-your-taste-your-preferences-your-memory-hindsight-hackathon-4m4e?ref=devdeals",
+      "title": "I Built 20,000 Utility APIs for Developers and AI Agents",
+      "description": "Building applications and AI agents often involves small but repetitive tasks: processing text, formatting data, working with JSON, and performing calculations. I wanted to make these utilities easier to access through a single API service, so I built Koyori Utils API . What is K",
+      "url": "https://dev.to/koyori-utils/i-built-20000-utility-apis-for-developers-and-ai-agents-40h5?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -239,9 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "Building Buzz QR AI: How We Engineered a Design-First QR Engine & ML Kit Scanner for Android",
-      "description": "QR codes are everywhere from restaurant tables and street billboards to Wi-Fi routers and point-of-sale systems. Yet, if you look at the mobile ecosystem, most QR utilities are bloated with intrusive full-screen video ads, rely on generic black-and-white grids from the 1990s, and",
-      "url": "https://dev.to/ankur_ranapriya_66/building-buzz-qr-ai-how-we-engineered-a-design-first-qr-engine-ml-kit-scanner-for-android-205i?ref=devdeals",
+      "title": "Why I Built a Native Telegram Booking Mini App (Go + React) to Stop the \"What Time Works for You?\" DM Ping-Pong",
+      "description": "For solo specialists who work 1-on-1 with clients — language tutors, therapists, coaches, personal trainers, tattoo artists, and beauty/barber pros — almost all client communication already happens inside Telegram. That’s where homework gets shared, sessions get rescheduled, and ",
+      "url": "https://dev.to/serj_serj_830e7254a86d7ea/why-i-built-a-native-telegram-booking-mini-app-go-react-to-stop-the-what-time-works-for-you-1khb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -250,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Four prompts that make AI images look like real photos (tested on Nano Banana and GPT Image)",
-      "description": "Most AI images don't look fake because of what is in them. They look fake because of the surface: skin with no pores, hair that moves as one shape, a soft glow around every edge, colors a little too saturated, and a background that melts into blur. I build AI Photo Edit , a photo",
-      "url": "https://dev.to/yanng981/four-prompts-that-make-ai-images-look-like-real-photos-tested-on-nano-banana-and-gpt-image-5c91?ref=devdeals",
+      "title": "Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them",
+      "description": "Hi Dev.to community! 👋 I'm Denis, the creator of iLinked . Most link shorteners today charge $30+/month for basic branded slugs, hide high-res QR code downloads behind paywalls, and force you into slow, clunky interfaces. I built iLinked to be a fast, modern link engine that give",
+      "url": "https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -261,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Building an AI animated emote maker: sizes, limits and what Twitch rejects",
-      "description": "I've been building a tool that turns one selfie or character picture into a set of animated emotes for Twitch and Discord. The AI part turned out to be maybe half the work. The other half is boring and important: making sure every file actually uploads. This post is the checklist",
-      "url": "https://dev.to/laoleedesign/building-an-ai-animated-emote-maker-sizes-limits-and-what-twitch-rejects-1e5h?ref=devdeals",
+      "title": "Bank statement PDFs to CSV, part 7: installing tesseract on Windows, tested in CI",
+      "description": "Part 6 ended with a list of things this converter had not proven. Item 3 on that list was the scanned-PDF path on Windows: OCR worked on Linux (tesseract 5.3.4, 6/6 rows on a clean synthetic scan), but tesseract is not bundled in the installer or in either exe, and the steps for ",
+      "url": "https://dev.to/alapha888/bank-statement-pdfs-to-csv-part-7-installing-tesseract-on-windows-tested-in-ci-4do1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -272,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Building a service status notifier with .NET and Cloudflare Workers",
-      "description": "I've been working on a small side project recently. Like most developers I depend on quite a few external services. GitHub, Cloudflare, OpenAI, and others. When something breaks, I usually end up checking their individual status pages to figure out what's going on. I wanted a sim",
-      "url": "https://dev.to/skglnd/building-a-service-status-notifier-with-net-and-cloudflare-workers-22f9?ref=devdeals",
+      "title": "I am a soon to graduate Software Engineer from Cameroon and this is an opportunity to display my talent.",
+      "description": "Curated tech resource and developer tool offering special community access and tier limits.",
+      "url": "https://dev.to/takam_ismael_94a11af16209/i-am-a-soon-to-graduate-software-engineer-from-cameroon-and-this-is-an-opportunity-to-display-my-4lp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -283,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "I Built a Futuristic Portfolio Template for Developers",
-      "description": "I Built a Futuristic Portfolio Template for Developers 🚀 Hey everyone! 👋 I've been working on a project called DevFolio Pro — a modern, futuristic portfolio website template designed for developers who want to showcase their skills and projects in a more interesting way. 💡 The Id",
-      "url": "https://dev.to/voidfromember/i-built-a-futuristic-portfolio-template-for-developers-mel?ref=devdeals",
+      "title": "Before you press start: reading a game guide first",
+      "description": "Before you press start: reading a game's guide first There is a ten-minute habit that removes a whole category of frustration, and it is not about being better at the game. It is about finding out what the game is before you are inside it. What the guide knows and you do not Ever",
+      "url": "https://dev.to/kevinbkt/before-you-press-start-reading-a-game-guide-first-1ed0?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -294,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Every dev feed is infinite, so I built one that ends",
-      "description": "Every place developers go to keep up is built to never let you leave. X, Reddit, Hacker News, YouTube, newsletters. There's always one more model drop, one more trending repo, one more thread you should probably read. Keeping up has quietly become a second job. So I gave DEV·TV ,",
-      "url": "https://dev.to/shouvik12/every-dev-feed-is-infinite-so-i-built-one-that-ends-blg?ref=devdeals",
+      "title": "Playing something you have to look at",
+      "description": "Playing something you have to look at There are two ways to spend an hour with a screen, and one of them asks more of you than it seems to. The first is the one where you choose. You pick the song, the level, the chapter. The second is the one where you commit to something long e",
+      "url": "https://dev.to/kevinbkt/playing-something-you-have-to-look-at-490l?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -305,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Floor plans that compile: byte-identical output, errors as data, and an access graph",
-      "description": "Floor plans that compile I compiled the same floor plan twice and diffed the output: import { readFileSync } from \" node:fs \" ; import { createHash } from \" node:crypto \" ; import { compile } from \" @chanmeng666/archlang \" ; const src = readFileSync ( \" laneway-house.arch \" , \" u",
-      "url": "https://dev.to/chan_meng_ba4481817e6694f/floor-plans-that-compile-byte-identical-output-errors-as-data-and-an-access-graph-cd8?ref=devdeals",
+      "title": "Two ways to put your work in a list",
+      "description": "Two ways to put your work in a list There is a difference between a page that lists your work and a page that ranks it, and the difference is not cosmetic. A list of tables is a reference: everything is there and you find what you need. A ranking is an argument: it says this one ",
+      "url": "https://dev.to/kevinbkt/two-ways-to-put-your-work-in-a-list-1dlp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -316,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Aiming for a World Record: Youngest Solo Game Developer at 10 Years Old",
-      "description": "Hey DEV Community! 👋 I’m 10 years old, and I’m officially on a mission to break a world record. My goal is to become the world's youngest solo boy developer to build, code, and launch a complete video game entirely on my own. ⚔️ The Project: Left for Dust I’m not building a simpl",
-      "url": "https://dev.to/jaxx_creates9/aiming-for-a-world-record-youngest-solo-game-developer-at-10-years-old-588h?ref=devdeals",
+      "title": "An afternoon, and three different things to do with it",
+      "description": "An afternoon, and three different things to do with it There are three kinds of free afternoon, and they want completely different things from you. Getting them mixed up is the reason a free afternoon sometimes turns into a wasted one. The afternoon where you want to make somethi",
+      "url": "https://dev.to/kevinbkt/an-afternoon-and-three-different-things-to-do-with-it-dh0?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -327,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "I built a security-report desk that keeps vulnerabilities under embargo, and the chat platform enforces it",
-      "description": "Open-source maintainers are drowning. One well-funded project, OpenSSL, went from about nine vulnerability reports a month to over a hundred. Of roughly five hundred reports in a year, sixty-three were real. Someone still has to open the other four hundred and thirty-seven. And t",
-      "url": "https://dev.to/rayyer/i-built-a-security-report-desk-that-keeps-vulnerabilities-under-embargo-and-the-chat-platform-1icm?ref=devdeals",
+      "title": "The character, the nickname, and the character you cannot type",
+      "description": "The character, the nickname, and the character you cannot type There is a small, specific frustration that shows up every time somebody spends an afternoon with a character they half remember. You know the name. You know roughly what they look like. You do not know how tall they ",
+      "url": "https://dev.to/kevinbkt/the-character-the-nickname-and-the-character-you-cannot-type-54j3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -338,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Shey Light Dey House? How I Built an ESP32 Power Monitor for My Home",
-      "description": "Originally published on my blog . Imagine you’re at work, and you are deciding on whether to charge your devices before you leave office or to charge them when you get home, but then you wonder, \"omo shey light dey house?\". Well, I often find myself in situations where I want to ",
-      "url": "https://dev.to/joshua_olukotun_e94af4236/shey-light-dey-house-how-i-built-an-esp32-power-monitor-for-my-home-2l7c?ref=devdeals",
+      "title": "I built a GPU overclock planner in Python named G-OC-calculator to help you before doing overclocking",
+      "description": "I have an RX 6500 XT and I was never sure if my CPU would hold it back. So I made a small tool in Python. You type your GPU and the clocks you want to try, and it estimates the gain and the power draw. There's also a window that checks CPU + GPU for PCIe loss and bottleneck %. Wh",
+      "url": "https://dev.to/xtrizer/i-built-a-gpu-overclock-planner-in-python-named-g-oc-calculator-to-help-you-how-much-performance-4oa7?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -349,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "I Put My Coding Agent to Work Finding Clients",
-      "description": "I gave my coding agent a test offer: writing comparison pages for B2B software companies. Then I asked it to find five businesses I could approach. For each company, I wanted a reason the offer fit, a person responsible for that work, a public way to find them, and a first email.",
-      "url": "https://dev.to/perceptcore/i-put-my-coding-agent-to-work-finding-clients-42a5?ref=devdeals",
+      "title": "I Handed My Business to Four Different AIs Today. Two of Them Invented Facts. Here's the System That Caught Them.",
+      "description": "Seller disclosure, up front: I sell a template kit version of the system described below — The Continuity Kit, $39 on Gumroad — and I give away a free skeleton edition . This article is the demonstration, not the pitch: everything essential is described concretely enough to build",
+      "url": "https://dev.to/sunnyops/i-handed-my-business-to-four-different-ais-today-two-of-them-invented-facts-heres-the-system-1b30?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 06 Nov 2026",
@@ -360,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "The best-designed websites in AI. Hand-picked",
-      "description": "Article URL: https://token-gallery.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=50392220 Points: 1 # Comments: 0",
-      "url": "https://token-gallery.netlify.app/?utm_source=devdeals",
+      "title": "DeepFinance: Can AI diligence a $100M deal?",
+      "description": "Article URL: https://www.juliusresearch.ai/blog/deep-finance Comments URL: https://news.ycombinator.com/item?id=50399493 Points: 1 # Comments: 0",
+      "url": "https://www.juliusresearch.ai/blog/deep-finance?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -371,9 +360,9 @@
       "is_featured": false
     },
     {
-      "title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
-      "description": "Article URL: https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding Comments URL: https://news.ycombinator.com/item?id=50392087 Points: 3 # Comments: 0",
-      "url": "https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding?utm_source=devdeals",
+      "title": "AbMaze: Evaluating frontier AI agents on protein fitness landscapes",
+      "description": "Article URL: https://valenlabs.com/blog/abmaze Comments URL: https://news.ycombinator.com/item?id=50399378 Points: 3 # Comments: 0",
+      "url": "https://valenlabs.com/blog/abmaze?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -382,9 +371,9 @@
       "is_featured": false
     },
     {
-      "title": "The AI sell-off compared to other S&P 500 stock market crashes",
-      "description": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/ Comments URL: https://news.ycombinator.com/item?id=50392075 Points: 2 # Comments: 0",
-      "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/?utm_source=devdeals",
+      "title": "Show HN: AJX – Find out where AI agents get stuck using your product",
+      "description": "Hi HN. I made AJX (Agent Journey Experience). It is a CLI and skill bundle that you run to test what your product feels like to use from the point of view of an agent, and you get back a list of \"asks\" that would improve your product from an agentic usability perspective: so that",
+      "url": "https://ajx.dev/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -393,9 +382,9 @@
       "is_featured": false
     },
     {
-      "title": "The Non-Financial Costs of AI",
-      "description": "Article URL: https://www.winstonhearn.com/wrote/2026/costs-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50392071 Points: 1 # Comments: 0",
-      "url": "https://www.winstonhearn.com/wrote/2026/costs-of-ai/?utm_source=devdeals",
+      "title": "Can AI self-improvement overcome diminishing returns?",
+      "description": "Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=50399272 Points: 1 # Comments: 0",
+      "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -404,9 +393,9 @@
       "is_featured": false
     },
     {
-      "title": "Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation",
-      "description": "Article URL: https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/ Comments URL: https://news.ycombinator.com/item?id=50392049 Points: 1 # Comments: 0",
-      "url": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/?utm_source=devdeals",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity Comments URL: https://news.ycombinator.com/item?id=50398993 Points: 3 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -415,9 +404,9 @@
       "is_featured": false
     },
     {
-      "title": "Baton – Keep long coding goals moving across AI coding agents",
-      "description": "Article URL: https://github.com/cahian/baton Comments URL: https://news.ycombinator.com/item?id=50392004 Points: 1 # Comments: 0",
-      "url": "https://github.com/cahian/baton?utm_source=devdeals",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "description": "Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/ Comments URL: https://news.ycombinator.com/item?id=50398991 Points: 4 # Comments: 0",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -426,9 +415,9 @@
       "is_featured": false
     },
     {
-      "title": "The Experts Being Recruited to Teach AI Their Professions",
-      "description": "Article URL: https://seeglassbox.com/market/ai-professional-expertise Comments URL: https://news.ycombinator.com/item?id=50391998 Points: 1 # Comments: 1",
-      "url": "https://seeglassbox.com/market/ai-professional-expertise?utm_source=devdeals",
+      "title": "Combining freelancing, social networking, and AI",
+      "description": "Article URL: https://freelancer.svoxx.com/int/en Comments URL: https://news.ycombinator.com/item?id=50398916 Points: 2 # Comments: 0",
+      "url": "https://freelancer.svoxx.com/int/en?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -437,9 +426,9 @@
       "is_featured": false
     },
     {
-      "title": "Everything I Wish I Knew About AI Inference Engineering [video]",
-      "description": "Article URL: https://www.youtube.com/watch?v=bn82CJfeYko Comments URL: https://news.ycombinator.com/item?id=50391948 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=bn82CJfeYko&utm_source=devdeals",
+      "title": "Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores",
+      "description": "There are two things I noticed. First, it seems that interpretability research got the lowest scores. And that the highest scored paper (444 with highest confidence) is the \"Context Language Models\" paper which lets models modify their context. This seems to support OpenAI latest",
+      "url": "https://news.ycombinator.com/item?id=50398781&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -448,9 +437,9 @@
       "is_featured": false
     },
     {
-      "title": "Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics",
-      "description": "Article URL: https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/ Comments URL: https://news.ycombinator.com/item?id=50391892 Points: 1 # Comments: 0",
-      "url": "https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/?utm_source=devdeals",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "description": "Article URL: https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/ Comments URL: https://news.ycombinator.com/item?id=50398758 Points: 2 # Comments: 0",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -459,9 +448,9 @@
       "is_featured": false
     },
     {
-      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-      "description": "Article URL: https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai Comments URL: https://news.ycombinator.com/item?id=50391890 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai?utm_source=devdeals",
+      "title": "How I Learned to Stop Worrying and Love AI",
+      "description": "Article URL: https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai Comments URL: https://news.ycombinator.com/item?id=50398741 Points: 4 # Comments: 1",
+      "url": "https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -470,9 +459,9 @@
       "is_featured": false
     },
     {
-      "title": "Show HN: Antidraw – Open-source AI prototyping canvas for any React library",
-      "description": "Article URL: https://github.com/AntidrawHQ/antidraw Comments URL: https://news.ycombinator.com/item?id=50391875 Points: 3 # Comments: 1",
-      "url": "https://github.com/AntidrawHQ/antidraw?utm_source=devdeals",
+      "title": "Ballast – cold email infrastructure with AI and MCP",
+      "description": "Article URL: https://ballast.to Comments URL: https://news.ycombinator.com/item?id=50398734 Points: 1 # Comments: 1",
+      "url": "https://ballast.to?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -481,9 +470,9 @@
       "is_featured": false
     },
     {
-      "title": "Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?",
-      "description": "Article URL: https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50391705 Points: 2 # Comments: 0",
-      "url": "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/?utm_source=devdeals",
+      "title": "Teaching AI to build scientific models",
+      "description": "Article URL: https://www.anthropic.com/research/teaching-ai-to-build-scientific-models Comments URL: https://news.ycombinator.com/item?id=50398727 Points: 2 # Comments: 0",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -492,9 +481,9 @@
       "is_featured": false
     },
     {
-      "title": "Cross-platform frameworks are dead. AI killed them",
-      "description": "Article URL: https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en Comments URL: https://news.ycombinator.com/item?id=50391701 Points: 1 # Comments: 1",
-      "url": "https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en&utm_source=devdeals",
+      "title": "The End of AI Frontiers",
+      "description": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50398596 Points: 1 # Comments: 0",
+      "url": "https://hunch.net/?p=13764006&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -503,9 +492,9 @@
       "is_featured": false
     },
     {
-      "title": "Lowvram: A CLI tool to run large AI models in low VRAM GPUs",
-      "description": "Article URL: https://soarhen.com/how-run-ai-in-low-vram/ Comments URL: https://news.ycombinator.com/item?id=50391571 Points: 1 # Comments: 0",
-      "url": "https://soarhen.com/how-run-ai-in-low-vram/?utm_source=devdeals",
+      "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+      "description": "Article URL: https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam Comments URL: https://news.ycombinator.com/item?id=50398562 Points: 6 # Comments: 1",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
@@ -514,9 +503,9 @@
       "is_featured": false
     },
     {
-      "title": "Vals AI found a critical safety and alignment issue in recent models",
-      "description": "Article URL: https://twitter.com/ValsAI/status/2118473836710760816 Comments URL: https://news.ycombinator.com/item?id=50391518 Points: 1 # Comments: 0",
-      "url": "https://twitter.com/ValsAI/status/2118473836710760816?utm_source=devdeals",
+      "title": "Leeroy: Making AI agents play World of Warcraft",
+      "description": "Article URL: https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/ Comments URL: https://news.ycombinator.com/item?id=50398561 Points: 3 # Comments: 0",
+      "url": "https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Fri, 06 Nov 2026",
