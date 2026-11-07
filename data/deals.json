@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-07 04:51:22 UTC",
-    "total_items": 28
+    "updated_at": "2026-11-07 12:32:32 UTC",
+    "total_items": 31
   },
   "deals": [
     {
@@ -63,8 +63,63 @@
       "date": "Nov 07, 2026"
     },
     {
+      "title": "Upload Your RAM",
+      "description": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 111 # Comments: 66",
+      "url": "https://uploadyourram.org?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 07 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 156 # Comments: 71",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 07 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "description": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 204 # Comments: 171",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 07 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "description": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 122 # Comments: 89",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 07 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "description": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 137 # Comments: 72",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Libghostty 1.0",
-      "description": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 378 # Comments: 61",
+      "description": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 719 # Comments: 116",
       "url": "https://mitchellh.com/writing/libghostty-1-0?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,19 +129,8 @@
       "is_featured": false
     },
     {
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "description": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 150 # Comments: 70",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "AI is dramatically accelerating AI research",
-      "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 239 # Comments: 182",
+      "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 326 # Comments: 286",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +141,7 @@
     },
     {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "description": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 393 # Comments: 87",
+      "description": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 505 # Comments: 121",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +152,7 @@
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 198 # Comments: 96",
+      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 251 # Comments: 109",
       "url": "https://pwn.ai/blog/firecracker-escape?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,8 +162,19 @@
       "is_featured": false
     },
     {
+      "title": "GitHub's new Git storage architecture",
+      "description": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 158 # Comments: 35",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "description": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 105 # Comments: 55",
+      "description": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 129 # Comments: 65",
       "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -130,7 +185,7 @@
     },
     {
       "title": "Devvm.dev: One VM for every project",
-      "description": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 135 # Comments: 54",
+      "description": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 163 # Comments: 62",
       "url": "https://devvm.dev/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -141,7 +196,7 @@
     },
     {
       "title": "First steps in bare-metal programming using UEFI",
-      "description": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 206 # Comments: 37",
+      "description": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 227 # Comments: 42",
       "url": "https://kevinboone.me/efitest_index.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -152,7 +207,7 @@
     },
     {
       "title": "Gemini Omni 1.2 Flash",
-      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 307 # Comments: 221",
+      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 343 # Comments: 233",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +218,7 @@
     },
     {
       "title": "Tesla to wind down Cybertruck production",
-      "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 915 # Comments: 1770",
+      "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 1040 # Comments: 1888",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -173,31 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "description": "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 112 # Comments: 92",
-      "url": "https://www.norvig.com/chomsky.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "description": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 301 # Comments: 244",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "How to animate 50 years of global GDP on a map",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate 50 years of global GDP on a map Compare 1976–2025 in 15 seconds with proportional circles, synchroni",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-50-years-of-global-gdp-on-a-map-m16?ref=devdeals",
+      "title": "How I Built an Actual-Size Screen Ruler with Hardware Calibration Using Astro",
+      "description": "Most on-screen measurement tools rely purely on standard CSS pixels (96 DPI), which often leads to inaccurate physical readings across modern high-density laptop and mobile displays. To solve this, I built AI Online Ruler , a zero-bloat web utility designed to achieve 1:1 physica",
+      "url": "https://dev.to/shaurya_sharma_89564e74d3/how-i-built-an-actual-size-screen-ruler-with-hardware-calibration-using-astro-11hk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -206,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "How to animate the history of U.S. statehood",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of U.S. statehood Build a 44-second map timeline from the original thirteen states to Ha",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-us-statehood-1p10?ref=devdeals",
+      "title": "Cloud Microservices vs. In-Browser WASM: Why We Killed Our Backend Media Pipeline",
+      "description": "The rumblings are getting louder. Power grids are buckling under the insatiable hunger of AI data centers. Cloud compute costs, already a significant line item for many, are exploding. In this climate, why are we still designing web applications that force users into a digital pu",
+      "url": "https://dev.to/khaithisran/cloud-microservices-vs-in-browser-wasm-why-we-killed-our-backend-media-pipeline-2chm?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -217,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "How to animate the history of EU membership",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of EU membership Build a 42-second map timeline of EU membership, from the six EEC found",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-eu-membership-1c71?ref=devdeals",
+      "title": "I published 13 posts in one day. Here are the real numbers.",
+      "description": "On November 6 I published a tutorial about a bank statement PDF-to-CSV converter I built. On November 7 I published 12 more posts in the same series, plus a D&D one-shot preview and a debt payoff post. Sixteen posts in about two days. This post is the receipt. Every number below ",
+      "url": "https://dev.to/alapha888/i-published-13-posts-in-one-day-here-are-the-real-numbers-787?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -228,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Review and export your finished video",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Review and export your finished video Check format, resolution, frame rate, and playback, then download and inspect",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/review-and-export-your-finished-video-33a8?ref=devdeals",
+      "title": "LightVM – A lightweight capability-based VM in Rust and TS",
+      "description": "Hi, I'm making a virtual machine that was originally for internal use. However, now I'm open-sourcing this virtual machine so it can be used more widely by people who want to try it out My goal in posting this is purely just to get improvement suggestions or something like that f",
+      "url": "https://dev.to/turah/lightvm-a-lightweight-capability-based-vm-in-rust-and-ts-2a86?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -239,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Compose 3D terrain and city shots",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Compose 3D terrain and city shots Enable terrain or 3D buildings, then use pitch and orbit to reveal the subject cl",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/compose-3d-terrain-and-city-shots-1aj4?ref=devdeals",
+      "title": "I built DiscoveryLoop: a Product Hunt alternative where launches don't expire",
+      "description": "Most launch platforms are built around a single day. You get a spike of attention, and by the next morning your page is buried and never changes again. I built DiscoveryLoop ( https://www.discoveryloop.live ) to work the other way around. What it is: a free discovery platform for",
+      "url": "https://dev.to/discoveryloop/i-built-discoveryloop-a-product-hunt-alternative-where-launches-dont-expire-2b21?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -250,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Guide attention from a country to a city",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Guide attention from a country to a city Establish an area, then focus on a place. Explain location with boundaries",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/guide-attention-from-a-country-to-a-city-36ke?ref=devdeals",
+      "title": "Chuyển giọng nói thành văn bản tiếng Việt: video, file ghi âm sang TXT và SRT, 15 phút miễn phí mỗi ngày",
+      "description": "Mình là người làm ra Chép Lời ( cheploi.vn ), nên bài này nói về sản phẩm của chính mình. Phần lớn bài kể cách mình xử lý tiếng Việt khi chuyển giọng nói thành văn bản, kèm số liệu kiểm thử cả chỗ làm chưa tốt. Rất mong nghe góp ý từ những ai hay phải gỡ băng: làm video, phỏng vấ",
+      "url": "https://dev.to/cheploivn/chuyen-giong-noi-thanh-van-ban-tieng-viet-video-file-ghi-am-sang-txt-va-srt-15-phut-mien-phi-moi-5aoi?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -261,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Sequence camera moves without conflicts",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Sequence camera moves without conflicts Compose an opening, zoom, orbit, and hold by controlling start times, durat",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/sequence-camera-moves-without-conflicts-439k?ref=devdeals",
+      "title": "Meet Select, an open-source platform where AI agents earn their autonomy (v1.0.0)",
+      "description": "Today I released Select 1.0.0, an open-source, self-hosted platform for managing teams of AI agents. GitHub: https://github.com/Kirby54/Select Release: https://github.com/Kirby54/Select/releases/tag/v1.0.0 Why I built it Most AI agent systems let you configure autonomy upfront. I",
+      "url": "https://dev.to/kirby54/meet-select-an-open-source-platform-where-ai-agents-earn-their-autonomy-v100-2995?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -272,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Make your first map video in Studio",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Make your first map video in Studio Use Japan → Tokyo to learn opening views, scenes, actions, and the timeline, th",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/make-your-first-map-video-in-studio-3024?ref=devdeals",
+      "title": "A calculator with an expiry date: 3.3 million views for Bulgaria's switch from lev to euro",
+      "description": "On 1 January 2026 Bulgaria replaced the lev with the euro. For about a year before and after that date, millions of people had the same small problem: how much is this in euro? How much was my salary in leva? Is this price right? In June 2025 I launched eurocalculator.eu , a conv",
+      "url": "https://dev.to/konstantin_iliev/a-calculator-with-an-expiry-date-33-million-views-for-bulgarias-switch-from-lev-to-euro-47b4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -283,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "SentinelIndia: An AI Platform for Geopolitical Narrative Intelligence",
-      "description": "SentinelIndia monitors, classifies, and counters disinformation targeting India across global social media. It surfaces coordinated propaganda networks, state-sponsored narratives, and misinformation in real-time — processing thousands of posts per minute across Twitter, YouTube,",
-      "url": "https://dev.to/uditrajmr3/sentinelindia-an-ai-platform-for-geopolitical-narrative-intelligence-4jlc?ref=devdeals",
+      "title": "I posted to Show HN and it got flagged within the hour — what actually happened",
+      "description": "I submitted my bank-statement-to-CSV converter to Hacker News today as a Show HN post. Within an hour it was flagged, sitting at 1 point with 0 comments. This is what happened, with the numbers as I measured them. What I posted The post linked to the converter's GitHub repository",
+      "url": "https://dev.to/alapha888/i-posted-to-show-hn-and-it-got-flagged-within-the-hour-what-actually-happened-1epg?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -294,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Animate a route from London to Paris",
-      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Choose endpoints and a travel mode, then coordinate the path, transport marker, and camera. A useful route animation makes the ",
-      "url": "https://dev.to/jonathon_lee_c2f908d54f03/animate-a-route-from-london-to-paris-1ngf?ref=devdeals",
+      "title": "What git diff Misses When You Switch Coding Agents (And How I Fixed It in Vicem v1.2)",
+      "description": "Last week, I wrote How I stopped re-explaining my repo when switching between Claude Code, Codex, and Cursor , where I introduced Vicem — a zero-dependency tool that packs your active session into a single .vicem/BATON.md checkpoint when you hit Claude Code's 5-hour quota or want",
+      "url": "https://dev.to/rakkunn/what-git-diff-misses-when-you-switch-coding-agents-and-how-i-fixed-it-in-vicem-v12-4ge7?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -305,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Every Screen Translator Wants a Subscription. Mine Doesn't Exist.",
-      "description": "Quick note from the dev side: I'm an indie Android developer, and this post is more about the business model than the code — why I shipped my screen translator as a one-time purchase in a category that runs on subscriptions. Originally published on my Medium; sharing it here for ",
-      "url": "https://dev.to/jiantaofu/every-screen-translator-wants-a-subscription-mine-doesnt-exist-1f4g?ref=devdeals",
+      "title": "How I built offline semantic memory for my desktop AI companion: one env var, no Cloudflare account",
+      "description": "How I built offline semantic memory for my desktop AI companion: one env var, no Cloudflare account Ankita AI is a desktop AI assistant by Krish Verma — a little companion that lives on your desktop and remembers what you tell it. The problem with remembering things is finding th",
+      "url": "https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-offline-semantic-memory-for-my-desktop-ai-companion-one-env-var-no-cloudflare-account-29bp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
@@ -316,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "My AI Math Tutor Started Making Up Pictures Instead of Drawing Them",
-      "description": "There's a particular kind of bug you don't expect when building an AI-powered math tutor. You expect incorrect calculations. You expect malformed LaTeX. You expect the occasional hallucinated explanation. You don't necessarily expect your LLM to start inventing images . Apparentl",
-      "url": "https://dev.to/jonscott79/my-ai-math-tutor-started-making-up-pictures-instead-of-drawing-them-18e0?ref=devdeals",
+      "title": "GH Profile Cyber Punk City Spin",
+      "description": "This inspired me: https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c I took it further: https://github.com/pboling/pboling https://github.com/pboling/pboling/blob/main/assets/profile/city.svg The SVG is an",
+      "url": "https://dev.to/galtzo/gh-profile-cyber-punk-city-spin-2i89?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 07 Nov 2026",
