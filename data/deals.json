@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-06 22:45:27 UTC",
-    "total_items": 45
+    "updated_at": "2026-11-07 04:51:22 UTC",
+    "total_items": 28
   },
   "deals": [
     {
@@ -18,7 +18,7 @@
       "estimated_payout": "$25 per active referral",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 06, 2026"
+      "date": "Nov 07, 2026"
     },
     {
       "title": "GitHub Student Developer Pack (Free SaaS Suite)",
@@ -32,7 +32,7 @@
       "estimated_payout": "Organic Traffic Driver",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 06, 2026"
+      "date": "Nov 07, 2026"
     },
     {
       "title": "Supabase - Open Source Firebase Alternative",
@@ -46,7 +46,7 @@
       "estimated_payout": "20% recurring",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 06, 2026"
+      "date": "Nov 07, 2026"
     },
     {
       "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
@@ -60,11 +60,33 @@
       "estimated_payout": "15% - 25% per transaction",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 06, 2026"
+      "date": "Nov 07, 2026"
+    },
+    {
+      "title": "Libghostty 1.0",
+      "description": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 378 # Comments: 61",
+      "url": "https://mitchellh.com/writing/libghostty-1-0?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "description": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 150 # Comments: 70",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 06 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
     },
     {
       "title": "AI is dramatically accelerating AI research",
-      "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 109 # Comments: 61",
+      "description": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 239 # Comments: 182",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +97,7 @@
     },
     {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "description": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 214 # Comments: 46",
+      "description": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 393 # Comments: 87",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -86,7 +108,7 @@
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 119 # Comments: 61",
+      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 198 # Comments: 96",
       "url": "https://pwn.ai/blog/firecracker-escape?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -96,9 +118,9 @@
       "is_featured": false
     },
     {
-      "title": "We know 15k websites are infected. how do we tell them?",
-      "description": "Article URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/ Comments URL: https://news.ycombinator.com/item?id=50396064 Points: 124 # Comments: 107",
-      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/?ref=devdeals",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "description": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 105 # Comments: 55",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -107,9 +129,9 @@
       "is_featured": false
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "description": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 169 # Comments: 391",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout?ref=devdeals",
+      "title": "Devvm.dev: One VM for every project",
+      "description": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 135 # Comments: 54",
+      "url": "https://devvm.dev/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -119,7 +141,7 @@
     },
     {
       "title": "First steps in bare-metal programming using UEFI",
-      "description": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 156 # Comments: 29",
+      "description": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 206 # Comments: 37",
       "url": "https://kevinboone.me/efitest_index.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -129,30 +151,8 @@
       "is_featured": false
     },
     {
-      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-      "description": "Article URL: https://github.com/anomalyco/rune Comments URL: https://news.ycombinator.com/item?id=50394569 Points: 128 # Comments: 97",
-      "url": "https://github.com/anomalyco/rune?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Deus Ex",
-      "description": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 308 # Comments: 151",
-      "url": "https://www.filfre.net/2026/11/deus-ex/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Gemini Omni 1.2 Flash",
-      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 274 # Comments: 210",
+      "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 307 # Comments: 221",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +163,7 @@
     },
     {
       "title": "Tesla to wind down Cybertruck production",
-      "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 737 # Comments: 1553",
+      "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 915 # Comments: 1770",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -173,31 +173,9 @@
       "is_featured": false
     },
     {
-      "title": "We've built an open-source feature flag server for 11 years",
-      "description": "Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 135 # Comments: 95",
-      "url": "https://github.com/Unleash/unleash?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "description": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 156 # Comments: 49",
-      "url": "https://jhr.pensoft.net/articles.php?id=9096&ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "description": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 663 # Comments: 267",
-      "url": "https://github.com/ppmpreetham/BUI?ref=devdeals",
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "description": "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 112 # Comments: 92",
+      "url": "https://www.norvig.com/chomsky.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Fri, 06 Nov 2026",
@@ -207,7 +185,7 @@
     },
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "description": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 237 # Comments: 191",
+      "description": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 301 # Comments: 244",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -217,298 +195,133 @@
       "is_featured": false
     },
     {
-      "title": "I Built 20,000 Utility APIs for Developers and AI Agents",
-      "description": "Building applications and AI agents often involves small but repetitive tasks: processing text, formatting data, working with JSON, and performing calculations. I wanted to make these utilities easier to access through a single API service, so I built Koyori Utils API . What is K",
-      "url": "https://dev.to/koyori-utils/i-built-20000-utility-apis-for-developers-and-ai-agents-40h5?ref=devdeals",
+      "title": "How to animate 50 years of global GDP on a map",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate 50 years of global GDP on a map Compare 1976–2025 in 15 seconds with proportional circles, synchroni",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-50-years-of-global-gdp-on-a-map-m16?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Why I Built a Native Telegram Booking Mini App (Go + React) to Stop the \"What Time Works for You?\" DM Ping-Pong",
-      "description": "For solo specialists who work 1-on-1 with clients — language tutors, therapists, coaches, personal trainers, tattoo artists, and beauty/barber pros — almost all client communication already happens inside Telegram. That’s where homework gets shared, sessions get rescheduled, and ",
-      "url": "https://dev.to/serj_serj_830e7254a86d7ea/why-i-built-a-native-telegram-booking-mini-app-go-react-to-stop-the-what-time-works-for-you-1khb?ref=devdeals",
+      "title": "How to animate the history of U.S. statehood",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of U.S. statehood Build a 44-second map timeline from the original thirteen states to Ha",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-us-statehood-1p10?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them",
-      "description": "Hi Dev.to community! 👋 I'm Denis, the creator of iLinked . Most link shorteners today charge $30+/month for basic branded slugs, hide high-res QR code downloads behind paywalls, and force you into slow, clunky interfaces. I built iLinked to be a fast, modern link engine that give",
-      "url": "https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od?ref=devdeals",
+      "title": "How to animate the history of EU membership",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides How to animate the history of EU membership Build a 42-second map timeline of EU membership, from the six EEC found",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/how-to-animate-the-history-of-eu-membership-1c71?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Bank statement PDFs to CSV, part 7: installing tesseract on Windows, tested in CI",
-      "description": "Part 6 ended with a list of things this converter had not proven. Item 3 on that list was the scanned-PDF path on Windows: OCR worked on Linux (tesseract 5.3.4, 6/6 rows on a clean synthetic scan), but tesseract is not bundled in the installer or in either exe, and the steps for ",
-      "url": "https://dev.to/alapha888/bank-statement-pdfs-to-csv-part-7-installing-tesseract-on-windows-tested-in-ci-4do1?ref=devdeals",
+      "title": "Review and export your finished video",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Review and export your finished video Check format, resolution, frame rate, and playback, then download and inspect",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/review-and-export-your-finished-video-33a8?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I am a soon to graduate Software Engineer from Cameroon and this is an opportunity to display my talent.",
-      "description": "Curated tech resource and developer tool offering special community access and tier limits.",
-      "url": "https://dev.to/takam_ismael_94a11af16209/i-am-a-soon-to-graduate-software-engineer-from-cameroon-and-this-is-an-opportunity-to-display-my-4lp?ref=devdeals",
+      "title": "Compose 3D terrain and city shots",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Compose 3D terrain and city shots Enable terrain or 3D buildings, then use pitch and orbit to reveal the subject cl",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/compose-3d-terrain-and-city-shots-1aj4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Before you press start: reading a game guide first",
-      "description": "Before you press start: reading a game's guide first There is a ten-minute habit that removes a whole category of frustration, and it is not about being better at the game. It is about finding out what the game is before you are inside it. What the guide knows and you do not Ever",
-      "url": "https://dev.to/kevinbkt/before-you-press-start-reading-a-game-guide-first-1ed0?ref=devdeals",
+      "title": "Guide attention from a country to a city",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Guide attention from a country to a city Establish an area, then focus on a place. Explain location with boundaries",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/guide-attention-from-a-country-to-a-city-36ke?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Playing something you have to look at",
-      "description": "Playing something you have to look at There are two ways to spend an hour with a screen, and one of them asks more of you than it seems to. The first is the one where you choose. You pick the song, the level, the chapter. The second is the one where you commit to something long e",
-      "url": "https://dev.to/kevinbkt/playing-something-you-have-to-look-at-490l?ref=devdeals",
+      "title": "Sequence camera moves without conflicts",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Sequence camera moves without conflicts Compose an opening, zoom, orbit, and hold by controlling start times, durat",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/sequence-camera-moves-without-conflicts-439k?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Two ways to put your work in a list",
-      "description": "Two ways to put your work in a list There is a difference between a page that lists your work and a page that ranks it, and the difference is not cosmetic. A list of tables is a reference: everything is there and you find what you need. A ranking is an argument: it says this one ",
-      "url": "https://dev.to/kevinbkt/two-ways-to-put-your-work-in-a-list-1dlp?ref=devdeals",
+      "title": "Make your first map video in Studio",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Home Guides Make your first map video in Studio Use Japan → Tokyo to learn opening views, scenes, actions, and the timeline, th",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/make-your-first-map-video-in-studio-3024?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "An afternoon, and three different things to do with it",
-      "description": "An afternoon, and three different things to do with it There are three kinds of free afternoon, and they want completely different things from you. Getting them mixed up is the reason a free afternoon sometimes turns into a wasted one. The afternoon where you want to make somethi",
-      "url": "https://dev.to/kevinbkt/an-afternoon-and-three-different-things-to-do-with-it-dh0?ref=devdeals",
+      "title": "SentinelIndia: An AI Platform for Geopolitical Narrative Intelligence",
+      "description": "SentinelIndia monitors, classifies, and counters disinformation targeting India across global social media. It surfaces coordinated propaganda networks, state-sponsored narratives, and misinformation in real-time — processing thousands of posts per minute across Twitter, YouTube,",
+      "url": "https://dev.to/uditrajmr3/sentinelindia-an-ai-platform-for-geopolitical-narrative-intelligence-4jlc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "The character, the nickname, and the character you cannot type",
-      "description": "The character, the nickname, and the character you cannot type There is a small, specific frustration that shows up every time somebody spends an afternoon with a character they half remember. You know the name. You know roughly what they look like. You do not know how tall they ",
-      "url": "https://dev.to/kevinbkt/the-character-the-nickname-and-the-character-you-cannot-type-54j3?ref=devdeals",
+      "title": "Animate a route from London to Paris",
+      "description": "Originally published in the Map Animation Studio guides . I work on Map Animation Studio. AI assistance was used to prepare this illustrated cross-post. Choose endpoints and a travel mode, then coordinate the path, transport marker, and camera. A useful route animation makes the ",
+      "url": "https://dev.to/jonathon_lee_c2f908d54f03/animate-a-route-from-london-to-paris-1ngf?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I built a GPU overclock planner in Python named G-OC-calculator to help you before doing overclocking",
-      "description": "I have an RX 6500 XT and I was never sure if my CPU would hold it back. So I made a small tool in Python. You type your GPU and the clocks you want to try, and it estimates the gain and the power draw. There's also a window that checks CPU + GPU for PCIe loss and bottleneck %. Wh",
-      "url": "https://dev.to/xtrizer/i-built-a-gpu-overclock-planner-in-python-named-g-oc-calculator-to-help-you-how-much-performance-4oa7?ref=devdeals",
+      "title": "Every Screen Translator Wants a Subscription. Mine Doesn't Exist.",
+      "description": "Quick note from the dev side: I'm an indie Android developer, and this post is more about the business model than the code — why I shipped my screen translator as a one-time purchase in a category that runs on subscriptions. Originally published on my Medium; sharing it here for ",
+      "url": "https://dev.to/jiantaofu/every-screen-translator-wants-a-subscription-mine-doesnt-exist-1f4g?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I Handed My Business to Four Different AIs Today. Two of Them Invented Facts. Here's the System That Caught Them.",
-      "description": "Seller disclosure, up front: I sell a template kit version of the system described below — The Continuity Kit, $39 on Gumroad — and I give away a free skeleton edition . This article is the demonstration, not the pitch: everything essential is described concretely enough to build",
-      "url": "https://dev.to/sunnyops/i-handed-my-business-to-four-different-ais-today-two-of-them-invented-facts-heres-the-system-1b30?ref=devdeals",
+      "title": "My AI Math Tutor Started Making Up Pictures Instead of Drawing Them",
+      "description": "There's a particular kind of bug you don't expect when building an AI-powered math tutor. You expect incorrect calculations. You expect malformed LaTeX. You expect the occasional hallucinated explanation. You don't necessarily expect your LLM to start inventing images . Apparentl",
+      "url": "https://dev.to/jonscott79/my-ai-math-tutor-started-making-up-pictures-instead-of-drawing-them-18e0?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "DeepFinance: Can AI diligence a $100M deal?",
-      "description": "Article URL: https://www.juliusresearch.ai/blog/deep-finance Comments URL: https://news.ycombinator.com/item?id=50399493 Points: 1 # Comments: 0",
-      "url": "https://www.juliusresearch.ai/blog/deep-finance?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "AbMaze: Evaluating frontier AI agents on protein fitness landscapes",
-      "description": "Article URL: https://valenlabs.com/blog/abmaze Comments URL: https://news.ycombinator.com/item?id=50399378 Points: 3 # Comments: 0",
-      "url": "https://valenlabs.com/blog/abmaze?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Show HN: AJX – Find out where AI agents get stuck using your product",
-      "description": "Hi HN. I made AJX (Agent Journey Experience). It is a CLI and skill bundle that you run to test what your product feels like to use from the point of view of an agent, and you get back a list of \"asks\" that would improve your product from an agentic usability perspective: so that",
-      "url": "https://ajx.dev/?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Can AI self-improvement overcome diminishing returns?",
-      "description": "Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=50399272 Points: 1 # Comments: 0",
-      "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity Comments URL: https://news.ycombinator.com/item?id=50398993 Points: 3 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "description": "Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/ Comments URL: https://news.ycombinator.com/item?id=50398991 Points: 4 # Comments: 0",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Combining freelancing, social networking, and AI",
-      "description": "Article URL: https://freelancer.svoxx.com/int/en Comments URL: https://news.ycombinator.com/item?id=50398916 Points: 2 # Comments: 0",
-      "url": "https://freelancer.svoxx.com/int/en?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores",
-      "description": "There are two things I noticed. First, it seems that interpretability research got the lowest scores. And that the highest scored paper (444 with highest confidence) is the \"Context Language Models\" paper which lets models modify their context. This seems to support OpenAI latest",
-      "url": "https://news.ycombinator.com/item?id=50398781&utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "description": "Article URL: https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/ Comments URL: https://news.ycombinator.com/item?id=50398758 Points: 2 # Comments: 0",
-      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "How I Learned to Stop Worrying and Love AI",
-      "description": "Article URL: https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai Comments URL: https://news.ycombinator.com/item?id=50398741 Points: 4 # Comments: 1",
-      "url": "https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Ballast – cold email infrastructure with AI and MCP",
-      "description": "Article URL: https://ballast.to Comments URL: https://news.ycombinator.com/item?id=50398734 Points: 1 # Comments: 1",
-      "url": "https://ballast.to?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Teaching AI to build scientific models",
-      "description": "Article URL: https://www.anthropic.com/research/teaching-ai-to-build-scientific-models Comments URL: https://news.ycombinator.com/item?id=50398727 Points: 2 # Comments: 0",
-      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "The End of AI Frontiers",
-      "description": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50398596 Points: 1 # Comments: 0",
-      "url": "https://hunch.net/?p=13764006&utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-      "description": "Article URL: https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam Comments URL: https://news.ycombinator.com/item?id=50398562 Points: 6 # Comments: 1",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Leeroy: Making AI agents play World of Warcraft",
-      "description": "Article URL: https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/ Comments URL: https://news.ycombinator.com/item?id=50398561 Points: 3 # Comments: 0",
-      "url": "https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/?utm_source=devdeals",
-      "category": "AI & SaaS",
-      "source": "Product Hunt Tech Launches",
-      "date": "Fri, 06 Nov 2026",
+      "date": "Sat, 07 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
