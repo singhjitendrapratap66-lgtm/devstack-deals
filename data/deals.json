@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-07 21:29:19 UTC",
-    "total_items": 31
+    "updated_at": "2026-11-08 04:42:40 UTC",
+    "total_items": 43
   },
   "deals": [
     {
@@ -18,7 +18,7 @@
       "estimated_payout": "$25 per active referral",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 07, 2026"
+      "date": "Nov 08, 2026"
     },
     {
       "title": "GitHub Student Developer Pack (Free SaaS Suite)",
@@ -32,7 +32,7 @@
       "estimated_payout": "Organic Traffic Driver",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 07, 2026"
+      "date": "Nov 08, 2026"
     },
     {
       "title": "Supabase - Open Source Firebase Alternative",
@@ -46,7 +46,7 @@
       "estimated_payout": "20% recurring",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 07, 2026"
+      "date": "Nov 08, 2026"
     },
     {
       "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
@@ -60,11 +60,22 @@
       "estimated_payout": "15% - 25% per transaction",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 07, 2026"
+      "date": "Nov 08, 2026"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 260 # Comments: 168",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 07 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
     },
     {
       "title": "What I run on my $10 USD OpenStick homelab",
-      "description": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 169 # Comments: 37",
+      "description": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 442 # Comments: 96",
       "url": "https://blog.bosscher.ch/posts/openstick/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +86,7 @@
     },
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 234 # Comments: 133",
+      "description": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 424 # Comments: 250",
       "url": "https://hunch.net/?p=13764006&ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +108,7 @@
     },
     {
       "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "description": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 117 # Comments: 30",
+      "description": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 235 # Comments: 67",
       "url": "https://maxxbench.unlap.ai/research/why-maxxbench/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +119,7 @@
     },
     {
       "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "description": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 212 # Comments: 133",
+      "description": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 405 # Comments: 266",
       "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,19 +129,8 @@
       "is_featured": false
     },
     {
-      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "description": "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 159 # Comments: 89",
-      "url": "https://kevinboone.me/tpwin.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 07 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "The $8 Linux Computer (2022)",
-      "description": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 174 # Comments: 79",
+      "description": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 210 # Comments: 87",
       "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -141,7 +141,7 @@
     },
     {
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "description": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 135 # Comments: 152",
+      "description": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 258 # Comments: 229",
       "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -152,7 +152,7 @@
     },
     {
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 510 # Comments: 300",
+      "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 644 # Comments: 358",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +163,7 @@
     },
     {
       "title": "Running a law firm on Free software",
-      "description": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 206 # Comments: 90",
+      "description": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 247 # Comments: 123",
       "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "description": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 682 # Comments: 199",
+      "description": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 866 # Comments: 237",
       "url": "https://nfsu2.xyz/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -184,19 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "The Components of Agent Memory",
-      "description": "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 140 # Comments: 72",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 07 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Asahi Linux Progress Linux 7.3",
-      "description": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 271 # Comments: 223",
+      "description": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 344 # Comments: 291",
       "url": "https://asahilinux.org/2026/11/progress-report-7-3/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -206,155 +195,298 @@
       "is_featured": false
     },
     {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "description": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 185 # Comments: 173",
-      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 07 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Libghostty 1.0",
-      "description": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 983 # Comments: 173",
-      "url": "https://mitchellh.com/writing/libghostty-1-0?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 06 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Meus dois jogos novos, O elefante e a abelhinha .",
-      "description": "Oi, pessoal! Eu sou o Carlos! Eu já mandei o do Gatinho, do Pirulito e do Cachorrinho. Agora eu fiz mais 2! Elefante regando as plantas Aperta REGAR e a plantinha pula de alegria e vira flor! https://codepen.io/qtiqiecm-the-styleful/pen/MYpZRzv Abelhinha pegando mel Aperta PEGAR ",
-      "url": "https://dev.to/carlos_95ea0f9c75afa932f7/meus-dois-jogos-novos-o-elefante-e-a-abelhinha--37cd?ref=devdeals",
+      "title": "JobRequester: I built this free Chrome extension that tracks job applications and am looking for feedback",
+      "description": "Hi all, I'm the person who built this, and I'd really like honest feedback from people who are job hunting right now. I've been job searching myself, and two parts of it were pure busywork: copying every posting into a spreadsheet I'd stop updating by week three and, while claimi",
+      "url": "https://dev.to/jesse_olsen_0b669ec1bb7fc/jobrequester-i-built-this-free-chrome-extension-that-tracks-job-applications-and-am-looking-for-484f?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "kywai: an open-source workspace for Claude Code, Codex and Gemini",
-      "description": "Switching between coding agents also means moving context between them, deciding who handles each task, and working out what changed afterward. I'm building kywai to bring that workflow into one desktop app. It is free and MIT-licensed, with downloads for Windows, macOS and Linux",
-      "url": "https://dev.to/yilsander_ramirez_377a00f/kywai-an-open-source-workspace-for-claude-code-codex-and-gemini-40pa?ref=devdeals",
+      "title": "Turning a video clip into a game sprite sheet in the browser",
+      "description": "I make 2D characters by generating a short animation video and cutting it into a sprite sheet. For a while that meant ffmpeg, a Python script and a lot of fiddling with transparency. I moved the whole thing into a browser page so it runs on the user's machine and the video never ",
+      "url": "https://dev.to/arbnoravar28995/turning-a-video-clip-into-a-game-sprite-sheet-in-the-browser-2h2b?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "What it takes to run coding agents together in one workspace",
-      "description": "I use Claude Code, Codex, and open models for different parts of development. I wanted a single workspace where I could keep their own runtimes and accounts, inspect their work, and let them hand tasks to one another. That is why I built AnyCode . I use it for day-to-day work and",
-      "url": "https://dev.to/__9e0bf70ed0f/what-it-takes-to-run-coding-agents-together-in-one-workspace-55p8?ref=devdeals",
+      "title": "Move the human checks to CI, but only for accidents: a week of agent PRs (karasu weekly)",
+      "description": "karasu is a text modeling language for system architecture, inspired by the C4 model. You describe your system in .krs files and karasu draws the views: system, deployment, and team structure. I haven't written its code by hand; everything goes through Claude Code. This is the fi",
+      "url": "https://dev.to/kompiro/move-the-human-checks-to-ci-but-only-for-accidents-a-week-of-agent-prs-karasu-weekly-120o?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Building Second Skin in public #2: empty states and the first photos 📸",
-      "description": "Gooood evening 👋. If you read one of my last posts , you'll know I'm building Second Skin , an app for keeping track of your tattoos, and that I promised the odd update along the way. Well, here's the next one. At the end of that post I said the Collection tab was next. That's...",
-      "url": "https://dev.to/andylawler/building-second-skin-in-public-2-empty-states-and-the-first-photos-1jco?ref=devdeals",
+      "title": "Server-rendering a page per stock from a daily snapshot",
+      "description": "I built Ebitta, a free daily stock screener for NSE and BSE, and this is how its pages get served. Everything starts after each market close. A Python batch job runs inside a Cloudflare container and computes the day's screens: fresh and near breakouts on daily and weekly timefra",
+      "url": "https://dev.to/rakeshwaghela/server-rendering-a-page-per-stock-from-a-daily-snapshot-3a7n?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "How I rank 250 countries for every month of the year",
-      "description": "PickOH, the travel site I run, has twelve ranking pages, one per month. Where to Go in August currently lists 62 countries and territories, from Malawi at #1 to Svalbard at #62. Nobody orders them by hand. A scoring formula and one Postgres query build all twelve pages from 30 ye",
-      "url": "https://dev.to/prashanthsams/how-i-rank-250-countries-for-every-month-of-the-year-1840?ref=devdeals",
+      "title": "I wanted my coding agent to examine me out loud, so I built a local voice layer for it",
+      "description": "A few weeks ago I wrote about the learning system I built inside my AI coding workflow : notes in Obsidian for every project, and an exam the agent offers when I reach a milestone. That post mentioned an oral mode almost in passing. This is the story of that oral mode, which grew",
+      "url": "https://dev.to/teo_furlan/i-wanted-my-coding-agent-to-examine-me-out-loud-so-i-built-a-local-voice-layer-for-it-2ni4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "VibeQuill: giving AI coding agents context for visual UI edits",
-      "description": "When you ask an AI coding agent to change a page, the instruction has two parts: what should change, and exactly where. A screenshot can help explain appearance; page context can help identify the element. I’m building VibeQuill, a Chrome extension that connects that visual selec",
-      "url": "https://dev.to/amrutejr/vibequill-giving-ai-coding-agents-context-for-visual-ui-edits-42el?ref=devdeals",
+      "title": "I built an in-browser, zero-login, watermark-free PDF invoice generator",
+      "description": "Like many developers and freelancers, I got frustrated with online invoicing tools. What should be a 30-second task—creating and downloading a basic commercial invoice—has been ruined by: Mandatory account creation and email harvesting Paywalls and expensive monthly subscriptions",
+      "url": "https://dev.to/okokwtf/i-built-an-in-browser-zero-login-watermark-free-pdf-invoice-generator-1j7e?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "PawDance: AI dog dance & cat dance video generator",
-      "description": "Dancing cats and dogs are some of the most-shared videos on TikTok and Reels. PawDance lets you make one starring your own pet, without filming or editing anything. How it works Pick a template: a trending pet dance like the viral two cats dancing NEON routine , or any dance clip",
-      "url": "https://dev.to/pawdance/pawdance-ai-dog-dance-cat-dance-video-generator-3nkl?ref=devdeals",
+      "title": "The All-in-One Color & Device Staging Lab: \"Generate living gradients, simulate color vision deficiency, and stage production mockups in seconds.",
+      "description": "Hey everyone! I'm 16 and I've spent the past few months building Vivio Studio — a fast, client-side color and visual staging lab. The Problem When designing modern UI, designers usually have to shuffle between 4 different tools: one to generate a gradient, one to check WCAG acces",
+      "url": "https://dev.to/my_bad_einstein/the-all-in-one-color-device-staging-lab-generate-living-gradients-simulate-color-vision-19po?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I submitted a free skill pack to 6 awesome lists — 1 merged, 3 ignored, 1 closed for having 1 star",
-      "description": "Five weeks ago I published 5 free Claude Code skills on GitHub (agent-skills-en, MIT, no paywall, no signup). To get them found, I submitted the repo to 6 awesome lists. Here is the scoreboard, with links, as of Nov 8. The scoreboard sickn33/agentic-awesome-skills #1741 — MERGED ",
-      "url": "https://dev.to/alapha888/i-submitted-a-free-skill-pack-to-6-awesome-lists-1-merged-3-ignored-1-closed-for-having-1-star-3cpo?ref=devdeals",
+      "title": "i spent $4k in tokens porting effect-ts to python",
+      "description": "hi everyone! after around $4k in token spend and some crying, i finally managed to port effect-ts to python. i'm calling it pyfect . you might be thinking, why would anyone do this? well, i absolutely loved working with effect when developing in typescript. the way it handles err",
+      "url": "https://dev.to/tylergibbs1/i-spent-4k-in-tokens-porting-effect-ts-to-python-4l21?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Cheap runners for most CI jobs, fast runners for the few that matter",
-      "description": "We build Sengi, a hosted runner service for GitHub Actions. Today we launched Sengi Basic, at $1 per 1,000 runner minutes. This post is about the idea behind it: pick the runner per job, not per company. Most CI minutes aren't urgent Look at a typical workflow run. Lint, unit tes",
-      "url": "https://dev.to/sengi_runners/cheap-runners-for-most-ci-jobs-fast-runners-for-the-few-that-matter-1c8g?ref=devdeals",
+      "title": "How I Built a Custom Shopify Tracking Widget to Tame WISMO",
+      "description": "When I first started helping a friend manage their Shopify store, I thought the hard part was getting the initial sales. I was wrong. The real headache started the moment a customer clicked \"checkout.\" Within days, my friend’s inbox was flooded with a specific type of email: \"Whe",
+      "url": "https://dev.to/sellermind/how-i-built-a-custom-shopify-tracking-widget-to-tame-wismo-3emk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I Built Arclight, a Free Neon Rhythm Game That Runs in Your Browser",
-      "description": "Arclight is a small neon rhythm game you can play right in the browser. No app store. No install. Open a tab, pick a level, and hit the arcs as they close in on the center. Play it here: Arclight What you do Four lanes. Four directions. Neon arcs fly in from the edges toward a gl",
-      "url": "https://dev.to/twainprod/i-built-arclight-a-free-neon-rhythm-game-that-runs-in-your-browser-462?ref=devdeals",
+      "title": "How I Built a Branded Shopify Tracking Widget From Scratch",
+      "description": "When I first started helping a friend manage their growing Shopify store, I thought the hardest part was driving initial traffic and getting those first sales. I was wrong. The real challenge started after the checkout screen. About a week after launch, the orders started rolling",
+      "url": "https://dev.to/sellermind/how-i-built-a-branded-shopify-tracking-widget-from-scratch-4kj3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Building Teddy Bud: A Student's Journey into AI, Agentic Development, and Product Building 🧸",
-      "description": "How an idea turned into an actual application, the struggles behind it, and everything I learned along the way. I've been wanting to write about how I built Teddy Bud for quite some time. Not just what the application does, but the actual journey behind it — the decisions, experi",
-      "url": "https://dev.to/harry_jees/building-teddy-bud-a-students-journey-into-ai-agentic-development-and-product-building-4h74?ref=devdeals",
+      "title": "Building a Profit Tracker: Taming the Etsy Fee Formula",
+      "description": "When I first started selling handcrafted leather goods on Etsy, I made a classic rookie mistake: I priced my items based on what I thought they were worth, rather than what they actually cost to sell. I remember staring at my first month's payout, feeling a pit in my stomach. The",
+      "url": "https://dev.to/sellermind/building-a-profit-tracker-taming-the-etsy-fee-formula-127o?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I Got Tired of Heavy Live Wallpaper Apps, So Here's a Lightweight One Built on Direct3D 11",
-      "description": "Live wallpapers look great, but most engines eat CPU and GPU and drain your laptop battery while you're trying to work or game. EWRE (Elite Wallpaper Rendering Engine) is a lightweight live video wallpaper engine built natively for Windows 10 and 11. It's free on the Microsoft St",
-      "url": "https://dev.to/codenamew/i-got-tired-of-heavy-live-wallpaper-apps-so-heres-a-lightweight-one-built-on-direct3d-11-2cf4?ref=devdeals",
+      "title": "Why I Built an Edge AI Tool to Cure My Podcast Title Fatigue",
+      "description": "I was struggling with the post-recording slump. After spending three hours recording a podcast episode, the absolute last thing I wanted to do was write the metadata. I would stare at a blank screen, trying to come up with a title that wasn't boring, but also wasn't misleading cl",
+      "url": "https://dev.to/sellermind/why-i-built-an-edge-ai-tool-to-cure-my-podcast-title-fatigue-4566?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 07 Nov 2026",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
+      "description": "Article URL: https://regescode.com/ Comments URL: https://news.ycombinator.com/item?id=50410429 Points: 1 # Comments: 0",
+      "url": "https://regescode.com/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: Reges Town – a 3D city run by AI citizens, in the browser",
+      "description": "Article URL: https://regestown.com Comments URL: https://news.ycombinator.com/item?id=50410242 Points: 2 # Comments: 0",
+      "url": "https://regestown.com?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "I Love the Smiths AI: A Familiar Elevator Scene, with You in It",
+      "description": "Article URL: https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6 Comments URL: https://news.ycombinator.com/item?id=50410205 Points: 1 # Comments: 1",
+      "url": "https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "description": "Article URL: https://rpallas.xyz/good-night-and-good-luck/ Comments URL: https://news.ycombinator.com/item?id=50410126 Points: 5 # Comments: 1",
+      "url": "https://rpallas.xyz/good-night-and-good-luck/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+      "description": "Article URL: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/ Comments URL: https://news.ycombinator.com/item?id=50409992 Points: 4 # Comments: 4",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Why mandating AI use in the workplace can backfire",
+      "description": "Article URL: https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW Comments URL: https://news.ycombinator.com/item?id=50409962 Points: 1 # Comments: 0",
+      "url": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "description": "Article URL: https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/ Comments URL: https://news.ycombinator.com/item?id=50409687 Points: 1 # Comments: 3",
+      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+      "description": "Article URL: https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/ Comments URL: https://news.ycombinator.com/item?id=50409675 Points: 3 # Comments: 1",
+      "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+      "description": "Article URL: https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2 Comments URL: https://news.ycombinator.com/item?id=50409668 Points: 2 # Comments: 2",
+      "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=50409663 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=50409663&utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Zepsell: AI-native commerce",
+      "description": "Article URL: https://zepsell.com Comments URL: https://news.ycombinator.com/item?id=50409647 Points: 1 # Comments: 0",
+      "url": "https://zepsell.com?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
+      "description": "Article URL: https://renderpixels.com Comments URL: https://news.ycombinator.com/item?id=50409628 Points: 1 # Comments: 0",
+      "url": "https://renderpixels.com?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "description": "Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat Comments URL: https://news.ycombinator.com/item?id=50409570 Points: 2 # Comments: 1",
+      "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
+      "description": "Article URL: https://github.com/alexbeeken/skrongle-mini Comments URL: https://news.ycombinator.com/item?id=50409456 Points: 1 # Comments: 2",
+      "url": "https://github.com/alexbeeken/skrongle-mini?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Can AI help connect knowledge across 135 academic domains?",
+      "description": "Article URL: https://zenodo.org/records/23686384 Comments URL: https://news.ycombinator.com/item?id=50409450 Points: 2 # Comments: 0",
+      "url": "https://zenodo.org/records/23686384?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 08 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
