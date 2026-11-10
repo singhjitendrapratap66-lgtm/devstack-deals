@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-10 01:14:02 UTC",
+    "updated_at": "2026-11-10 14:25:26 UTC",
     "total_items": 30
   },
   "deals": [
@@ -63,30 +63,85 @@
       "date": "Nov 10, 2026"
     },
     {
-      "title": "TPU 8tx and TPU 8i Max",
-      "description": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 186 # Comments: 38",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?ref=devdeals",
+      "title": "AlphaProof Code",
+      "description": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 212 # Comments: 85",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "description": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 271 # Comments: 190",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2?ref=devdeals",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "description": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 452 # Comments: 165",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Your TV can see through walls",
+      "description": "Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 197 # Comments: 81",
+      "url": "https://maurycyz.com/projects/fading/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 10 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "description": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 105 # Comments: 31",
+      "url": "https://www.ultorg.com/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 10 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Formalizing CPython",
+      "description": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 105 # Comments: 41",
+      "url": "https://broyojo.com/python-formalization/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 10 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "description": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 246 # Comments: 125",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 10 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Horible public key tricks",
+      "description": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 201 # Comments: 65",
+      "url": "https://maurycyz.com/projects/badcert/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
       "title": "USPS now offers official ZIP Code boundary polygons",
-      "description": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 439 # Comments: 218",
+      "description": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 670 # Comments: 340",
       "url": "https://postalpro.usps.com/zcb?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -96,30 +151,8 @@
       "is_featured": false
     },
     {
-      "title": "CUI – Native UI components for C",
-      "description": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 144 # Comments: 76",
-      "url": "https://yappologistic.github.io/CUI/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "description": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 913 # Comments: 551",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "description": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 259 # Comments: 17",
+      "description": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 437 # Comments: 54",
       "url": "https://e-means.github.io/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -129,20 +162,9 @@
       "is_featured": false
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "description": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 372 # Comments: 95",
-      "url": "https://github.com/thisisme6598/gemini_files/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "description": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 238 # Comments: 98",
-      "url": "https://research.meta.ai/blog/muse-ember?ref=devdeals",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 714 # Comments: 879",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Mon, 09 Nov 2026",
@@ -152,7 +174,7 @@
     },
     {
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "description": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel",
+      "description": "hey HN, i built this because I'm a satellite nerd who was bored this past weekend. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, tracking 17k+ objects and runs in your browser in about half a second), then pu",
       "url": "https://www.watched.earth?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +185,7 @@
     },
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "description": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 453 # Comments: 256",
+      "description": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 557 # Comments: 319",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -174,7 +196,7 @@
     },
     {
       "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "description": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 270 # Comments: 169",
+      "description": "https://www.cell.com/cell-reports-physical-science/fulltext/... Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 332 # Comments: 225",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -185,7 +207,7 @@
     },
     {
       "title": "Foldable Flight: The Best Paper Airplanes",
-      "description": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 837 # Comments: 135",
+      "description": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1103 # Comments: 153",
       "url": "https://www.foldableflight.com?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -195,31 +217,9 @@
       "is_featured": false
     },
     {
-      "title": "What is malloc doing, anyway?",
-      "description": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 219 # Comments: 61",
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "description": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695 Comments URL: https://news.ycombinator.com/item?id=50422069 Points: 741 # Comments: 472",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 09 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Free AI models aren't always free on day one",
-      "description": "Mistral sold its giant model to apps for 23 days before the free download. Alibaba's top model, Qwen 3.7 Max, is still paid, with no free download.",
-      "url": "https://dev.to/cynxio/free-ai-models-arent-always-free-on-day-one-fil?ref=devdeals",
+      "title": "I Added MCP Integration So ChatGPT Can Deploy My Code (While I Walk Away From Docker & YAML) 💥",
+      "description": "Two days ago, I published an article about how I tried to hack my own PaaS and fixed the critical security bugs I found. Today, I’m back to tell you that ChatGPT can now deploy my code for me. Welcome to HYNA-Stage v3.0.0 . (Yes, this is literally how I feel every time a sandbox ",
+      "url": "https://dev.to/koda2026/i-added-mcp-integration-so-chatgpt-can-deploy-my-code-while-i-walk-away-from-docker-yaml-3167?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -228,9 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "Behavioral vaccination: a 400-row mixed prime protects a behavior",
-      "description": "Behavioral vaccination: a 400-row mixed prime protects a behavior This is a cross-disciplinary experiment, not a container. Can a small \"vaccine\" adapter stop a later topic adapter from erasing a sentiment behavior? The first run timed out while evaluating one prompt at a time. T",
-      "url": "https://dev.to/mycute_97b39c4e34027570f9/behavioral-vaccination-a-400-row-mixed-prime-protects-a-behavior-25ac?ref=devdeals",
+      "title": "The 47 GEO methods: what each one checks, and which ones actually predict citations",
+      "description": "GEO Optimizer implements 47 content optimization methods drawn from the Princeton KDD 2024 paper and follow-up ICLR 2026 research. Each method is a check: does the page do this thing or not. After 1,800+ audits and a calibration study that came back null, I have an honest ranking",
+      "url": "https://dev.to/juanauriti/the-47-geo-methods-what-each-one-checks-and-which-ones-actually-predict-citations-4n50?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "You have $4,100 in savings and $4,100 on the card: what keeping the savings actually costs",
-      "description": "You have $4,100 in savings and $4,100 on the card: what keeping the savings actually costs Same debt as the earlier examples: $4,100 on a card at 18.9% APR, paying $230 a month, no new charges. Paid on time, that takes 22 months and $751 of interest, $4,851 total. Now add one fac",
-      "url": "https://dev.to/alapha888/you-have-4100-in-savings-and-4100-on-the-card-what-keeping-the-savings-actually-costs-357g?ref=devdeals",
+      "title": "I built a news site that runs itself for $2.30 a month",
+      "description": "The idea I wanted one place to see what's happening around the world, without paywalled links, ten versions of the same headline, or ad trackers. So I built Ungated : every event gets one short summary in plain words, with links to every outlet that covered it. The rule I set mys",
+      "url": "https://dev.to/siavash_rostami_e3f447132/i-built-a-news-site-that-runs-itself-for-230-a-month-4am1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "The jslab CLI: open files and pipe code into a tab",
-      "description": "JSLab feature notes: one docs page, explained. Today: The jslab CLI . JSLab is a JavaScript & TypeScript scratchpad for macOS, which makes it a GUI app. But a lot of the code you want to try starts in a terminal: a file in a repo, the output of another command, a one-liner. jslab",
-      "url": "https://dev.to/jslab/the-jslab-cli-open-files-and-pipe-code-into-a-tab-3lie?ref=devdeals",
+      "title": "I built a ChatGPT app with no AI model inside",
+      "description": "My app went live in the ChatGPT app directory on November 4. It's called Ladder, and the one thing developers ask me about it is why there's no model behind it. Some context first. I'm the author of a method called the Ladder: your goal at the top, you at the bottom, and between ",
+      "url": "https://dev.to/li_aizhan_f695d3b8d104221/i-built-a-chatgpt-app-with-no-ai-model-inside-2ofm?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Stopwatch: How I Built a Sub-Second Transit Schedule Lookup for 123 Systems from Open GTFS Data",
-      "description": "When you're rushing to catch a bus or train, you don't need a heavy 50MB map application that stalls on 3G connections. What you need is an instant, readable, stop-by-stop schedule: when is the next bus arriving, when is the last bus tonight, and what does the full day's service ",
-      "url": "https://dev.to/shivrajsinhzala/stopwatch-how-i-built-a-sub-second-transit-schedule-lookup-for-123-systems-from-open-gtfs-data-47k9?ref=devdeals",
+      "title": "How I get better AI pet portraits from a single photo",
+      "description": "A lot of AI pet-portrait tools can give you something fun from one snapshot, but the result still depends on the photo you start with. After generating portraits for my own dog and a few friends' cats, these are the habits that consistently improve the output. Start with a clear,",
+      "url": "https://dev.to/lingxio/how-i-get-better-ai-pet-portraits-from-a-single-photo-1igc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "I made a free browser version of the \"word impostor\" party game — pass-and-play or online rooms",
-      "description": "At game nights my friends kept playing \"Who's the Impostor?\" with slips of paper. Someone always peeked, and someone always lost the slips. So I built Word Impostor , a free browser version you can play on one phone or across everyone's phones. How it plays 3 to 10 players. Most ",
-      "url": "https://dev.to/jeson_image2img/i-made-a-free-browser-version-of-the-word-impostor-party-game-pass-and-play-or-online-rooms-4ik2?ref=devdeals",
+      "title": "Structuring a PHP project for shared hosting: no Composer, no build step",
+      "description": "When I rebuilt my video downloader for plain shared hosting, I lost the two things I had taken for granted: Node.js and a build step. The hosting plan ran PHP and nothing else. No Composer, no npm, no terminal on the server, no deployment pipeline. Just a file manager and SFTP. M",
+      "url": "https://dev.to/mobeenahmedgondal/structuring-a-php-project-for-shared-hosting-no-composer-no-build-step-lid?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "I built a cat-themed logic puzzle for the browser — no ads, no account, a new board every day",
-      "description": "I like Star Battle and Queens-style puzzles, so I made my own take with cats: Meowdoku . The rules (30 seconds) Place exactly one cat in every row, every column and every colored region. Cats can't touch each other — not even diagonally. That's it. The fun is in the deductions: a",
-      "url": "https://dev.to/jeson_image2img/i-built-a-cat-themed-logic-puzzle-for-the-browser-no-ads-no-account-a-new-board-every-day-38dp?ref=devdeals",
+      "title": "Two cards, one $300 payment: avalanche vs snowball on $4,100 at 18.9% and $1,200 at 12.9%",
+      "description": "Same $4,100 card at 18.9% APR as the earlier examples. This time it is not alone: there is a second card, $1,200 at 12.9%. Total debt $5,300, total payment $300 a month, no new charges on either card. The question is which card gets the extra money — the expensive one (avalanche)",
+      "url": "https://dev.to/alapha888/two-cards-one-300-payment-avalanche-vs-snowball-on-4100-at-189-and-1200-at-129-2n11?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "How I transcribe videos without uploading the video (browser-side audio extraction)",
-      "description": "Most online transcription tools ask you to upload the whole video. For a 1 GB screen recording that means a long wait, a lot of bandwidth, and handing your raw footage to a server you don't control. When I built Voxcribe , I wanted to fix exactly that. The idea: only send the aud",
-      "url": "https://dev.to/jeson_image2img/how-i-transcribe-videos-without-uploading-the-video-browser-side-audio-extraction-221e?ref=devdeals",
+      "title": "I analyzed 70k GitHub repos to predict if your PR will get reviewed",
+      "description": "Like many of you, I've spent days debugging an open issue in an OSS repo, writing unit tests, making sure CI is green, and opening a clean PR with detailed reproduction notes—only for it to sit in review silence for 9 months until a bot eventually closes it as \"stale.\" GitHub sta",
+      "url": "https://dev.to/abhisheksoni27/i-analyzed-70k-github-repos-to-predict-if-your-pr-will-get-reviewed-46j4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 10 Nov 2026",
@@ -305,45 +305,45 @@
       "is_featured": false
     },
     {
-      "title": "I built an AI calorie tracker that admits when it's guessing",
-      "description": "I'm bk, a software developer in Toronto. I just shipped my first solo iOS app, CalScore , an AI calorie and macro tracker. This post is about the one product decision I care most about, and I'd love feedback from other devs. The problem: AI calorie numbers look more precise than ",
-      "url": "https://dev.to/bk_kb_37742ea8954d1b3b727/i-built-an-ai-calorie-tracker-that-admits-when-its-guessing-1mml?ref=devdeals",
+      "title": "I convert 1,000 won to $1 in my stock game. I'm still not sure the cents are right.",
+      "description": "I'm a junior solo developer from South Korea. I use a translator to help me write in English. I'm making Daily Trader: Stock Game. You watch the chart, read the news, and trade stocks with virtual money. A round is five minutes. There is also a one-minute mode. I made the Korean ",
+      "url": "https://dev.to/_21fd064819ff1707b8060/i-convert-1000-won-to-1-in-my-stock-game-im-still-not-sure-the-cents-are-right-4jk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Moving $4,100 from an 18.9% card to an 8% HELOC: what it saves — and what it puts at risk",
-      "description": "Same debt as the earlier examples: $4,100, paying $230 a month, no new charges. On the card at 18.9% APR, paid on time, that takes 22 months and $751 of interest, $4,851 total. A home equity line of credit (HELOC) moves the same balance to a much lower rate — around 8% is common ",
-      "url": "https://dev.to/alapha888/moving-4100-from-an-189-card-to-an-8-heloc-what-it-saves-and-what-it-puts-at-risk-3aac?ref=devdeals",
+      "title": "Screenlet – Responsive testing and device mockups without recurring subscriptions",
+      "description": "Testing responsive web layouts shouldn't require paying $10 to $15 every month. Like many frontend developers, I regularly rely on browser extensions to preview how sites render across different viewports, capture quick device mockups for client reviews, and record interactions. ",
+      "url": "https://dev.to/abuzar0013/screenlet-responsive-testing-and-device-mockups-without-recurring-subscriptions-1b5i?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "서버 없이 HTML 한 장으로 소방 법정 서류 5종 PDF 만들기 (소방안전관리자용 무료 작성기)",
-      "description": "한국에서 소방 점검 일을 하면서, 소방안전관리자분들이 매달·매년 손으로 채우는 법정 서류를 자동으로 만들어 주는 무료 웹 도구를 만들었습니다. 이 글은 서버 없이 HTML 한 장으로 공문서 서식 PDF를 뽑는 방법 을 정리한 기록입니다. 작성기: 소방 서류 자동 작성기 예시: 업무수행기록표 작성 예시 · 자체점검기록표 작성·게시 예시 왜 만들었나 2·3급 소방안전관리자가 선임되면 챙겨야 할 서류가 생각보다 많습니다. 서류 근거 주기 업무수행기록표 시행규칙 제34조 월 1회 이상, 2년 보관 소방훈",
-      "url": "https://dev.to/sobangnote/seobeo-eobsi-html-han-jangeuro-sobang-beobjeong-seoryu-5jong-pdf-mandeulgi-sobanganjeongwanrijayong-muryo-jagseonggi-60m?ref=devdeals",
+      "title": "I built an open-source Canva alternative with 42 MCP tools",
+      "description": "Digital Canvas is a free design editor, Apache-2.0, and it opens with no login. My first commit was on 27 October and there were 160 by the 31st. The goal is everything Canva has, with your designs stored as files you own: github.com/Panth977/digital-canvas . You can try it here ",
+      "url": "https://dev.to/panthpatel/i-built-an-open-source-canva-alternative-with-42-mcp-tools-5bkp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Behavioral thermodynamics: a LoRA behavior melts at 3.5x its RMS noise",
-      "description": "Behavioral thermodynamics: a LoRA behavior melts at 3.5× its RMS noise This is a physics-flavoured robustness probe, not a container. Take a fine-tuned behavior, add Gaussian noise to every LoRA tensor, and measure the order parameter: SST-2 accuracy on 400 rows. Reproduce: pytho",
-      "url": "https://dev.to/mycute_97b39c4e34027570f9/behavioral-thermodynamics-a-lora-behavior-melts-at-35x-its-rms-noise-1opo?ref=devdeals",
+      "title": "Building real-time planning poker on Atlassian Forge, without leaking a single vote",
+      "description": "I'm a software engineer and Scrum Master, and I built Teamvane Planning Poker for Jira : the team estimates on the Jira issue itself, cards stay hidden until the reveal, and the agreed estimate saves to story points in one click. It runs entirely on Atlassian Forge , so there's n",
+      "url": "https://dev.to/teamvane/building-real-time-planning-poker-on-atlassian-forge-without-leaking-a-single-vote-1ii8?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Mon, 09 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
