@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-14 13:01:42 UTC",
+    "updated_at": "2026-11-14 22:00:57 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,8 +63,140 @@
       "date": "Nov 14, 2026"
     },
     {
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "description": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 189 # Comments: 96",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "description": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 120 # Comments: 48",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "description": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 119 # Comments: 68",
+      "url": "https://github.com/IRS-Public/direct-file?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A Family Tree of Software Job Titles",
+      "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 124 # Comments: 56",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 478 # Comments: 171",
+      "url": "https://www.crissyfield.de/research/lovable-en/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 171 # Comments: 78",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "description": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 115 # Comments: 7",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs ",
+      "url": "https://gitlab.com/snipedbywifi/terminactory?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "description": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 273 # Comments: 182",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "description": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 319 # Comments: 69",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "description": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 135 # Comments: 33",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "description": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 387 # Comments: 151",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 14 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Monkey Island: all 13 versions side by side",
-      "description": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 215 # Comments: 64",
+      "description": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 439 # Comments: 140",
       "url": "https://monkeyisland.pages.dev/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,163 +206,31 @@
       "is_featured": false
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 712 # Comments: 411",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus?ref=devdeals",
+      "title": "Generative AI uses more energy on non-English text",
+      "description": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 153 # Comments: 89",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Ggml v1.0.0",
-      "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 303 # Comments: 47",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0?ref=devdeals",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "description": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 466 # Comments: 266",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
+      "date": "Tue, 10 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "description": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 151 # Comments: 34",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "description": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 172 # Comments: 63",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "description": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 173 # Comments: 51",
-      "url": "https://unsloth.ai/docs/models/qwen3.8?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "What happened to 3Com?",
-      "description": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 164 # Comments: 86",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "description": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 164 # Comments: 22",
-      "url": "https://grounds.top/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Terminal borders that don't cost a cell",
-      "description": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 305 # Comments: 134",
-      "url": "https://www.joshka.net/cell-borders/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "How Not to Build a Music Player",
-      "description": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 132 # Comments: 56",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "description": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 274 # Comments: 65",
-      "url": "https://orcasairband.com/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "description": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1570 # Comments: 119",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "description": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 118 # Comments: 29",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "description": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 212 # Comments: 48",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "description": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 136 # Comments: 24",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 13 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Privacy-First AI Facial Aesthetics Analysis: How BeautyGrader Uses Client-Side MediaPipe",
-      "description": "When building modern AI applications that handle sensitive biometric data—such as facial portraits—privacy must be the primary design constraint rather than an afterthought. Objective Geometry Over Arbitrary Scoring Most facial assessment tools rely on arbitrary \"hotness\" scores ",
-      "url": "https://dev.to/one_win/privacy-first-ai-facial-aesthetics-analysis-how-beautygrader-uses-client-side-mediapipe-3mg0?ref=devdeals",
+      "title": "I built a Casablanca Stock Exchange terminal as a highschool senior",
+      "description": "I'm a 2ème bac student in Fès, Morocco, and I want a career in finance. Following the Casablanca Stock Exchange meant jumping between slow, scattered sites, so I built the screen I wanted: SAHM Terminal, a free terminal with live charts, a sector heat map, company pages, market n",
+      "url": "https://dev.to/adam_elfaqir_da9c8c379d9c/i-built-a-casablanca-stock-exchange-terminal-as-a-highschool-senior-391e?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "I built a Windows app to explore and compare Instagram data exports locally",
-      "description": "Instagram gives you a ZIP when you request a copy of your data. I built InstagramTracker to make that archive easier to browse and to compare two exports from the same account. The Windows preview lets you open the ZIP on your computer, see which categories it contains, and compa",
-      "url": "https://dev.to/kayakaan/i-built-a-windows-app-to-explore-and-compare-instagram-data-exports-locally-1629?ref=devdeals",
+      "title": "Wanted a Dictation App, Got Three Libraries",
+      "description": "I swapped my M2 MacBook with the old design for a new fanless M5 Air. A new computer feels like a clean start. So instead of dragging all my old apps and settings along, I went looking for lighter and more native alternatives. For example, I replaced VS Code with Zed and Chrome w",
+      "url": "https://dev.to/vladkens/wanted-a-dictation-app-got-three-libraries-1mdo?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Axofy Menu: Scan. Order. Done. — A QR Menu With No App and No Login",
-      "description": "I'm Aben Sojan (RayZer), a BCA student from Kerala, India. I built Axofy Menu , a QR menu for restaurants, cafes, and hotels. Its tagline says it plainly: Scan. Order. Done. This post explains how it works, why I kept it free of an app and a login, and what you can try for yourse",
-      "url": "https://dev.to/aben_sojan_cff650b8840862/axofy-menu-scan-order-done-a-qr-menu-with-no-app-and-no-login-1ff?ref=devdeals",
+      "title": "wtfe: Claims About Engineering Culture by Country, Each One Sourced and Rated",
+      "description": "\"Japanese engineers avoid direct feedback.\" Follow that line back and you usually land on a summary of Erin Meyer's book, written by a language school or a training company. I built a site where that sentence is allowed to stay, but has to say what it rests on. Source: https://gi",
+      "url": "https://dev.to/kanywst/wtfe-claims-about-engineering-culture-by-country-each-one-sourced-and-rated-1c5d?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "How We Built Tranvas: A Unified Local-First OS to Conquer SaaS Fragmentation",
-      "description": "Every developer I know, myself included, is living a digital life fragmented across a dozen browser tabs. The industry debate isn't just theory; it's our daily reality: \"The modern developer productivity stack is a fragmented mess of 6 subscriptions and 42 browser tabs.\" We're co",
-      "url": "https://dev.to/khaithisran/how-we-built-tranvas-a-unified-local-first-os-to-conquer-saas-fragmentation-4oe5?ref=devdeals",
+      "title": "Lettering Programming Comics in Japanese, Only Where the License Allows It",
+      "description": "Every \"funny programming comics\" list I have seen is a wall of English links. I wanted to hand some of those strips to people who don't read English, lettered the way a translated manga is: English taken out of the art, Japanese drawn in. Most of those strips can't legally be red",
+      "url": "https://dev.to/kanywst/lettering-programming-comics-in-japanese-only-where-the-license-allows-it-4bp0?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "I Replaced $3,000 Eye-Trackers with a Laptop Webcam: Building a Hands-Free Spatial Communicator with SmartSpectra",
-      "description": "This is a submission for the Presage SmartSpectra SDK Challenge What I Built Traditional Augmentative and Alternative Communication (AAC) systems for people with severe motor and speech impairments (such as ALS, high-level quadriplegia, or locked-in syndrome) force an impossible ",
-      "url": "https://dev.to/akul_9512534b6f460d338911/i-replaced-3000-eye-trackers-with-a-laptop-webcam-building-a-hands-free-spatial-communicator-522l?ref=devdeals",
+      "title": "wtfi3: Who Is Talking to Whom on My WiFi",
+      "description": "A router's admin page lists the devices on the network and stops there. I wanted the other half: who each one is talking to. Wireshark answers that, but I wanted something I could leave open in a tab. wtfi3 is one Go binary. Point it at an interface, open http://localhost:8080 , ",
+      "url": "https://dev.to/kanywst/wtfi3-who-is-talking-to-whom-on-my-wifi-3ofe?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "🚀 Introducing JARVIS Chat: A New AI Experience Launching November 20!",
-      "description": "One Platform. Multiple Possibilities. Powered by 400 AI Models. The future of AI interaction is getting closer! I'm excited to announce that JARVIS Chat is officially launching on Friday, November 20, 2026. JARVIS is not just another AI chatbot. It is designed to bring multiple A",
-      "url": "https://dev.to/madhu_01a88ee43799e4c0bd9/introducing-jarvis-chat-a-new-ai-experience-launching-november-20-4b3b?ref=devdeals",
+      "title": "wtfi2: Find the Hop Where Your Wi-Fi Connection Actually Dies",
+      "description": "The Wi-Fi icon shows full bars. The browser says \"Offline\". Then I am in a terminal running ping and traceroute , trying to line the answers up in my head. My first attempt at fixing that was wtfi , a Go CLI for macOS that printed every check as a flat list. It was still ten line",
+      "url": "https://dev.to/kanywst/wtfi2-find-the-hop-where-your-wi-fi-connection-actually-dies-1bif?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Building HarshitOS: A macOS-Inspired Developer Portfolio in React 19",
-      "description": "Building HarshitOS: A macOS-Inspired Developer Portfolio in React 19 Most developer portfolios follow a standard recipe: a hero section, an \"About Me\" paragraph, a grid of project cards, and a contact form. When redesigning my portfolio, I wanted to challenge that template. I wan",
-      "url": "https://dev.to/harshit_tiwari_df50f43d2a/building-harshitos-a-macos-inspired-developer-portfolio-in-react-19-1c1a?ref=devdeals",
+      "title": "The Zanzibar Paper, Side by Side With Eight Translations",
+      "description": "A machine-translated PDF of the Zanzibar paper reads fine until you hit the sentence about zookies or userset rewrites. Then you need what the authors actually wrote, and the translation doesn't tell you which English sentence it came from. So I put the two next to each other. So",
+      "url": "https://dev.to/kanywst/the-zanzibar-paper-side-by-side-with-eight-translations-34f8?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Building a Safe Windows Hardening Tool: A Post-Mortem and Deep Dive",
-      "description": "I recently shared my free Windows hardening tool, WinSystemHarden, on Indie Hackers. This post is a post-mortem of that discussion. There’s no shortage of one-size-fits-all PowerShell scripts floating around, and they often end up breaking local printers or network shares. My goa",
-      "url": "https://dev.to/nissesec/building-a-safe-windows-hardening-tool-a-post-mortem-and-deep-dive-1085?ref=devdeals",
+      "title": "Why Hackers Don't Get Caught: A Sourced Visual Explainer, Layer by Layer",
+      "description": "In February I wrote Anonymity Technology: The 5 Layers of Defense . It treated \"not getting caught\" as a technical problem: hold every layer, make no mistakes. When I went back to the court filings to build this site, two things looked different. The people who were caught mostly",
+      "url": "https://dev.to/kanywst/why-hackers-dont-get-caught-a-sourced-visual-explainer-layer-by-layer-b1k?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "I got tired of resizing my browser, so I built Samestate",
-      "description": "Every responsive bug I've shipped got through the same way. I'd build a page on desktop. Then I'd drag the browser narrow, click through the flow, drag it to tablet width, click through again, open DevTools device mode, pick an iPhone, click through again ... and somewhere around",
-      "url": "https://dev.to/shouvik12/i-got-tired-of-resizing-my-browser-so-i-built-samestate-5781?ref=devdeals",
+      "title": "I Already Had a VHS Tape for Every README GIF. matinee Turns It Into a Narrated Video.",
+      "description": "Most of my CLI repos record their README GIF with VHS . The .tape is already in the repo, it already knows every keystroke, and it already has comments like # 3. Search above each step. A GIF has no sound and no chapters, and it is unreadable on a phone. I wanted a real demo vide",
+      "url": "https://dev.to/kanywst/i-already-had-a-vhs-tape-for-every-readme-gif-matinee-turns-it-into-a-narrated-video-2k06?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Why AI Inpainting Ruins Gemini Corners (And How I Built a Lossless Reverse-Alpha Remover in JS)",
-      "description": "If you have ever generated assets with Google Gemini (Imagen 3, Nano Banana) or Veo 3 for a UI mockup, presentation, or side project, you have probably run into the corner sparkle watermark. Most people immediately reach for an \"AI Magic Eraser\" or a diffusion-based inpainting to",
-      "url": "https://dev.to/adminunwatermark_gemini_3/why-ai-inpainting-ruins-gemini-corners-and-how-i-built-a-lossless-reverse-alpha-remover-in-js-59li?ref=devdeals",
+      "title": "whosent: A TUI That Shows Who Sent the Agent",
+      "description": "A request shows up from research-agent . The token says Alice. Between Alice and that agent there was a chat UI and a planner, three token exchanges, and the scope should have shrunk at each one. Decoding the JWT and squinting at nested act claims does not tell me whether it did.",
+      "url": "https://dev.to/kanywst/whosent-a-tui-that-shows-who-sent-the-agent-1899?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Show DEV: SPL Workflow Orchestrator",
-      "description": "If you have worked for a while with agentic frameworks one common theme surfaces - this is a lot of complex code: callback hell operating on graphs explicit passing of tools ... In this post I would like to propose solution that flips the script. What if We could inline agentic f",
-      "url": "https://dev.to/dominik_gawlik_431ca4cb96/show-dev-spl-workflow-orchestrator-25c3?ref=devdeals",
+      "title": "prpr, a Terminal List of Every Open GitHub Pull Request I Can See",
+      "description": "My open pull requests are spread out: my own repositories, the 0-draft org, and upstream projects I send patches to. Review requests come from all three. GitHub's pulls page shows what I opened or was asked to review, but not everything open in the orgs I belong to, so checking m",
+      "url": "https://dev.to/kanywst/prpr-a-terminal-list-of-every-open-github-pull-request-i-can-see-3a2g?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "Myskillgrid: every feature, and the fastest way to get interview-ready",
-      "description": "I’m a solo founder and developer in Hyderabad, and I built Myskillgrid™ for one reason: freshers and job switchers in India know the syllabus, but nobody lets them practise being interviewed. The first time they say an answer out loud is the interview that counts. Myskillgrid is ",
-      "url": "https://dev.to/myskillgrid/myskillgrid-every-feature-and-the-fastest-way-to-get-interview-ready-19kb?ref=devdeals",
+      "title": "I Put Up a php2shell Page Before PHP's Fix Landed. There Is No Exploit on It.",
+      "description": "On 2026-10-20 php.net announced a critical security release for the next day at 14:00 UTC. Two bugs, both CVSS v4.0 9.2, unauthenticated RCE. The people I wanted to reach were not going to read two long GitHub advisories. They needed three answers: am I affected, what version fix",
+      "url": "https://dev.to/kanywst/i-put-up-a-php2shell-page-before-phps-fix-landed-there-is-no-exploit-on-it-11bn?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sat, 14 Nov 2026",
