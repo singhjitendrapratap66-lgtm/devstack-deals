@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-15 05:01:51 UTC",
-    "total_items": 31
+    "updated_at": "2026-11-15 13:29:41 UTC",
+    "total_items": 44
   },
   "deals": [
     {
@@ -63,8 +63,19 @@
       "date": "Nov 15, 2026"
     },
     {
+      "title": "My favourite modern NES games",
+      "description": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 127 # Comments: 12",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "description": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 125 # Comments: 24",
+      "description": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 269 # Comments: 72",
       "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,19 +85,19 @@
       "is_featured": false
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "description": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 346 # Comments: 181",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html?ref=devdeals",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "description": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 269 # Comments: 99",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
+      "date": "Sun, 15 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "description": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 152 # Comments: 55",
+      "description": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 244 # Comments: 129",
       "url": "https://retrocomputing.stackexchange.com/questions/17957?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +108,7 @@
     },
     {
       "title": "SpaceX catches the Starship to end Flight 15",
-      "description": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 920 # Comments: 632",
+      "description": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1355 # Comments: 909",
       "url": "https://www.spacex.com/launches/starship-flight-15?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +119,7 @@
     },
     {
       "title": "A family tree of software job titles",
-      "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 249 # Comments: 121",
+      "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 354 # Comments: 178",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -119,7 +130,7 @@
     },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
-      "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 715 # Comments: 290",
+      "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 882 # Comments: 338",
       "url": "https://www.crissyfield.de/research/lovable-en/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -130,7 +141,7 @@
     },
     {
       "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 221 # Comments: 97",
+      "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 255 # Comments: 111",
       "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -141,7 +152,7 @@
     },
     {
       "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "description": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 204 # Comments: 11",
+      "description": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 248 # Comments: 23",
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -151,19 +162,8 @@
       "is_featured": false
     },
     {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs ",
-      "url": "https://gitlab.com/snipedbywifi/terminactory?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 14 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "KDE: The documentary [video]",
-      "description": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 416 # Comments: 89",
+      "description": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 516 # Comments: 114",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "description": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 179 # Comments: 39",
+      "description": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 206 # Comments: 49",
       "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -185,7 +185,7 @@
     },
     {
       "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "description": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 207 # Comments: 61",
+      "description": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 274 # Comments: 155",
       "url": "https://projectzero.google/2026/11/disclosure-policy.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -195,19 +195,8 @@
       "is_featured": false
     },
     {
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "description": "Article URL: https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/ Comments URL: https://news.ycombinator.com/item?id=50471874 Points: 123 # Comments: 70",
-      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 12 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Generative AI uses more energy on non-English text",
-      "description": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 190 # Comments: 101",
+      "description": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 221 # Comments: 115",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -218,7 +207,7 @@
     },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
-      "description": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 529 # Comments: 289",
+      "description": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 576 # Comments: 309",
       "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -228,9 +217,9 @@
       "is_featured": false
     },
     {
-      "title": "Why I Don't Cache Video Files on My Downloader",
-      "description": "When I built ramrom.io, a free video downloader that runs on plain PHP hosting, one of the first questions I had to answer was simple: once a visitor downloads a video, should my server keep a copy of it? It is tempting. If ten people download the same popular TikTok video, keepi",
-      "url": "https://dev.to/mobeenahmedgondal/why-i-dont-cache-video-files-on-my-downloader-2fem?ref=devdeals",
+      "title": "Is there a Duolingo for coding? Now there is one",
+      "description": "I kept bailing on new programming courses. After the workday I had no energy left, and I didn’t want to start my day with a 30-minute learning session either. I’ve had a Duolingo streak for about a year and never had trouble keeping it up — it’s just 3 minutes a day . Doing it ev",
+      "url": "https://dev.to/markovskyi/is-there-a-duolingo-for-coding-now-there-is-one-5gpb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -239,9 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "A PRD is not enough anymore: what an AI coding agent actually needs to build your app",
-      "description": "A product requirements document used to be the end of the specification. You wrote what the app should do, handed it to a developer, and the developer filled in the rest — the tables, the endpoints, the edge cases — with judgement. An AI coding agent does not fill in the rest wit",
-      "url": "https://dev.to/web-dev-mehedi/a-prd-is-not-enough-anymore-what-an-ai-coding-agent-actually-needs-to-build-your-app-4bon?ref=devdeals",
+      "title": "Blackridge Systems: An Evidence-Driven Pipeline for Reusing Open-Source Components",
+      "description": "This article was written by an AI agent from the project's README and release notes, and published automatically. The project is by krapcys1-maker ; the code is at krapcys1-maker/blackridge-systems . Most \"compose a system from open-source parts\" ideas fail at the same point: dec",
+      "url": "https://dev.to/nia_agent_d4ea108025639bc/blackridge-systems-an-evidence-driven-pipeline-for-reusing-open-source-components-2a36?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -250,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Day 4: +392 downloads yesterday",
-      "description": "Yesterday's downloads: 5,951 combined, +392 since yesterday . 4,049 to go to 10,000. hexlens: +177 (1,217 total) environmental-peek: +151 (1,329 total) plumber-linter: +30 (1,769 total) @parasraju /plumber-mcp: +25 (684 total) react-dismiss: +9 (952 total) What shipped yesterday ",
-      "url": "https://dev.to/parasraju/day-4-392-downloads-yesterday-6i?ref=devdeals",
+      "title": "It's just HTTP, so it's just Go: a bit-perfect UPnP player, one codebase for Windows, Linux and macOS",
+      "description": "I listen to a lossless library, FLAC files and whole-album FLAC images with .cue sheets, through two small network streamers. For a while I drove them from foobar2000: install the UPnP component, pick the renderer as the output, choose the format it should be sent, keep the DSP c",
+      "url": "https://dev.to/andrey_m/taking-the-pc-out-of-the-audio-path-a-bit-perfect-upnp-player-in-go-and-a-week-of-fighting-ggd?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -261,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Every answer points to a verse: designing a Bible study app around traceable answers",
-      "description": "Most Bible study apps give you a reading and a reflection question. Wayfold is built around a stricter idea: every answer should point to the exact words in the chapter that prove it. Here's how that rule shaped the app. Answers you can trace to a verse Read the full chapter (Wor",
-      "url": "https://dev.to/honestlittleapps/every-answer-points-to-a-verse-designing-a-bible-study-app-around-traceable-answers-8be?ref=devdeals",
+      "title": "I'm 16 and built a tiny hosting platform to earn from my hobby. It has 0 users so far",
+      "description": "I'm 16, and coding is my hobby. I wanted to see if I could turn it into a little income, so I built tinybox : tiny servers you can start in a minute. What it does Deploy from a GitHub repo (Node.js, Python or static sites) A web terminal in your browser Your own name.tinybox.onli",
+      "url": "https://dev.to/bimsarathennakoon/im-16-and-built-a-tiny-hosting-platform-to-earn-from-my-hobby-it-has-0-users-so-far-2bam?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -272,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
-      "description": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026. TL;DR: For NASA Space Apps 2026 I built Ghost Rovers, a free web app where kids sit at a 1969 Mission Control console and call the 12 machines NASA left on the Moon and Mars. Five Moon machines an",
-      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575?ref=devdeals",
+      "title": "Introducing LumixOS: A Lightweight Debian-Based Linux OS Built by an 11-Year-Old Developer!",
+      "description": "Hello DEV Community! I am excited to introduce my operating system project, LumixOS, developed by me (Waseem, an 11-year-old developer from Morocco). Why I Built LumixOS: My main goal is to bring old and low-spec computers back to life with a fast, smooth, and reliable operating ",
+      "url": "https://dev.to/wassim_ouzaid_d515aba9bfe/introducing-lumixos-a-lightweight-debian-based-linux-os-built-by-an-11-year-old-developer-4k0a?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -283,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Designing the first 10 seconds of a quit-vaping app: one button for a craving",
-      "description": "A vaping craving usually peaks and passes within minutes. The problem is those minutes. CraveBreaker is built around one button, \"I have a craving\" , and what happens in the first few seconds after you tap it. The craving screen: no account, no paywall, no questionnaire A 90-seco",
-      "url": "https://dev.to/honestlittleapps/designing-the-first-10-seconds-of-a-quit-vaping-app-one-button-for-a-craving-49e5?ref=devdeals",
+      "title": "DiffSeek - more time reviewing PRs, so I built a noise-hiding extension",
+      "description": "With LLMs writing more of the code, the pull requests I review got longer while my time for them stayed the same. Review became the step everything else waits on, so I built a browser extension that makes it easier to see which files still need a person to read them. It adds to G",
+      "url": "https://dev.to/native/diffseek-more-time-reviewing-prs-so-i-built-a-noise-hiding-extension-48j6?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -294,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "I built and open-sourced 21 professional tools — security scanners, an AI-search analytics CLI, a private messenger, and more",
-      "description": "I'm Tahir Younas, a penetration tester and application security engineer. Alongside client security work, I run Tytechlabs — and over the past weeks I built and open-sourced 21 professional tools , every one of them tested (726 automated tests in total) and GPL-3.0 licensed. Why ",
-      "url": "https://dev.to/tahiryounas604/i-built-and-open-sourced-21-professional-tools-security-scanners-an-ai-search-analytics-cli-a-58pd?ref=devdeals",
+      "title": "What I learned building a live-streaming widget with Go + SRS (and one iframe)",
+      "description": "I run a small live-selling widget for Shopify and WooCommerce stores. Not a startup — one person, one Go binary, SRS for media. A few decisions turned out to matter more than the feature list, so I'm writing them down. 1. Iframe instead of a script tag The first version was <scri",
+      "url": "https://dev.to/durianlive/what-i-learned-building-a-live-streaming-widget-with-go-srs-and-one-iframe-49li?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -305,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Unknown is not 'symptom-free': designing a private menopause symptom tracker",
-      "description": "Perimenopause appointments are short. The symptoms they're about happened weeks ago, scattered across nights and workdays, and they're hard to remember in the room. My Midlife Story is a private symptom tracker built to fix exactly that gap: capture the moment in one tap, then ha",
-      "url": "https://dev.to/honestlittleapps/unknown-is-not-symptom-free-designing-a-private-menopause-symptom-tracker-23fc?ref=devdeals",
+      "title": "AI Clipping With Claude Code: How to Automate Clipping From Campaign Brief to Checked, Disclosed Clips",
+      "description": "AI clipping usually means one thing: a tool finds moments in a long video and cuts them vertical. In a paid clipping campaign that is the easy part. Clips get rejected for the rest of the job: a missing hashtag, the watermark the brief asked for, the wrong length, an account that",
+      "url": "https://dev.to/fheijdenrijk/ai-clipping-with-claude-code-how-to-automate-clipping-from-campaign-brief-to-checked-disclosed-3i7c?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -316,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Beyond Black-Box Prompts: Building an Explainable Multi-Agent Financial Intelligence Platform with FastAPI & React",
-      "description": "In quantitative finance and retail investing, treating Large Language Models as a single \"oracle\" prompt is dangerous. When you ask a single LLM whether a stock is a buy, it frequently exhibits confirmation bias, hallucinations with financial figures, and a total lack of calibrat",
-      "url": "https://dev.to/khare69/beyond-black-box-prompts-building-an-explainable-multi-agent-financial-intelligence-platform-with-4o03?ref=devdeals",
+      "title": "Show DEV: Vela – A lightweight Windows music player built with Rust",
+      "description": "Vela – A new music player for Windows Vela is a new Windows music player currently in development. The idea is to create a clean and enjoyable music experience with more control over how music sounds. The interface is completely custom-designed, with both dark and light modes. A ",
+      "url": "https://dev.to/naruto_kurama_00af8ce0d06/show-dev-vela-a-lightweight-windows-music-player-built-with-rust-5174?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -327,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Designing a pill reminder that never says 'missed' when it doesn't know",
-      "description": "When several family members help an aging parent with medication, the hardest bug isn't a crash. It's a record that says something that isn't true. \"Missed\" when nobody actually checked. \"Given\" when someone only meant to give it. Two siblings both logging the same dose. We built",
-      "url": "https://dev.to/honestlittleapps/designing-a-pill-reminder-that-never-says-missed-when-it-doesnt-know-5hnc?ref=devdeals",
+      "title": "How to turn a PDF into a narrated whiteboard video for free (with Claude)",
+      "description": "I wanted a way to turn slides and PDFs into those hand-drawn whiteboard explainer videos without paying a monthly subscription for every few videos. So I built one. It's called Sketchcast, it's free, and it runs as a skill inside Claude. This post walks you through setting it up ",
+      "url": "https://dev.to/osiwu_franklin_52e4de9921/how-to-turn-a-pdf-into-a-narrated-whiteboard-video-for-free-with-claude-mbe?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -338,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Virtual pets that choose for themselves and tell you why: designing Puffgrove",
-      "description": "Most virtual pets run on timers: a hunger bar drops, you tap feed, repeat. In Puffgrove we wanted the opposite: pets that make their own choices, explain them, and change over time because of what you did. Pets that decide, and say why Each Mossbun, Otterpop and Embermew weighs i",
-      "url": "https://dev.to/honestlittleapps/virtual-pets-that-choose-for-themselves-and-tell-you-why-designing-puffgrove-1pm2?ref=devdeals",
+      "title": "How I built pocketpdf.site — the file tools I always wanted",
+      "description": "I've always wanted a simple place where I could quickly edit, convert, or manage files without having to install another application or sign up for yet another account. Most online file tools either make you deal with unnecessary steps, limit what you can do, or put basic feature",
+      "url": "https://dev.to/pocketpdf/how-i-built-pocketpdfsite-the-file-tools-i-always-wanted-ge7?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 15 Nov 2026",
@@ -349,11 +338,165 @@
       "is_featured": false
     },
     {
-      "title": "An emergency card that opens with no signal: designing an offline family emergency plan app",
-      "description": "When something goes wrong at home, the information people need is usually scattered: a contact in one phone, a medication list on the fridge, insurance details in an email nobody can find. We built Family Ready to put the critical part in one place that still works when the netwo",
-      "url": "https://dev.to/honestlittleapps/an-emergency-card-that-opens-with-no-signal-designing-an-offline-family-emergency-plan-app-249d?ref=devdeals",
+      "title": "How to Create a Cinematic Wedding Invitation Website for Your Indian Wedding",
+      "description": "Planning an Indian wedding involves countless details — from venue and guest list to RSVPs and budgets. One of the first things couples need is a beautiful wedding invitation that sets the tone for their big day. Traditional printed invitations are expensive and can't be updated ",
+      "url": "https://dev.to/mangalya_e2878e09ed1b2150/how-to-create-a-cinematic-wedding-invitation-website-for-your-indian-wedding-18ci?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Stop building new AI agent orchestrators – there are 636",
+      "description": "Article URL: https://github.com/erson/awesome-agent-orchestrators/ Comments URL: https://news.ycombinator.com/item?id=50506724 Points: 1 # Comments: 0",
+      "url": "https://github.com/erson/awesome-agent-orchestrators/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "description": "Article URL: https://age-of-product.com/ai-adoption-failures/ Comments URL: https://news.ycombinator.com/item?id=50506625 Points: 1 # Comments: 0",
+      "url": "https://age-of-product.com/ai-adoption-failures/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Five Layers of the AI Cake [pdf]",
+      "description": "Article URL: https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf Comments URL: https://news.ycombinator.com/item?id=50506586 Points: 1 # Comments: 0",
+      "url": "https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The Backdoor Route That Keeps Beijing in the AI Race",
+      "description": "Article URL: https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d Comments URL: https://news.ycombinator.com/item?id=50506584 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Skills for Real Scientists – Steer Away AI Slop",
+      "description": "Article URL: https://github.com/HiteSit/real-scientist-skills Comments URL: https://news.ycombinator.com/item?id=50506529 Points: 1 # Comments: 0",
+      "url": "https://github.com/HiteSit/real-scientist-skills?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
+      "description": "Article URL: https://arxiv.org/abs/2605.26298 Comments URL: https://news.ycombinator.com/item?id=50506416 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2605.26298?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Prediction: In less than 24 hour after launch GTA 6 will run on PC",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=50506375 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50506375&utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Misaligned AI behaviors that indicate loss-of-control risk",
+      "description": "Article URL: https://guidelight.ai/blog/categories-of-misaligned-ai-behaviors Comments URL: https://news.ycombinator.com/item?id=50506342 Points: 1 # Comments: 0",
+      "url": "https://guidelight.ai/blog/categories-of-misaligned-ai-behaviors?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+      "description": "Article URL: https://github.com/felipetjmg1-bit/aurora-geointelligence-xai Comments URL: https://news.ycombinator.com/item?id=50506332 Points: 1 # Comments: 0",
+      "url": "https://github.com/felipetjmg1-bit/aurora-geointelligence-xai?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "We Need Guidelines for Learning and AI",
+      "description": "Article URL: https://www.scotthyoung.com/blog/2026/07/22/we-need-guidelines-for-learning-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50506304 Points: 2 # Comments: 1",
+      "url": "https://www.scotthyoung.com/blog/2026/07/22/we-need-guidelines-for-learning-and-ai/?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AI Slop Papers Published Under Prominent Academics Names",
+      "description": "Article URL: https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names Comments URL: https://news.ycombinator.com/item?id=50506197 Points: 1 # Comments: 0",
+      "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Taking AI Seriously",
+      "description": "Article URL: https://borretti.me/article/taking-ai-seriously Comments URL: https://news.ycombinator.com/item?id=50505795 Points: 4 # Comments: 1",
+      "url": "https://borretti.me/article/taking-ai-seriously?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Most of AI moats are just fuel",
+      "description": "Article URL: https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just Comments URL: https://news.ycombinator.com/item?id=50505606 Points: 1 # Comments: 0",
+      "url": "https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
+      "date": "Sun, 15 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+      "description": "Article URL: https://github.com/khoadev-vn/VANTAGE-V-AI Comments URL: https://news.ycombinator.com/item?id=50505516 Points: 1 # Comments: 0",
+      "url": "https://github.com/khoadev-vn/VANTAGE-V-AI?utm_source=devdeals",
+      "category": "AI & SaaS",
+      "source": "Product Hunt Tech Launches",
       "date": "Sun, 15 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
