@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-18 15:12:15 UTC",
+    "updated_at": "2026-11-18 23:55:41 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,9 +63,9 @@
       "date": "Nov 18, 2026"
     },
     {
-      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "description": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 181 # Comments: 37",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/?ref=devdeals",
+      "title": "Gemini 4 Neon",
+      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 324 # Comments: 309",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -74,9 +74,9 @@
       "is_featured": false
     },
     {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "description": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 199 # Comments: 29",
-      "url": "https://energy-based-reasoners.github.io/?ref=devdeals",
+      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "description": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 107 # Comments: 28",
+      "url": "https://www.radixark.com/blog/daisyrose-27b?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -85,9 +85,9 @@
       "is_featured": false
     },
     {
-      "title": "AI is killing All About Berlin",
-      "description": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 613 # Comments: 573",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai?ref=devdeals",
+      "title": "Genie 4 is now available",
+      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 168 # Comments: 139",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -96,9 +96,9 @@
       "is_featured": false
     },
     {
-      "title": "Why is Gemini 4 Carbon taking so long?",
-      "description": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 202 # Comments: 100",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/?ref=devdeals",
+      "title": "Advancing chip design with OpenAI models",
+      "description": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 144 # Comments: 84",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -107,9 +107,9 @@
       "is_featured": false
     },
     {
-      "title": "Claude was trained on protein sequences at scale",
-      "description": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 117 # Comments: 53",
-      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/?ref=devdeals",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "description": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover explains how to play i",
+      "url": "https://rshekhar.com/voyager/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -118,9 +118,9 @@
       "is_featured": false
     },
     {
-      "title": "ID.me terms required for IRS sign-in",
-      "description": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 422 # Comments: 221",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in?ref=devdeals",
+      "title": "Seven new models at scalable price-performance",
+      "description": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 403 # Comments: 281",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -129,9 +129,9 @@
       "is_featured": false
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "description": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 590 # Comments: 446",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/?ref=devdeals",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "description": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 164 # Comments: 113",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312&ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 18 Nov 2026",
@@ -140,97 +140,97 @@
       "is_featured": false
     },
     {
-      "title": "Archive Team is archiving the Apple Support Community",
-      "description": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 237 # Comments: 91",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions?ref=devdeals",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "description": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 141 # Comments: 37",
+      "url": "https://exitpath-ruddy.vercel.app/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "description": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 399 # Comments: 82",
-      "url": "https://github.com/microsoft/onnxruntime?ref=devdeals",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "description": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 314 # Comments: 144",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "description": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 813 # Comments: 369",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/?ref=devdeals",
+      "title": "Inside Deutsche Bank",
+      "description": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 510 # Comments: 182",
+      "url": "https://www.inside-db.com/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "description": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 260 # Comments: 350",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/?ref=devdeals",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "description": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 138 # Comments: 103",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "description": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 1071 # Comments: 285",
-      "url": "https://calif.io/java4shell/?ref=devdeals",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "description": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1036 # Comments: 474",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "jQuery 4.1.0",
-      "description": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 353 # Comments: 184",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0?ref=devdeals",
+      "title": "The x86 CPU: From 4004 to 486",
+      "description": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 130 # Comments: 45",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-      "description": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 376 # Comments: 122",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969?ref=devdeals",
+      "title": "A Primer on Fourier Series (2025)",
+      "description": "Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 104 # Comments: 28",
+      "url": "https://arxiv.org/abs/2510.18203?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Solid 2.0",
-      "description": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 349 # Comments: 111",
-      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/?ref=devdeals",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "description": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 222 # Comments: 166",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Tue, 17 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I sent Apple a smaller build to save time. I ended up doing the work twice.",
-      "description": "I'm a junior solo developer from South Korea. I use a translator to help me write in English. I'm making Daily Trader: Stock Game. You watch the chart, read the news, and buy and sell stocks with virtual money. I released it on Android first. It is now on the App Store too. For i",
-      "url": "https://dev.to/_21fd064819ff1707b8060/i-sent-apple-a-smaller-build-to-save-time-i-ended-up-doing-the-work-twice-3cmj?ref=devdeals",
+      "title": "Reset Receipt: A Breathing Break That Shows What SmartSpectra Actually Measured",
+      "description": "This is a submission for the Presage SmartSpectra SDK Challenge . Breathing exercises are simple to follow: inhale, exhale, repeat. But finishing an exercise doesn't tell you whether your breathing was actually measured, how reliable those measurements were, or whether there is e",
+      "url": "https://dev.to/virus_cb807844a8eece1e266/reset-receipt-a-breathing-break-that-shows-what-smartspectra-actually-measured-1k5f?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Review your Google Ads search terms inside Claude (a free plugin, and the same review in your browser)",
-      "description": "If you run Google Search accounts and use Claude, you can ask Claude to review your search terms report. It gives you an upload link, you upload one export on pipeyield.com, and the result comes back into the chat: about how much a month goes to searches you could exclude, then t",
-      "url": "https://dev.to/pipeyield/review-your-google-ads-search-terms-inside-claude-a-free-plugin-and-the-same-review-in-your-29e5?ref=devdeals",
+      "title": "The Speed of Wanting — Chapter Twenty-One: The Shrew That Locked Together",
+      "description": "A grown man stood on this shrew, and the shrew walked away. That is not a fable's opening; it is a witnessed demonstration, repeated for visitors in the Congo in the 1910s, and it is where I have to start, because everything else about this animal sounds like exaggeration until t",
+      "url": "https://dev.to/merlindreams0/the-speed-of-wanting-chapter-twenty-one-the-shrew-that-locked-together-2mgo?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "I Added an MCP Server to MyLeadBots. Here Are the Three Tools, and the Line I Won't Let Them Cross.",
-      "description": "I added an MCP server to MyLeadBots so I can run prospect research from Claude, Claude Code, or Cursor without opening the dashboard. The protocol part is straightforward. The part I care about is what the tools are allowed to claim once they are sitting inside a chat. I am a lea",
-      "url": "https://dev.to/azeem_shafeeq/i-added-an-mcp-server-to-myleadbots-here-are-the-three-tools-and-the-line-i-wont-let-them-cross-431a?ref=devdeals",
+      "title": "How a Small Team Turns Email and Lead Follow-up Into Scheduled Workflows — Without Giving Up Local Control",
+      "description": "Hello from the aiFetchly team. We build aiFetchly, an open-source, local-first desktop AI agent for business automation: research, document processing, customer communication, scheduled workflows, plugins, and business knowledge. Small teams rarely lack leads or replies. They lac",
+      "url": "https://dev.to/aifetchly_ai/how-a-small-team-turns-email-and-lead-follow-up-into-scheduled-workflows-without-giving-up-local-28i?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "513 Tokens in a 512-Token Chunk: Why I Recount Every Chunk",
-      "description": "text-chipper is a Rust RAG chunker with strict token budgets, structure-aware chunks, and bounded-memory streaming for large files. A token budget is only a hard limit if it is checked on the text actually returned. I built text-chipper to do that while preserving Markdown struct",
-      "url": "https://dev.to/kameh0use/513-tokens-in-a-512-token-chunk-why-i-recount-every-chunk-4e2f?ref=devdeals",
+      "title": "robots.txt asks, the server answers. Method and data from the AI Access Index",
+      "description": "Disclosure: we build Crawl Readiness, a website check that also sells paid audits and monitoring. We also maintain Machine Readiness, the standard Crawl Readiness measures against. No standards body or AI company has adopted it. Both are made by Tundrastone (Ontario, Canada). On ",
+      "url": "https://dev.to/grubbomatic/robotstxt-asks-the-server-answers-method-and-data-from-the-ai-access-index-98g?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "I made an ANSI video format (.m2a) and a ~11 KB canvas player for it",
-      "description": "Live version (real code running in the browser): https://pleiades.shalotts.site/movie/ Page source: https://github.com/francyfox/PleiadesOrchestra/blob/master/apps/docs/src/routes/movie/%2Bpage.svelte ANSI encoder and player: https://github.com/francyfox/movie2ansi The page is a ",
-      "url": "https://dev.to/francyfox/i-made-an-ansi-video-format-m2a-and-a-11-kb-canvas-player-for-it-2imj?ref=devdeals",
+      "title": "i pointed a mitm proxy at my own 1.17 mb player for a week. here is every request it made",
+      "description": "I build the player's home page , a small media player client for Android and Windows. the apk is 1.17 mb, the exe is 29.5 mb. the landing page claims \"zero telemetry\" and \"no account\". claims like that are cheap, so i tried to disprove my own claim. setup: i ran the app behind mi",
+      "url": "https://dev.to/hammiwor/i-pointed-a-mitm-proxy-at-my-own-117-mb-player-for-a-week-here-is-every-request-it-made-2igf?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Praxi-Bot: A Local-First AI Agent Built with Rust and Tauri — Looking for Contributors",
-      "description": "I've been building Praxi-Bot , an Apache-2.0-licensed, local-first AI agent platform in Rust and Tauri. I'm opening up development and looking for people who want to build it together. What is Praxi-Bot? Praxi-Bot is designed to run on your own machine or server and to connect lo",
-      "url": "https://dev.to/emreocell1219/praxi-bot-a-local-first-ai-agent-built-with-rust-and-tauri-looking-for-contributors-45cd?ref=devdeals",
+      "title": "What I learned shipping a remote MCP server that Claude and ChatGPT actually use",
+      "description": "I'm a high school senior in Texas, and I built Stopover . You give it a home city, 2 to 7 cities you want to visit and a date window. It prices every order of those cities (7 cities is 5,040 orders) on dates that fit together and tells you which order costs least, with a flight o",
+      "url": "https://dev.to/anshpathak/what-i-learned-shipping-a-remote-mcp-server-that-claude-and-chatgpt-actually-use-277p?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "I simulated 200,000 double-elimination brackets to find where the losers should drop",
-      "description": "The first version of my bracket engine passed every test I had written. The game counts were right for every field from 2 to 64 teams, nobody was knocked out before a second loss, and no game was scheduled before the two games that fed it. It was still wrong in a way none of thos",
-      "url": "https://dev.to/fancy39_9841cbc02f99f729c/i-simulated-200000-double-elimination-brackets-to-find-where-the-losers-should-drop-1p4e?ref=devdeals",
+      "title": "I used Pi subagents to test my hackathon project against real code changes",
+      "description": "I asked a Pi agent to test LessCode against real pull requests. It sent one subagent to find TypeScript repositories and candidate PRs, then assigned the test runs to other subagents. That was the moment I thought, Okay, this is doable. Finding useful test cases and running the t",
+      "url": "https://dev.to/drakenmario/i-used-pi-subagents-to-test-my-hackathon-project-against-real-code-changes-pll?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "One student, three classes, three fee cycles: the data model behind TutorTrack",
-      "description": "Ask a private tutor how they track fees and you'll usually hear about a notebook, a spreadsheet, or \"I just remember.\" It works until one student is in two of your classes. Grade 10 Physics is paid weekly. A-Level Mathematics is paid monthly. Same student, same parent's phone num",
-      "url": "https://dev.to/stacklyn_labs/one-student-three-classes-three-fee-cycles-the-data-model-behind-tutortrack-cdj?ref=devdeals",
+      "title": "One voice for all my coding agents",
+      "description": "I usually have more than one coding agent running in separate terminal tabs (Pi and Claude Code). I don't like watching spinners or switching windows every minute to check if a task finished or if an agent is waiting for input. It's much more comfortable if they just tell me out ",
+      "url": "https://dev.to/teo_furlan/one-voice-for-all-my-coding-agents-1n5k?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Some mahjong solitaire deals can't be won. I deal mine backwards so they always can",
-      "description": "Shuffle 144 mahjong tiles onto the classic Turtle layout and a small share of those boards is lost before the first click. Michiel de Bondt measured it for the standard layout: 2.95% of random boards cannot be solved , even by a solver that sees every hidden tile. A person who ca",
-      "url": "https://dev.to/mahjongbay/some-mahjong-solitaire-deals-cant-be-won-i-deal-mine-backwards-so-they-always-can-4p7d?ref=devdeals",
+      "title": "My Linux Course Put Me to Sleep, So I Built Something That Wouldn’t",
+      "description": "Confession time. I signed up for the free Introduction to Linux course from the Linux Foundation. It's a really good course. It's thorough, it's free, and it covers everything you need. But a few chapters in, my brain checked out. Page after page of reading. Then more reading. I'",
+      "url": "https://dev.to/maame-codes/my-linux-course-put-me-to-sleep-so-i-built-something-that-wouldnt-5g4k?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "manifest.json on a PHP site: name, icons, and theme-color in an afternoon",
-      "description": "I run a small video downloader site, ramrom.io, built in plain PHP on shared hosting. No framework, no build step, no Node.js. One afternoon I decided to make it installable — the kind of thing where a visitor on Android can tap \"Add to Home screen\" and get an app-like icon inste",
-      "url": "https://dev.to/mobeenahmedgondal/manifestjson-on-a-php-site-name-icons-and-theme-color-in-an-afternoon-4cjm?ref=devdeals",
+      "title": "When \"the same setting\" meets a stone you have not measured",
+      "description": "\"Same setting as the 2019 repair, but it's a sapphire this time, and please keep the inscription inside the shank. Ready for her birthday at the end of the month.\" That reads like a remount you can start. It isn't. Two facts in the new email only make sense against the 2019 job c",
+      "url": "https://dev.to/maildoer/when-the-same-setting-meets-a-stone-you-have-not-measured-3m50?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "I Built an Ephemeral 4-Track Music Jam in the Browser That Vanishes After 16 Hours",
-      "description": "Making music online often feels intimidating—everything is permanent, polished, and tied to a profile. I wanted the opposite: a low-pressure, anonymous playground where strangers can layer a quick beat, bassline, or hummed melody together, knowing the entire song will disappear a",
-      "url": "https://dev.to/pomentomori/i-built-an-ephemeral-4-track-music-jam-in-the-browser-that-vanishes-after-16-hours-kgg?ref=devdeals",
+      "title": "How I built a 19,000-page markets site in 20 languages with one Python script",
+      "description": "Most markets sites are built for traders: dense terminals, ads everywhere, English only. I wanted the opposite: a site where an ordinary person in Kyiv, Madrid or Jakarta can open Bitcoin, Nvidia or gold and understand what is going on, in their own language and currency. The res",
+      "url": "https://dev.to/alekdu11/how-i-built-a-19000-page-markets-site-in-20-languages-with-one-python-script-11c?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "I built an editor that is faster than Zed",
-      "description": "Introduction I am building an editor called Nople . It is an editor for reading and checking code, and now and then fixing it, and its features are kept to what that needs. One of Nople's features is how fast it opens large files. That is also what \"faster than Zed\" in the title ",
-      "url": "https://dev.to/bankaitensei/i-built-an-editor-that-is-faster-than-zed-1hi1?ref=devdeals",
+      "title": "My local LLM suggested 27 references. Only 7 passed verification.",
+      "description": "I record a lot of lectures and meetings, but I almost never watch them again. What I actually want afterward is something I can read: a summary of what was discussed, the main topics, and any books or papers that were mentioned. So I started building vtd (video-to-doc) , an open-",
+      "url": "https://dev.to/drakenmario/my-local-llm-suggested-27-references-only-7-passed-verification-4nm9?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 18 Nov 2026",
