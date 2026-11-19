@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-19 06:20:45 UTC",
+    "updated_at": "2026-11-19 20:00:26 UTC",
     "total_items": 46
   },
   "deals": [
@@ -63,9 +63,9 @@
       "date": "Nov 19, 2026"
     },
     {
-      "title": "Unreal Tournament 2004 in the Browser",
-      "description": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 110 # Comments: 50",
-      "url": "https://ut2004.dev/?ref=devdeals",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "description": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 173 # Comments: 44",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Thu, 19 Nov 2026",
@@ -74,9 +74,9 @@
       "is_featured": false
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "description": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 199 # Comments: 67",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/?ref=devdeals",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "description": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 415 # Comments: 622",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Thu, 19 Nov 2026",
@@ -85,152 +85,152 @@
       "is_featured": false
     },
     {
-      "title": "We need smart people who give a shit",
-      "description": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 401 # Comments: 208",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/?ref=devdeals",
+      "title": "Fuck Your AI Safeguards",
+      "description": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 224 # Comments: 81",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "description": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 178 # Comments: 55",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/?ref=devdeals",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "description": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 257 # Comments: 116",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "description": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 141 # Comments: 38",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering?ref=devdeals",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "description": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 108 # Comments: 54",
+      "url": "https://cornholenews.news?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Gemini 4 Neon",
-      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 672 # Comments: 577",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?ref=devdeals",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "description": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 160 # Comments: 150",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "DaisyRose-27B",
-      "description": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 178 # Comments: 57",
-      "url": "https://www.radixark.com/blog/daisyrose-27b?ref=devdeals",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "description": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 117 # Comments: 76",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Genie 4 is now available",
-      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 225 # Comments: 154",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/?ref=devdeals",
+      "title": "Everything you need to survive and rebuild society",
+      "description": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 261 # Comments: 149",
+      "url": "https://lastbook.org/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "description": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 189 # Comments: 118",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/?ref=devdeals",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "description": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 156 # Comments: 39",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "description": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover explains how to play i",
-      "url": "https://rshekhar.com/voyager/?ref=devdeals",
+      "title": "Someone reported java4shell bug in September 2026",
+      "description": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 238 # Comments: 65",
+      "url": "https://github.com/openjdk/jdk/pull/32781?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Seven new models at scalable price-performance",
-      "description": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 502 # Comments: 335",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/?ref=devdeals",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "description": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 584 # Comments: 280",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-      "description": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 184 # Comments: 121",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312&ref=devdeals",
+      "title": "What's New in PHP 8.6",
+      "description": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 240 # Comments: 113",
+      "url": "https://www.php.net/releases/8.6/en.php?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-      "description": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 195 # Comments: 58",
-      "url": "https://exitpath-ruddy.vercel.app/?ref=devdeals",
+      "title": "SSD prices may begin to decline in the latter half of 2027",
+      "description": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 271 # Comments: 216",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "description": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 433 # Comments: 188",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/?ref=devdeals",
+      "title": "Do not buy RAM, compress",
+      "description": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 165 # Comments: 137",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Inside Deutsche Bank",
-      "description": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 622 # Comments: 203",
-      "url": "https://www.inside-db.com/?ref=devdeals",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "description": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 210 # Comments: 58",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Thu, 19 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Shipping a Python app inside Electron on a Mac: 7 things that broke when I signed and notarized it",
-      "description": "A few weeks ago I wrote about DubEval , an open-source app that checks a dubbed video against its original. Back then it was Windows only, and \"macOS runs from source\" really meant \"macOS doesn't\". Last week the Mac version shipped: signed with a Developer ID, notarized, and able",
-      "url": "https://dev.to/shokhrukh_ochilov_ee12b13/shipping-a-python-app-inside-electron-on-a-mac-7-things-that-broke-when-i-signed-and-notarized-it-k5l?ref=devdeals",
+      "title": "UGC Creator Skill for Claude Code: Paid Campaign Brief In, Your Own Disclosed Video Posted, Every Payout Tracked",
+      "description": "UGC creator work on paid per-view campaigns looks like filming from the outside. From the inside, filming is the short part. The rest is reading a brief with fourteen rules in it, writing a script that hits every talking point without saying anything that isn't true for you, cutt",
+      "url": "https://dev.to/fheijdenrijk/ugc-creator-skill-for-claude-code-paid-campaign-brief-in-your-own-disclosed-video-posted-every-48lm?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "2 self-hosted apps for Indian businesses: CA Vault for CA firms and Toran for weddings",
-      "description": "Most business software today is a monthly subscription, and your data lives on someone else's cloud. For some Indian businesses that's a real problem: A CA firm holds the PAN, Aadhaar, bank details and Income Tax / GST portal passwords of hundreds of clients. A wedding family or ",
-      "url": "https://dev.to/rutvik_patel_05b3a7219ebb/2-self-hosted-apps-for-indian-businesses-ca-vault-for-ca-firms-and-toran-for-weddings-1ned?ref=devdeals",
+      "title": "How I Built a $5/Month Solana Rug-Check API (and Recreated a Viral Experiment)",
+      "description": "On 18 November 2026, @Corki_0x posted that he gave a Grok Bot a $15 Solana wallet, told it to pay for itself or shut down, and that the bot tried to stay online by selling Solana rug checks at $0.25 each, or $0.05 in bulk. The original post is here: https://x.com/Corki_0x/status/",
+      "url": "https://dev.to/agentdev9/how-i-built-a-5month-solana-rug-check-api-and-recreated-a-viral-experiment-4ema?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "If nobody writes it down, it did not get decided",
-      "description": "A decision that only lives in the room is not really a decision yet. It is a memory, and memories drift by the next morning. One person remembers Tuesday. Another remembers Thursday. A third remembers a different owner entirely. Then the work gets done twice, or not at all, and t",
-      "url": "https://dev.to/ashleybuilds/if-nobody-writes-it-down-it-did-not-get-decided-3388?ref=devdeals",
+      "title": "The invoice list should not live in your sent folder",
+      "description": "Wes here. I sell Solopreneur OS, a Notion setup for one person businesses that run the office side alone. An invoice list kept in your sent folder tells you what went out. It does not tell you, on one page, what is paid, what is late, and what still needs a follow up this week. S",
+      "url": "https://dev.to/ashleybuilds/the-invoice-list-should-not-live-in-your-sent-folder-1ooo?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "GPU Watch – Monitor remote NVIDIA GPUs from your Mac menu bar over SSH",
-      "description": "I built a native macOS menu bar app to monitor NVIDIA GPUs across remote Linux servers. One problem I kept running into was how monitoring tools handle failures. If SSH goes down, that doesn't mean eight GPUs have failed. And if nvidia-smi stops responding, we shouldn't report it",
-      "url": "https://dev.to/pituphong_yavirachpengu/gpu-watch-monitor-remote-nvidia-gpus-from-your-mac-menu-bar-over-ssh-2bp5?ref=devdeals",
+      "title": "Diagrams never crash, so I built a game where your system design does",
+      "description": "I kept reading about load balancers, caches and sharding, then forgetting all of it a week later. A diagram never fails, so you never find out why any of it matters. So I built Bugpit , a game where you build a backend from blocks, send it traffic, and watch it break. No code nee",
+      "url": "https://dev.to/umarwebdev/diagrams-never-crash-so-i-built-a-game-where-your-system-design-does-1mk1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Any freelance web designers here? I'm building something for you :)",
-      "description": "I'm a solo dev, and I'm building a tool for freelance web designers and small web agencies in the UK and France ;) The idea: every morning it finds businesses that were registered in the last 7 days (Companies House in the UK, Sirene in France), keeps the trades that actually buy",
-      "url": "https://dev.to/anthonyranivoarison/any-freelance-web-designers-here-im-building-something-for-you--42al?ref=devdeals",
+      "title": "How we turned 95 different status pages into one data model",
+      "description": "When a deploy fails, how long does it take you to figure out if the problem is with your code or with GitHub, Cloudflare, or OpenAI? For us, it usually took about 20 minutes to check each status page one at a time. That’s why Matias and I built StatusPane. It tracks the official ",
+      "url": "https://dev.to/gurizilla/how-we-turned-95-different-status-pages-into-one-data-model-ekd?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "How my terminal knows which AI coding agent is waiting for me",
-      "description": "I usually have four or five coding agents running at once: Claude Code in one repo, Codex in another, an OpenCode session fixing tests somewhere else. The agents are fine. The part that kept wasting my time was simpler: which one is waiting for me right now? One agent has been si",
-      "url": "https://dev.to/ilhamnadhif/how-my-terminal-knows-which-ai-coding-agent-is-waiting-for-me-1pbm?ref=devdeals",
+      "title": "The parts list should not live in the truck cab",
+      "description": "Wes here. I sell Electrician OS, a Notion setup for electricians who run the office side from the truck. A parts list kept in the cab helps the person in that truck. It does not help the person ordering, the person quoting the next job, or anyone covering when that truck is on an",
+      "url": "https://dev.to/ashleybuilds/the-parts-list-should-not-live-in-the-truck-cab-3knb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "A free PRD template your AI coding agent can actually build from",
-      "description": "A free PRD template your AI coding agent can actually build from Most PRD templates are written for a human reader. That was fine when a human was the only reader. Now the reader is often Cursor, Claude Code, or Windsurf — and a prose-only PRD leaves that reader guessing at exact",
-      "url": "https://dev.to/web-dev-mehedi/a-free-prd-template-your-ai-coding-agent-can-actually-build-from-51af?ref=devdeals",
+      "title": "SML Dual Market Is Live on PeerPush — Racing for Product of the Day (102 Products, 21 Ways to Pay)",
+      "description": "SML Dual Market just launched on PeerPush and is racing for Product of the Day — today only. If you have ten seconds, an upvote there is the single most useful thing you can do for a veteran-owned shop today: 👉 https://peerpush.com/p/sml-dual-market-c8c16529 What it is Dual Marke",
+      "url": "https://dev.to/scriptmasterlabs01/sml-dual-market-is-live-on-peerpush-racing-for-product-of-the-day-102-products-21-ways-to-pay-1bn?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "The callback list nobody wrote down",
-      "description": "Every electrical shop has a callback list. It just usually lives in somebody's head. A breaker that tripped again. A panel label that did not match. A customer who was told someone would check back on Friday. If that list is not written down where the whole shop can see it, the c",
-      "url": "https://dev.to/ashleybuilds/the-callback-list-nobody-wrote-down-2120?ref=devdeals",
+      "title": "The Complete CBT Mental Health Toolkit: Free Tools for Developers",
+      "description": "title: \"The Complete CBT Mental Health Toolkit: Free Tools for Developers\" published: false As a developer who struggled with anxiety, I built a comprehensive set of CBT (Cognitive Behavioral Therapy) tools. They're all free, open source, and privacy-first — no signup, no backend",
+      "url": "https://dev.to/473185670/the-complete-cbt-mental-health-toolkit-free-tools-for-developers-3nc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Day 8: +232 downloads yesterday",
-      "description": "Yesterday was +232 downloads across the five packages. Combined total is now 7,799, with 2,201 to go to 10,000. plumber-linter: 2,339 (+171) hexlens: 1,617 (+9) environmental-peek: 1,600 (+29) react-dismiss: 1,329 (+18) @parasraju /plumber-mcp: 914 (+5) What shipped yesterday @pa",
-      "url": "https://dev.to/parasraju/day-8-232-downloads-yesterday-5747?ref=devdeals",
+      "title": "here check my open source repository :D",
+      "description": "I Built an Open-Source AI Studio That Turns One Prompt Into a Short Video Felipe Inoue Felipe Inoue Felipe Inoue Follow Nov 19 I Built an Open-Source AI Studio That Turns One Prompt Into a Short Video # showdev # ai # opensource # automation 3 reactions Add Comment 2 min read",
+      "url": "https://dev.to/fiwon123/here-check-my-open-source-repository-d-36oc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "I built a tool that finds the hiring team behind any job link",
-      "description": "I've been job hunting as a Senior PM. After 200+ applications and about 10 interviews, the pattern was clear: cold applications rarely went anywhere, but messaging the hiring manager or recruiter directly worked. 5 of my 6 direct messages turned into interviews, and 2 more came f",
-      "url": "https://dev.to/aleksei_burich/i-built-a-tool-that-finds-the-hiring-team-behind-any-job-link-3deg?ref=devdeals",
+      "title": "Give the agent a stop rule, not just a task",
+      "description": "Mira here. I build small agents for solo owners through Mira Vale Agents. Most agent setups I see hand the agent a task and no way to know when to stop. So it keeps going, flags everything, or sends a draft that was only meant to be checked. A working setup names the stop rule up",
+      "url": "https://dev.to/ashleybuilds/give-the-agent-a-stop-rule-not-just-a-task-bo4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Designing a trend template for an AI video tool: photo slots, a hidden scene prompt, and honest previews",
-      "description": "Short-video trends have a short shelf life and a very specific shape. When I added a template for the Spin That Coupe locker-room trend to AI Rap Video , a small browser tool I build that turns authorized photos into short rap performances, most of the work was not model plumbing",
-      "url": "https://dev.to/zen_nin_5436dd6d8af09920b/designing-a-trend-template-for-an-ai-video-tool-photo-slots-a-hidden-scene-prompt-and-honest-1m36?ref=devdeals",
+      "title": "I Built an Open-Source AI Studio That Turns One Prompt Into a Short Video",
+      "description": "My viral-short-videos-ai repository is ready to use. It lets you create short videos entirely on your PC, starting from one simple prompt. I'll be honest: after testing it, I can't promise it will produce great videos. But it's a fun experiment, and you might enjoy trying it your",
+      "url": "https://dev.to/fiwon123/i-built-an-open-source-ai-studio-that-turns-one-prompt-into-a-short-video-34n1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "Write the list before everyone leaves the room",
-      "description": "The most useful part of a meeting is the last five minutes, and it is the part most meetings skip. If the decisions, the owners, and the dates are not written down before everyone leaves the room, they get rebuilt from memory over the next two days. That rebuild is where tasks ge",
-      "url": "https://dev.to/ashleybuilds/write-the-list-before-everyone-leaves-the-room-14jh?ref=devdeals",
+      "title": "AI Just Proved Signal's Encryption Correct — Here's What That Proof Actually Covers",
+      "description": "AI Just Proved Signal's Encryption Correct — Here's What That Proof Actually Covers On November 10, Google DeepMind announced something I did not expect to see this year: AI agents produced a machine-checked mathematical proof about the core of the Signal protocol. Not a test sui",
+      "url": "https://dev.to/indirectb/ai-just-proved-signals-encryption-correct-heres-what-that-proof-actually-covers-9k4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Thu, 19 Nov 2026",
@@ -360,9 +360,9 @@
       "is_featured": false
     },
     {
-      "title": "Vals AI – Compare AI models across real-world benchmarks",
-      "description": "Article URL: https://www.vals.ai/comparison Comments URL: https://news.ycombinator.com/item?id=50556391 Points: 1 # Comments: 0",
-      "url": "https://www.vals.ai/comparison?utm_source=devdeals",
+      "title": "An AI agent that pays for every thought and dies when the money runs out",
+      "description": "Article URL: https://www.youtube.com/watch?v=MySG62ItZKU Comments URL: https://news.ycombinator.com/item?id=50565431 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=MySG62ItZKU&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -371,9 +371,9 @@
       "is_featured": false
     },
     {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "description": "Article URL: https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/ Comments URL: https://news.ycombinator.com/item?id=50556339 Points: 7 # Comments: 1",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/?utm_source=devdeals",
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "description": "Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C? Comments URL: https://news.ycombinator.com/item?id=50565386 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50565386&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -382,9 +382,9 @@
       "is_featured": false
     },
     {
-      "title": "Readycode.ai – Multi AI Platform",
-      "description": "Article URL: https://readycode.ai/ Comments URL: https://news.ycombinator.com/item?id=50556293 Points: 1 # Comments: 0",
-      "url": "https://readycode.ai/?utm_source=devdeals",
+      "title": "Ask HN: Safety Bully Anthropic right steward of our enterprise AI",
+      "description": "Chinese Models are arguably more friendly - https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50565222 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50565222&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -393,9 +393,9 @@
       "is_featured": false
     },
     {
-      "title": "Anthropic IPO raises record $81.3B on strong AI demand",
-      "description": "Article URL: https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price Comments URL: https://news.ycombinator.com/item?id=50556197 Points: 3 # Comments: 0",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price?utm_source=devdeals",
+      "title": "AI Memorized the Internet. That's Not Intelligence. – Yann LeCun [video]",
+      "description": "Article URL: https://www.youtube.com/watch?v=HjKRaty1dU4 Comments URL: https://news.ycombinator.com/item?id=50565207 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=HjKRaty1dU4&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -404,9 +404,9 @@
       "is_featured": false
     },
     {
-      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
-      "description": "Article URL: https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the Comments URL: https://news.ycombinator.com/item?id=50556168 Points: 4 # Comments: 0",
-      "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the?utm_source=devdeals",
+      "title": "Show HN: Company docs didn't help our AI agent. Four shortnotes doubled accuracy",
+      "description": "Article URL: https://contextflo.com/benchmarks/dabstep-haiku Comments URL: https://news.ycombinator.com/item?id=50564793 Points: 1 # Comments: 0",
+      "url": "https://contextflo.com/benchmarks/dabstep-haiku?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -415,9 +415,9 @@
       "is_featured": false
     },
     {
-      "title": "Madras School System and AI Learning Share Similarity",
-      "description": "Madras School education system (https://en.wikipedia.org/wiki/Madras_School) that was the bedrock of mass public structured education in the late 18-19th century has several similarities on how AI is trained today. They both ensures that knowledge dissemination is free. The simil",
-      "url": "https://news.ycombinator.com/item?id=50556148&utm_source=devdeals",
+      "title": "Google Quantum AI shows contextuality powers quantum algorithms at scale",
+      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/ Comments URL: https://news.ycombinator.com/item?id=50564760 Points: 1 # Comments: 0",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -426,9 +426,9 @@
       "is_featured": false
     },
     {
-      "title": "Ask HN: What positive impact has AI had in the past 5 years?",
-      "description": "I asked myself this question this morning and I swear I couldn't find one single thing. We still have all the problems we had before AI. AI did not solve the climate collapse, did not cure cancer, did not figure society-altering new technologies, did not make politics not suck an",
-      "url": "https://news.ycombinator.com/item?id=50556120&utm_source=devdeals",
+      "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
+      "description": "Article URL: https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/ Comments URL: https://news.ycombinator.com/item?id=50564757 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -437,9 +437,9 @@
       "is_featured": false
     },
     {
-      "title": "Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold",
-      "description": "Article URL: https://siwoo.lol/note/stickers-on-buttons/ Comments URL: https://news.ycombinator.com/item?id=50556079 Points: 1 # Comments: 0",
-      "url": "https://siwoo.lol/note/stickers-on-buttons/?utm_source=devdeals",
+      "title": "With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper",
+      "description": "Article URL: https://ploy.ai/blog/ploy-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50564625 Points: 7 # Comments: 0",
+      "url": "https://ploy.ai/blog/ploy-ai-gateway?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -448,9 +448,9 @@
       "is_featured": false
     },
     {
-      "title": "Turning one photo into a Goodbye GTA 5 AI video",
-      "description": "Article URL: https://gta5goodbyeai.com/ Comments URL: https://news.ycombinator.com/item?id=50555998 Points: 1 # Comments: 0",
-      "url": "https://gta5goodbyeai.com/?utm_source=devdeals",
+      "title": "Show HN: Relic – An AI that only answers from what you've saved",
+      "description": "Hi HN, I’m Imran, one of 3 founders building Relic AI We started building Relic because we constantly experienced the problem of saving a lot of resources online such as websites, PDFs, Youtube videos and podcasts, but when we actually needed any of them, we couldn’t find them be",
+      "url": "https://relic-app.com?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -459,9 +459,9 @@
       "is_featured": false
     },
     {
-      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
-      "description": "Article URL: https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50555960 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/?utm_source=devdeals",
+      "title": "Frontier models need only one text to unmask its human or AI author",
+      "description": "Article URL: https://twitter.com/atreydesai/status/2123473074230292737 Comments URL: https://news.ycombinator.com/item?id=50564427 Points: 2 # Comments: 1",
+      "url": "https://twitter.com/atreydesai/status/2123473074230292737?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -470,9 +470,9 @@
       "is_featured": false
     },
     {
-      "title": "Verifiable Identity for AI Agents · Agent Name Service",
-      "description": "Article URL: https://ansinfo.ai/ Comments URL: https://news.ycombinator.com/item?id=50555799 Points: 1 # Comments: 0",
-      "url": "https://ansinfo.ai/?utm_source=devdeals",
+      "title": "Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act",
+      "description": "Hi all, Built this because it seemed cool, let me know what you think, anyone that can help me improve it, please reach out here in the comments or via the email placed on the website. It is open-source, its created with help of claude code ofcourse, mapped the rules with what wa",
+      "url": "https://github.com/lintsure/lintsure?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -481,9 +481,9 @@
       "is_featured": false
     },
     {
-      "title": "AI asked better questions than KPMG accountants in audit",
-      "description": "Article URL: https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05 Comments URL: https://news.ycombinator.com/item?id=50555767 Points: 1 # Comments: 1",
-      "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?utm_source=devdeals",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "description": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 15 # Comments: 14",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o&utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -492,9 +492,9 @@
       "is_featured": false
     },
     {
-      "title": "KPMG pressed its auditor to pass on AI cost savings",
-      "description": "Article URL: https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d Comments URL: https://news.ycombinator.com/item?id=50555762 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d?utm_source=devdeals",
+      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "description": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 9 # Comments: 0",
+      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -503,9 +503,9 @@
       "is_featured": false
     },
     {
-      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
-      "description": "I made a site for sharing small tools made with AI. With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. So I thought maybe if result or ",
-      "url": "https://disposable.xify.kr/en/?utm_source=devdeals",
+      "title": "We asked 29 people building US data centers when AI capacity will arrive",
+      "description": "Article URL: https://www.latolabs.io/studies/ear-to-the-ground/ Comments URL: https://news.ycombinator.com/item?id=50564186 Points: 1 # Comments: 0",
+      "url": "https://www.latolabs.io/studies/ear-to-the-ground/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
@@ -514,9 +514,9 @@
       "is_featured": false
     },
     {
-      "title": "Itsfree.ai – Every model you can use for free",
-      "description": "Article URL: https://itsfree.ai/models/ Comments URL: https://news.ycombinator.com/item?id=50555507 Points: 1 # Comments: 1",
-      "url": "https://itsfree.ai/models/?utm_source=devdeals",
+      "title": "Thomas Nagel on AI Consciousness",
+      "description": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50564120 Points: 8 # Comments: 1",
+      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/?utm_source=devdeals",
       "category": "AI & SaaS",
       "source": "Product Hunt Tech Launches",
       "date": "Thu, 19 Nov 2026",
