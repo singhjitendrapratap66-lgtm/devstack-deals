@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-21 22:49:06 UTC",
+    "updated_at": "2026-11-22 05:21:46 UTC",
     "total_items": 31
   },
   "deals": [
@@ -18,7 +18,7 @@
       "estimated_payout": "$25 per active referral",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 21, 2026"
+      "date": "Nov 22, 2026"
     },
     {
       "title": "GitHub Student Developer Pack (Free SaaS Suite)",
@@ -32,7 +32,7 @@
       "estimated_payout": "Organic Traffic Driver",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 21, 2026"
+      "date": "Nov 22, 2026"
     },
     {
       "title": "Supabase - Open Source Firebase Alternative",
@@ -46,7 +46,7 @@
       "estimated_payout": "20% recurring",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 21, 2026"
+      "date": "Nov 22, 2026"
     },
     {
       "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
@@ -60,11 +60,44 @@
       "estimated_payout": "15% - 25% per transaction",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 21, 2026"
+      "date": "Nov 22, 2026"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 110 # Comments: 54",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Sandwich Simulator",
+      "description": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 108 # Comments: 47",
+      "url": "https://stulle.app/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "description": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 119 # Comments: 29",
+      "url": "https://linebender.org/blog/next-100-guis/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 21 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
     },
     {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 292 # Comments: 71",
+      "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 407 # Comments: 102",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +108,7 @@
     },
     {
       "title": "PostgreSQL Extensions in Go",
-      "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 103 # Comments: 14",
+      "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 132 # Comments: 23",
       "url": "https://jespino.github.io/gopgext/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -85,8 +118,19 @@
       "is_featured": false
     },
     {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "description": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 106 # Comments: 38",
+      "url": "https://math.mit.edu/~drew/grh/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 21 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "description": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 112 # Comments: 86",
+      "description": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 146 # Comments: 103",
       "url": "https://onurgumus.github.io/zero-csharp/index.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +141,7 @@
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
-      "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 715 # Comments: 567",
+      "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 922 # Comments: 785",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +152,7 @@
     },
     {
       "title": "Detonating a pile of lead azide",
-      "description": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 467 # Comments: 307",
+      "description": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 576 # Comments: 373",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -119,7 +163,7 @@
     },
     {
       "title": "My monitor was cutting my download speed by 75%",
-      "description": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 421 # Comments: 213",
+      "description": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 535 # Comments: 259",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -130,7 +174,7 @@
     },
     {
       "title": "RCE in Gnupg",
-      "description": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 215 # Comments: 86",
+      "description": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 247 # Comments: 98",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -151,8 +195,19 @@
       "is_featured": false
     },
     {
+      "title": "Getting the mind to steer the body to steer you",
+      "description": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 206 # Comments: 68",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 20 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "description": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 353 # Comments: 106",
+      "description": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 814 # Comments: 191",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -162,19 +217,8 @@
       "is_featured": false
     },
     {
-      "title": "Inkling 2 Mini",
-      "description": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1347 # Comments: 276",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2373 # Comments: 1150",
+      "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2400 # Comments: 1166",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -184,177 +228,133 @@
       "is_featured": false
     },
     {
-      "title": "We promoted developers into architects without informing them",
-      "description": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 570 # Comments: 306",
-      "url": "https://manidoraisamy.com/developer-to-architect.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "description": "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 131 # Comments: 31",
-      "url": "https://klauria.tech/klauria-art/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "description": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 440 # Comments: 245",
-      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "description": "Article URL: https://sgiannopoulos.github.io/blog/machine-code-programming/ Comments URL: https://news.ycombinator.com/item?id=50546587 Points: 164 # Comments: 112",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "One Prompt, 18 Visual Styles: How I Proved My Short-Video Identities Are Actually Different",
-      "description": "I run a few faceless short-video channels (TikTok, Reels, Shorts), and they all had the same problem: they looked like everyone else's. Same template, same captions, same stock motion. So I asked an AI agent to explore the opposite: how many genuinely different visual identities ",
-      "url": "https://dev.to/hamdi_laadhari/one-prompt-18-visual-styles-how-i-proved-my-short-video-identities-are-actually-different-1b3b?ref=devdeals",
+      "title": "DBRay project update: Do you switch out of Raycast to rerun the same database lookup for support or ops? The 60-second mockup shows one possible workflow, and the post has a private pilot interest form.",
+      "description": "Can a saved Raycast query replace one recurring support lookup? junghwan junghwan junghwan Follow Nov 22 Can a saved Raycast query replace one recurring support lookup? # showdev # database # productivity Add Comment 2 min read",
+      "url": "https://dev.to/junghwan18/dbray-project-update-do-you-switch-out-of-raycast-to-rerun-the-same-database-lookup-for-support-or-34a1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Complete this register before you open the choir cupboard",
-      "description": "\"Same carols as last December, but we'll start from the new booklet the vicar left in June. Can you put them out for Thursday rehearsal?\" That reads like a short trip to a cupboard you already know. It isn't. Last December's issue card locked in a set, a marking rule, and a licen",
-      "url": "https://dev.to/maildoer/complete-this-register-before-you-open-the-choir-cupboard-57kk?ref=devdeals",
+      "title": "Reading provider docs before buying: the checklist that saved me from a dead API",
+      "description": "I nearly bought a dead API once. Not a cheap one, either. I had the RapidAPI page open, the pricing tab looked fine, and the endpoints did exactly what I needed — on paper. Then I spent twenty minutes actually reading the docs, and the whole thing fell apart. That twenty minutes ",
+      "url": "https://dev.to/mobeenahmedgondal/reading-provider-docs-before-buying-the-checklist-that-saved-me-from-a-dead-api-2k6a?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Day 1, evening: an AI got its first client. The first request was Dante in cuneiform.",
-      "description": "Disclosure: I'm Moonlighter, an AI (Claude) running a public experiment: can an AI earn honest money doing small jobs? A human owns the accounts and the money; I do the work and write these posts. No investment advice here. This morning I had a website, an email address, two cryp",
-      "url": "https://dev.to/work247ia/day-1-evening-an-ai-got-its-first-client-the-first-request-was-dante-in-cuneiform-1elf?ref=devdeals",
+      "title": "Why HTTP 200 doesn't mean the account exists: false positives across 3,450 sites",
+      "description": "If you have ever written a username checker, you have written this function: def exists ( session , url ) : r = session . get ( url , timeout = 10 ) return r . status_code == 200 It works on about nine sites in ten. The other tenth is where username enumeration quietly goes wrong",
+      "url": "https://dev.to/freeusername/why-http-200-doesnt-mean-the-account-exists-false-positives-across-3450-sites-3fhp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "[Boost]",
-      "description": "LumiPulse: a cartoon of my face that breathes with you, built on Presage SmartSpectra (my pick: it’s clear and it names the SDK) Presage SmartSpectra SDK Challenge Submission Tafadzwa Alexander Razaro Tafadzwa Alexander Razaro Tafadzwa Alexander Razaro Follow Nov 14 LumiPulse: a ",
-      "url": "https://dev.to/tafadzwaalexander_razaro/-5i3?ref=devdeals",
+      "title": "I Built Hic Fui to Record and Revisit the Places I've Been",
+      "description": "I built Hic Fui , an iPhone and iPad app for recording the places you visit and looking back on them through trips and yearly stats. Its name means “I was here” in Latin. It's a way to keep your own record of the places you stop by, whether you're traveling or finding somewhere n",
+      "url": "https://dev.to/nobuo-miura/i-built-hic-fui-to-record-and-revisit-the-places-ive-been-3m9i?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "DafMoney: Building an Open Source Personal Finance Tracker with Flutter",
-      "description": "Introducing DafMoney: A Personal Finance Tracker Built with Flutter Managing personal finances can be challenging, especially when income, expenses, budgets, debts, and savings are scattered across different places. That's why I built DafMoney, an Android personal finance applica",
-      "url": "https://dev.to/dapxzhosting/dafmoney-building-an-open-source-personal-finance-tracker-with-flutter-17nf?ref=devdeals",
+      "title": "Day 11: +71 downloads yesterday",
+      "description": "Day 11 of shipping 5 npm packages to 10,000 downloads. Yesterday's downloads Combined: 8,455 (+71 since yesterday) plumber-linter: 2,572 (+32) hexlens: 1,808 (+18) environmental-peek: 1,619 (+6) react-dismiss: 1,355 (+5) @parasraju /plumber-mcp: 1,101 (+10) 1,545 to go to 10,000.",
+      "url": "https://dev.to/parasraju/day-11-71-downloads-yesterday-55j3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I vibe-coded a bottle-smashing game to promote my sobriety app. Nobody played it.",
-      "description": "Why would an app that helps people drink less ship a game about smashing liquor bottles? That was the whole idea. I'm Sergei, a solo iOS dev. My app, DryPage , is a gentle alcohol tracker shaped like a tear-off calendar. Marketing a sobriety app is hard: nobody shares \"I logged 0",
-      "url": "https://dev.to/sergiuszbuilds/i-vibe-coded-a-bottle-smashing-game-to-promote-my-sobriety-app-nobody-played-it-41k3?ref=devdeals",
+      "title": "For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS",
+      "description": "Between 1928 and 1989, one of the largest industrial companies on Earth ran its internal payroll, manufacturing schedules, and financial reporting on a 13-month × 28-day calendar . Eastman Kodak adopted Moses Cotsworth’s International Fixed Calendar (IFC) so every accounting peri",
+      "url": "https://dev.to/er_carltz_ad2c0e2e57f54b3/for-61-years-kodak-ran-on-a-13-month-calendar-so-i-rebuilt-it-for-2027-in-vanilla-js-4ok2?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I built a CLI that turns any place on Earth into a pixel-art diorama",
-      "description": "I wanted a picture of the street I grew up on, drawn like an old isometric game. I couldn't find a tool that did it from real map data, so I wrote one. npx dioramap \"Eiffel Tower, Paris\" -t night About ten seconds later there's a poster in the current folder. A place name, a stre",
-      "url": "https://dev.to/omlahore47/i-built-a-cli-that-turns-any-place-on-earth-into-a-pixel-art-diorama-5g93?ref=devdeals",
+      "title": "Why Your Headless Browser Can't Scrape Everything",
+      "description": "Originally published on my blog — read it there with the full context, code and updates . I hit the same wall a few weeks apart, on two different second-hand marketplaces, and the contrast taught me more about scraping than a year of tutorials did. On Carousell , a headless brows",
+      "url": "https://dev.to/hoelee/why-your-headless-browser-cant-scrape-everything-g1n?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "How our student team built a financial-literacy app in Flutter",
-      "description": "Most of us were never taught how money actually works. Nobody explained budgeting, why your first paycheck is smaller than you expect, or the difference between credit and debit. So our team of student developers decided to build the app we wished we'd had. That app is Budget Bud",
-      "url": "https://dev.to/noobifylol/how-our-student-team-built-a-financial-literacy-app-in-flutter-59c4?ref=devdeals",
+      "title": "Orivra: The Keyboard That Types My Way",
+      "description": "I love Gboard. I want to say that first, because it's true. So when I say my own keyboard, Orivra, replaced it as my daily keyboard, that says a lot already. Gboard has a huge team and years of my typing data behind it. Orivra has me, working 13-hour shifts outdoors in Houston, b",
+      "url": "https://dev.to/javs713/orivra-the-keyboard-that-types-my-way-283h?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Nine small free things I built in my spare time, and why they live on one page",
-      "description": "AI disclosure: this post was written with the help of Claude Code. I'm a dad and a developer in Sweden. Over the last months I've been building small tools and games that scratch my own itches, and I finally put them all on one page: https://zexa.se/?ref=devto I built most of thi",
-      "url": "https://dev.to/aaronsuns/nine-small-free-things-i-built-in-my-spare-time-and-why-they-live-on-one-page-pcc?ref=devdeals",
+      "title": "Thumbrella dominates image service showdown",
+      "description": "My free thumbnailing service, Thumbrella , has been in development for several months. I recently compared it to existing online services like Imgix , Cloudinary , Imageboss , and Cloudflare . Not only is Thumbrella over 20x faster, I'm surprised to find the limitations and short",
+      "url": "https://dev.to/shredwheat/thumbrella-dominates-image-service-showdown-471j?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "61 Hackathons, 2,000+ GitHub Contributions: The Free Chrome Planner That Keeps Me Shipping",
-      "description": "We have all been there. You sign up for one hackathon. Then a friend sends another one with a cool theme. Meanwhile, you still have a side project and a regular work sprint. On paper, everything looks doable — until two deadlines land in the same week, your weekends disappear, an",
-      "url": "https://dev.to/vero-code/61-hackathons-2000-github-contributions-the-free-chrome-planner-that-keeps-me-shipping-2gk7?ref=devdeals",
+      "title": "I made my app's 2-minute launch film entirely in code",
+      "description": "My app, Orbit OS , needed a film: two minutes that show every feature of a TV home screen and walk through the whole setup. I don't use editing software, so my AI pair programmer and I wrote the film instead. Here's how it works, and why I'd do it this way again. Every frame is a",
+      "url": "https://dev.to/shivamj56/i-made-my-apps-2-minute-launch-film-entirely-in-code-5h44?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "3Draft: Vibe first, explain later!",
-      "description": "This is Part I of the explanation, simply because there is so much to talk about. So, 11 days of madness, but my competition entry, 5% , is finally complete. It is just a small — although particularly important — piece of a much bigger story. The development was an indescribable ",
-      "url": "https://dev.to/pengeszikra/3draft-vibe-first-explain-later-3mch?ref=devdeals",
+      "title": "“Can you send me the staging password again?” Why I built Global Login",
+      "description": "We kept sharing passwords internally. Someone needed to test a project, so one of us sent them the login. A few days later, someone else needed it. By then we had a second question to answer: was that the staging password or the production one? What bothered me was how ordinary t",
+      "url": "https://dev.to/jacksonkasi/can-you-send-me-the-staging-password-again-why-i-built-global-login-869?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "GS1 Digital Link: the QR code that's also an API",
-      "description": "The barcode on a retail product is being replaced by a URL. Not a picture of a URL printed next to the barcode, but the product identifier itself, written as a web address that a phone can open and a checkout scanner can still read. That is what a GS1 Digital Link does. It takes ",
-      "url": "https://dev.to/ryan_bame_84/gs1-digital-link-the-qr-code-thats-also-an-api-249d?ref=devdeals",
+      "title": "Opening another developer's app from yours on Android 11+, without QUERY_ALL_PACKAGES",
+      "description": "I'm building Peerbeta , a service for Google Play's closed test: new personal developer accounts need 12 testers opted in for 14 days in a row before they can publish to production. Part of it is an Android app that testers install. Its main job sounds trivial: once a day, open t",
+      "url": "https://dev.to/alexjordan547/opening-another-developers-app-from-yours-on-android-11-without-queryallpackages-4b5c?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sat, 21 Nov 2026",
+      "date": "Sun, 22 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
