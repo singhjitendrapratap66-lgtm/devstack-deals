@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-22 05:21:46 UTC",
+    "updated_at": "2026-11-22 14:08:31 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,8 +63,19 @@
       "date": "Nov 22, 2026"
     },
     {
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
-      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 110 # Comments: 54",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "description": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 274 # Comments: 369",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 719 # Comments: 440",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,8 +85,19 @@
       "is_featured": false
     },
     {
+      "title": "Data Processing Incidents on Inference Providers",
+      "description": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 203 # Comments: 70",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Sandwich Simulator",
-      "description": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 108 # Comments: 47",
+      "description": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 349 # Comments: 123",
       "url": "https://stulle.app/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -85,8 +107,19 @@
       "is_featured": false
     },
     {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "description": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 130 # Comments: 19",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 21 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Advice for the next 100 Rust GUIs",
-      "description": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 119 # Comments: 29",
+      "description": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 201 # Comments: 91",
       "url": "https://linebender.org/blog/next-100-guis/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -96,8 +129,30 @@
       "is_featured": false
     },
     {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "description": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 113 # Comments: 29",
+      "url": "https://www.pandex.io?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 21 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "description": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 133 # Comments: 64",
+      "url": "https://pwn.ai/upload2shell?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sat, 21 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 407 # Comments: 102",
+      "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 496 # Comments: 124",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -107,41 +162,8 @@
       "is_featured": false
     },
     {
-      "title": "PostgreSQL Extensions in Go",
-      "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 132 # Comments: 23",
-      "url": "https://jespino.github.io/gopgext/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 21 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "description": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 106 # Comments: 38",
-      "url": "https://math.mit.edu/~drew/grh/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 21 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "description": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 146 # Comments: 103",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 21 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Lean verification of the Riemann Hypothesis",
-      "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 922 # Comments: 785",
+      "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1099 # Comments: 917",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -152,7 +174,7 @@
     },
     {
       "title": "Detonating a pile of lead azide",
-      "description": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 576 # Comments: 373",
+      "description": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 639 # Comments: 401",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -163,7 +185,7 @@
     },
     {
       "title": "My monitor was cutting my download speed by 75%",
-      "description": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 535 # Comments: 259",
+      "description": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 615 # Comments: 285",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -173,8 +195,8 @@
       "is_featured": false
     },
     {
-      "title": "RCE in Gnupg",
-      "description": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 247 # Comments: 98",
+      "title": "GnuPG Security Advisory for GPGME",
+      "description": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 262 # Comments: 112",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -184,19 +206,8 @@
       "is_featured": false
     },
     {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "description": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4",
-      "url": "https://news.ycombinator.com/item?id=50583761&ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Getting the mind to steer the body to steer you",
-      "description": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 206 # Comments: 68",
+      "description": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 324 # Comments: 112",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -207,7 +218,7 @@
     },
     {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "description": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 814 # Comments: 191",
+      "description": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 1138 # Comments: 241",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -217,20 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2400 # Comments: 1166",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Fri, 20 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "DBRay project update: Do you switch out of Raycast to rerun the same database lookup for support or ops? The 60-second mockup shows one possible workflow, and the post has a private pilot interest form.",
-      "description": "Can a saved Raycast query replace one recurring support lookup? junghwan junghwan junghwan Follow Nov 22 Can a saved Raycast query replace one recurring support lookup? # showdev # database # productivity Add Comment 2 min read",
-      "url": "https://dev.to/junghwan18/dbray-project-update-do-you-switch-out-of-raycast-to-rerun-the-same-database-lookup-for-support-or-34a1?ref=devdeals",
+      "title": "SubZero: turning monthly and yearly plans into one number in Flutter",
+      "description": "Spotify, monthly. A cloud storage plan, yearly. Adobe Creative Cloud, monthly. Something from a free trial you forgot to cancel. Ask someone what that costs them a month and you'll get a guess. SubZero is our Flutter subscription tracker template, and most of its screens exist to",
+      "url": "https://dev.to/stacklyn_labs/subzero-turning-monthly-and-yearly-plans-into-one-number-in-flutter-35bc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Reading provider docs before buying: the checklist that saved me from a dead API",
-      "description": "I nearly bought a dead API once. Not a cheap one, either. I had the RapidAPI page open, the pricing tab looked fine, and the endpoints did exactly what I needed — on paper. Then I spent twenty minutes actually reading the docs, and the whole thing fell apart. That twenty minutes ",
-      "url": "https://dev.to/mobeenahmedgondal/reading-provider-docs-before-buying-the-checklist-that-saved-me-from-a-dead-api-2k6a?ref=devdeals",
+      "title": "Pasted links with line breaks and stray spaces: cleaning input before it reaches the API",
+      "description": "People do not paste links the way developers imagine they do. On ramrom.io the link box gets a surprising amount of mess: a link copied from a chat app with a line break in the middle, a trailing space, a leading space, a newline from a two-line message, sometimes a stray tab whe",
+      "url": "https://dev.to/mobeenahmedgondal/pasted-links-with-line-breaks-and-stray-spaces-cleaning-input-before-it-reaches-the-api-1lpi?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Why HTTP 200 doesn't mean the account exists: false positives across 3,450 sites",
-      "description": "If you have ever written a username checker, you have written this function: def exists ( session , url ) : r = session . get ( url , timeout = 10 ) return r . status_code == 200 It works on about nine sites in ten. The other tenth is where username enumeration quietly goes wrong",
-      "url": "https://dev.to/freeusername/why-http-200-doesnt-mean-the-account-exists-false-positives-across-3450-sites-3fhp?ref=devdeals",
+      "title": "Shipping a camera app in four languages: what per-app locales on Android don't handle",
+      "description": "I maintain a small free camera app for Android — BboshaCam (Korean name 뽀샤캠). No subscription, no in-app purchase, no watermark, and the interface ships in Korean, English, Japanese and Chinese. That last part took more work than the camera itself. (Self-promo disclosure: it's my",
+      "url": "https://dev.to/chobonggi3/shipping-a-camera-app-in-four-languages-what-per-app-locales-on-android-dont-handle-1711?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "I Built Hic Fui to Record and Revisit the Places I've Been",
-      "description": "I built Hic Fui , an iPhone and iPad app for recording the places you visit and looking back on them through trips and yearly stats. Its name means “I was here” in Latin. It's a way to keep your own record of the places you stop by, whether you're traveling or finding somewhere n",
-      "url": "https://dev.to/nobuo-miura/i-built-hic-fui-to-record-and-revisit-the-places-ive-been-3m9i?ref=devdeals",
+      "title": "I built a set of budget, order and content-planning templates (Notion + spreadsheets)",
+      "description": "I run a small catalog of practical templates and workbooks for people who track budgets, orders and content in Notion or spreadsheets. Everything is a one-time purchase with instant download, no subscription. Featured products: Budget Targets & Actuals - English Notion template t",
+      "url": "https://dev.to/morsiworld/i-built-a-set-of-budget-order-and-content-planning-templates-notion-spreadsheets-hnn?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Day 11: +71 downloads yesterday",
-      "description": "Day 11 of shipping 5 npm packages to 10,000 downloads. Yesterday's downloads Combined: 8,455 (+71 since yesterday) plumber-linter: 2,572 (+32) hexlens: 1,808 (+18) environmental-peek: 1,619 (+6) react-dismiss: 1,355 (+5) @parasraju /plumber-mcp: 1,101 (+10) 1,545 to go to 10,000.",
-      "url": "https://dev.to/parasraju/day-11-71-downloads-yesterday-55j3?ref=devdeals",
+      "title": "BriefCheck catches bad diff citations in AI-generated PR reviews",
+      "description": "A PR review can identify the right requirement and still cite a deleted line or a line the diff never shows. BriefCheck checks a review table against the actual unified diff, including old-side and new-side line numbers. You can try the same verifier that runs in CI with Python 3",
+      "url": "https://dev.to/yulongwux/briefcheck-catches-bad-diff-citations-in-ai-generated-pr-reviews-m9?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS",
-      "description": "Between 1928 and 1989, one of the largest industrial companies on Earth ran its internal payroll, manufacturing schedules, and financial reporting on a 13-month × 28-day calendar . Eastman Kodak adopted Moses Cotsworth’s International Fixed Calendar (IFC) so every accounting peri",
-      "url": "https://dev.to/er_carltz_ad2c0e2e57f54b3/for-61-years-kodak-ran-on-a-13-month-calendar-so-i-rebuilt-it-for-2027-in-vanilla-js-4ok2?ref=devdeals",
+      "title": "What 6,348 AI-generated websites taught me about security",
+      "description": "Everyone is shipping apps built with AI now. I am too - it's the fastest way I know to go from idea to a live URL. But after building a small security scanner and running it against thousands of real, publicly listed AI-generated websites, I now look at my own deploys very differ",
+      "url": "https://dev.to/__943ad161d762b/what-6348-ai-generated-websites-taught-me-about-security-4509?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Why Your Headless Browser Can't Scrape Everything",
-      "description": "Originally published on my blog — read it there with the full context, code and updates . I hit the same wall a few weeks apart, on two different second-hand marketplaces, and the contrast taught me more about scraping than a year of tutorials did. On Carousell , a headless brows",
-      "url": "https://dev.to/hoelee/why-your-headless-browser-cant-scrape-everything-g1n?ref=devdeals",
+      "title": "Omi CLI: an AI coding agent in your terminal, on 13 models",
+      "description": "Omi can build anything. Omi CLI brings that to your terminal: an AI coding agent that works inside your repo, where you can see and approve every change. We launched it on Product Hunt today, and we'd love feedback from developers. Try it npm install -g @builditomi/cli cd your-pr",
+      "url": "https://dev.to/builditomi/omi-cli-an-ai-coding-agent-in-your-terminal-on-13-models-d7j?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Orivra: The Keyboard That Types My Way",
-      "description": "I love Gboard. I want to say that first, because it's true. So when I say my own keyboard, Orivra, replaced it as my daily keyboard, that says a lot already. Gboard has a huge team and years of my typing data behind it. Orivra has me, working 13-hour shifts outdoors in Houston, b",
-      "url": "https://dev.to/javs713/orivra-the-keyboard-that-types-my-way-283h?ref=devdeals",
+      "title": "I built AI agents that apply to jobs. The forms were harder than the AI.",
+      "description": "I am the founder of Hirescoot, so read this as a builder's account of what I ran into, not as a neutral review. The job system is broken. People are being laid off because of AI, and employers use AI to filter out the rest of us. In the last semester of my master's I sent hundred",
+      "url": "https://dev.to/hirescoot/i-built-ai-agents-that-apply-to-jobs-the-forms-were-harder-than-the-ai-37h4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Thumbrella dominates image service showdown",
-      "description": "My free thumbnailing service, Thumbrella , has been in development for several months. I recently compared it to existing online services like Imgix , Cloudinary , Imageboss , and Cloudflare . Not only is Thumbrella over 20x faster, I'm surprised to find the limitations and short",
-      "url": "https://dev.to/shredwheat/thumbrella-dominates-image-service-showdown-471j?ref=devdeals",
+      "title": "Bringing Early Linux Kernels to the Browser: Building Linux Time Machine",
+      "description": "Bringing Early Linux Kernels to the Browser: Building Linux Time Machine Exploring Linux history through x86 emulation, historical kernels, WebAssembly, and interactive browser environments. Why I Built Linux Time Machine I’ve been working with Linux professionally for more than ",
+      "url": "https://dev.to/hamdyaea/bringing-early-linux-kernels-to-the-browser-building-linux-time-machine-55jh?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "I made my app's 2-minute launch film entirely in code",
-      "description": "My app, Orbit OS , needed a film: two minutes that show every feature of a TV home screen and walk through the whole setup. I don't use editing software, so my AI pair programmer and I wrote the film instead. Here's how it works, and why I'd do it this way again. Every frame is a",
-      "url": "https://dev.to/shivamj56/i-made-my-apps-2-minute-launch-film-entirely-in-code-5h44?ref=devdeals",
+      "title": "I gave my AI assistant one job: run my client pipeline while I sleep. First it had to survive 9 ways of failing",
+      "description": "Oct 21–22. Mono, my Telegram bot on Cloudflare Workers, had been live for one day. Before I let it run alone, it got a hardening pass. 9 fixes, each one a real way it could go wrong: → Sending the same email twice. Fix: every task is claimed before it runs. → Emailing a dead inbo",
+      "url": "https://dev.to/abdulwasaylodhi/i-gave-my-ai-assistant-one-job-run-my-client-pipeline-while-i-sleep-first-it-had-to-survive-9-59f1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "“Can you send me the staging password again?” Why I built Global Login",
-      "description": "We kept sharing passwords internally. Someone needed to test a project, so one of us sent them the login. A few days later, someone else needed it. By then we had a second question to answer: was that the staging password or the production one? What bothered me was how ordinary t",
-      "url": "https://dev.to/jacksonkasi/can-you-send-me-the-staging-password-again-why-i-built-global-login-869?ref=devdeals",
+      "title": "How to keep a feedback pin stuck to the right element when the page reflows",
+      "description": "Clients leave feedback on websites by pointing: \"this button\", \"that heading\". If you build a tool that lets them click and drop a pin, the obvious approach is to store the click as page coordinates. It breaks almost immediately. The client is on a 1440px laptop, the developer op",
+      "url": "https://dev.to/arifaydindev/how-to-keep-a-feedback-pin-stuck-to-the-right-element-when-the-page-reflows-4mbd?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "Opening another developer's app from yours on Android 11+, without QUERY_ALL_PACKAGES",
-      "description": "I'm building Peerbeta , a service for Google Play's closed test: new personal developer accounts need 12 testers opted in for 14 days in a row before they can publish to production. Part of it is an Android app that testers install. Its main job sounds trivial: once a day, open t",
-      "url": "https://dev.to/alexjordan547/opening-another-developers-app-from-yours-on-android-11-without-queryallpackages-4b5c?ref=devdeals",
+      "title": "Running 12 Small Sites Solo: 4 Monitoring Bugs That Forced Me to Build a One-Screen Console on Cloudflare Workers + D1",
+      "description": "If you run one website, checking Google Search Console, analytics, and your payment dashboard takes two minutes. If you run 12 small sites solo (a mix of AI tools, craft pattern makers, calculators, and micro-SaaS), two minutes turns into a ritual you quietly skip—and skipping it",
+      "url": "https://dev.to/yan_gao_3ad90a90b26925538/running-12-small-sites-solo-4-monitoring-bugs-that-forced-me-to-build-a-one-screen-console-on-22i?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Sun, 22 Nov 2026",
