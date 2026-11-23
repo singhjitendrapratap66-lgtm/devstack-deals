@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-22 23:17:14 UTC",
-    "total_items": 27
+    "updated_at": "2026-11-23 05:59:14 UTC",
+    "total_items": 31
   },
   "deals": [
     {
@@ -18,7 +18,7 @@
       "estimated_payout": "$25 per active referral",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 22, 2026"
+      "date": "Nov 23, 2026"
     },
     {
       "title": "GitHub Student Developer Pack (Free SaaS Suite)",
@@ -32,7 +32,7 @@
       "estimated_payout": "Organic Traffic Driver",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 22, 2026"
+      "date": "Nov 23, 2026"
     },
     {
       "title": "Supabase - Open Source Firebase Alternative",
@@ -46,7 +46,7 @@
       "estimated_payout": "20% recurring",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 22, 2026"
+      "date": "Nov 23, 2026"
     },
     {
       "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
@@ -60,11 +60,88 @@
       "estimated_payout": "15% - 25% per transaction",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 22, 2026"
+      "date": "Nov 23, 2026"
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "description": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 304 # Comments: 48",
+      "url": "https://spelunkr.tv?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 197 # Comments: 154",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "description": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 142 # Comments: 66",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 370 # Comments: 149",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "description": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 209 # Comments: 82",
+      "url": "https://smallsf.com/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "description": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 119 # Comments: 15",
+      "url": "https://nyx.net/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "description": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 130 # Comments: 60",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Sun, 22 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
     },
     {
       "title": "What Happened to Silicon Valley?",
-      "description": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 294 # Comments: 150",
+      "description": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 546 # Comments: 295",
       "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -75,7 +152,7 @@
     },
     {
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "description": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 257 # Comments: 97",
+      "description": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 424 # Comments: 212",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -86,7 +163,7 @@
     },
     {
       "title": "Perplexity and Intelligence",
-      "description": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 427 # Comments: 292",
+      "description": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 539 # Comments: 365",
       "url": "https://openai.com/index/perplexity-and-intelligence/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +174,7 @@
     },
     {
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 112 # Comments: 29",
+      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 141 # Comments: 47",
       "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -107,19 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "Open Social Web Alliance",
-      "description": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 200 # Comments: 200",
-      "url": "https://osw-alliance.net/en/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "description": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 253 # Comments: 59",
+      "description": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 297 # Comments: 72",
       "url": "https://github.com/gulivan/worker755?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -129,9 +195,9 @@
       "is_featured": false
     },
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "description": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 831 # Comments: 853",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/?ref=devdeals",
+      "title": "Masullo on the Riemann Hypothesis",
+      "description": "Article URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50598441 Points: 145 # Comments: 63",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Sun, 22 Nov 2026",
@@ -141,7 +207,7 @@
     },
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1155 # Comments: 663",
+      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1241 # Comments: 687",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -151,166 +217,144 @@
       "is_featured": false
     },
     {
-      "title": "Sandwich Simulator",
-      "description": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 556 # Comments: 195",
-      "url": "https://stulle.app/?ref=devdeals",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "description": "Article URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527 Comments URL: https://news.ycombinator.com/item?id=50547698 Points: 167 # Comments: 29",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Wed, 18 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "A Better Vocabulary for Testing",
-      "description": "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 101 # Comments: 25",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sat, 21 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "description": "I started my career 15+ years ago doing native development (c, c++, etc), but the last decade I've been doing fullstack web applications. I'd like to transition closer to my roots with a job doing primarily c, c++ or rust. The natural place seems to be in embedded development or ",
-      "url": "https://news.ycombinator.com/item?id=50555002&ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Thu, 19 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "The Speed of Wanting — Chapter Twenty-Five: Built and Stayed",
-      "description": "Chapter Twenty-Five — Built and Stayed Door One book — Chapter Twenty-Five Over a slow African river, in the fork of a tree, there is a house that should not be possible. It is bigger than the birds who built it by a factor that makes no sense until you stop thinking of it as a n",
-      "url": "https://dev.to/merlindreams0/the-speed-of-wanting-chapter-twenty-five-built-and-stayed-2jl3?ref=devdeals",
+      "title": "Building Orbyte: A Zero-Allocation Pure Go AI & API Gateway (~30µs Core Execution)",
+      "description": "Hi devs! I built Orbyte — a zero-allocation pure Go AI & API orchestration gateway designed to eliminate cloud compute overhead ( ~30µs–60µs core execution, <1.1MB RAM). Since our free beta node is hosted in US-Oregon , I'm kindly inviting 20–25 developers worldwide to run a sing",
+      "url": "https://dev.to/founder_orbyte_8a95f0f74d/building-orbyte-a-zero-allocation-pure-go-ai-api-gateway-30us-core-execution-21ko?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Why a Simple `credits` Column Breaks in AI Apps (Two-Phase Holds, FIFO Lots & Stripe Refunds)",
-      "description": "Every AI app that moves past flat subscriptions starts the same way: ALTER TABLE users ADD COLUMN credits INTEGER NOT NULL DEFAULT 50 ; You wire up a Stripe Checkout webhook that runs UPDATE users SET credits = credits + 500 , and on every /api/generate route you run: if ( user .",
-      "url": "https://dev.to/dchin/why-a-simple-credits-column-breaks-in-ai-apps-two-phase-holds-fifo-lots-stripe-refunds-23d6?ref=devdeals",
+      "title": "Saving a time card in localStorage: why the data stays and how Clear all wipes it",
+      "description": "When I built the time card calculator, one of the first things people asked for was simple: \"Can it remember my hours?\" Nobody wants to retype seven days of clock-in and clock-out times every time they open the page. But the site has no accounts, no sign-up, and no server that st",
+      "url": "https://dev.to/mobeenahmedgondal/saving-a-time-card-in-localstorage-why-the-data-stays-and-how-clear-all-wipes-it-48ai?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I rate GitHub profiles like F1 drivers — and every share image is a server-rendered cutout",
-      "description": "gitone rates GitHub profiles like F1 drivers: PAC, RAC, AWA, EXP and RTG out of 99, all from live GraphQL data. The growth engine is one markdown line: [![My gitone card](https://gitone.langersword.in/<login>.png)](https://gitone.langersword.in/<login>) The PNG re-scouts every tw",
-      "url": "https://dev.to/langersword/i-rate-github-profiles-like-f1-drivers-and-every-share-image-is-a-server-rendered-cutout-2651?ref=devdeals",
+      "title": "How I Built a Rent-Cap Calculator That Handles California, Washington and Oregon Rules",
+      "description": "I build small, free, client-side calculators for US landlords and renters. The hardest one so far is not the maths — it is the rules. A rent increase that is legal in one state can be illegal in another, and in California the answer changes by county. Here is how the calculator h",
+      "url": "https://dev.to/asghar_ali_3b49d970a8bba8/how-i-built-a-rent-cap-calculator-that-handles-california-washington-and-oregon-rules-36i1?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "Figured it was time to start sharing what I've been working on...",
-      "description": "So I've been working on a few projects for a while now, mostly just doing my own thing, trying stuff out, breaking things, fixing them, and occasionally wondering why something that should've taken 20 minutes turned into an entire evening. 😂 I figured instead of keeping all of th",
-      "url": "https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58?ref=devdeals",
+      "title": "Eight new browser calculators and converters, with the math shown",
+      "description": "On 22 November I added eight tools to theomnikit.com, my site of small tools that run in the browser: four maths calculators (area, probability, triangle and z-score) and four file tools (EPUB to PDF, ODT to PDF, a voice changer and a vocal remover). I wrote this with AI help and",
+      "url": "https://dev.to/theomnikit/eight-new-browser-calculators-and-converters-with-the-math-shown-off?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I built Tifo, a player for your own media on Apple devices",
-      "description": "I built Tifo, a player for people who bring their own playlists and media libraries to iPhone, iPad and Apple TV. The idea is simple: connect an M3U playlist or a Plex, Jellyfin or Emby server, then browse movies, series and live TV in one place. There’s a TV guide, favourites an",
-      "url": "https://dev.to/allkidsthisdays_96afb4ad6/i-built-tifo-a-player-for-your-own-media-on-apple-devices-569m?ref=devdeals",
+      "title": "Pebbles Grow Old Now",
+      "description": "Hey dev.to — Lepp again. Entry three in building Neuro-Kindred (a free, calm social app for neurodivergent adults, 18+) in the open. Last time: the database mystery. This time: the pebbles themselves — and first, a promise I have to keep. The follow-up I owe you Last entry I said",
+      "url": "https://dev.to/leppercaun22_58f090dde953/pebbles-grow-old-now-5al?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "October's glaze card does not unlock Thursday on kiln B",
-      "description": "\"Same as my October stoneware glaze firing, but add the new bowls I just made. Can you squeeze them into Thursday's glaze so they're ready for Saturday's market?\" That sounds like a small addition to a firing you already ran. It isn't. October's card locked in a cone, a shelf, a ",
-      "url": "https://dev.to/maildoer/octobers-glaze-card-does-not-unlock-thursday-on-kiln-b-4dp7?ref=devdeals",
+      "title": "Kagelin v1.50 to v1.51: a matte UI pass, zero-dependency",
+      "description": "This post is late. I shipped v1.50.0 on November 3rd, v1.51.0 on November 12th, then took a week off, so here is the changelog for both releases plus the v1.51.1 patch, in one go. Kagelin is a local-first task, habit, and calendar app built on Next.js 16 (App Router) with Supabas",
+      "url": "https://dev.to/oneakira/kagelin-v150-v151-a-matte-ui-pass-zero-dependency-37k3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "3Draft : Game Engine Targetting System",
-      "description": "Spider Paint capability not limited to serve my VR program, fare beyond that it is capable functional as a browser based 3D engine which can creat, handle and explore a larger scene also. I cannot tell the secret when I told this is also completly fine for any interactive 3D game",
-      "url": "https://dev.to/pengeszikra/3draft-game-engine-targetting-system-4gfp?ref=devdeals",
+      "title": "File size labels on quality options: honest numbers, never guesses",
+      "description": "When I first built the download page on ramrom.io , the quality dropdown was simple: 1080p, 720p, 480p, 360p. Pick one, get the file. It worked, and nobody complained. But I kept noticing something in my own use: I would pick 1080p on my phone, then watch the download crawl, then",
+      "url": "https://dev.to/mobeenahmedgondal/file-size-labels-on-quality-options-honest-numbers-never-guesses-1ejk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "What I learned packaging: Neonclipping Quickstart Kit",
-      "description": "I have been running a small experiment: a swarm of simple agents that watches live developer-demand signals (trending repos, discussion spikes), scores each one, and only builds when the score clears a bar. The signal Neonclipping Quickstart Kit What got built Neonclipping Quicks",
-      "url": "https://dev.to/quantenginev12cyber/what-i-learned-packaging-neonclipping-quickstart-kit-27hl?ref=devdeals",
+      "title": "The Wrong Fix, Five Times: One Week of Player Feedback on My 30 MB Model",
+      "description": "A week ago I released StepForge, a free app that listens to a song and writes the dance steps for it. Players found plenty wrong with it. Seven days and two releases later, the model's score against human-made steps went from 0.656 to 0.689, level with the best open-source tool I",
+      "url": "https://dev.to/sweetpapa/the-wrong-fix-five-times-one-week-of-player-feedback-on-my-30-mb-model-38bi?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "What I learned packaging: Winrust Quickstart Kit",
-      "description": "I have been running a small experiment: a swarm of simple agents that watches live developer-demand signals (trending repos, discussion spikes), scores each one, and only builds when the score clears a bar. The signal Windows shell replacement in Rust: taskbar, file manager, NTFS",
-      "url": "https://dev.to/quantenginev12cyber/what-i-learned-packaging-winrust-quickstart-kit-5je?ref=devdeals",
+      "title": "I Built a 4.4 MB Windows Text Editor That Switches Between Notepad-Style Editing and Vim",
+      "description": "Sometimes I just want to open a file, change one line, and leave. Notepad is fine until I need search across a folder or a Vim motion. A full IDE is more than that moment needs. So I built NeNe Nib , a text editor for Windows 11. It's one 4.4 MB executable (as Windows reports it;",
+      "url": "https://dev.to/hideyukimori/i-built-a-44-mb-windows-text-editor-that-switches-between-notepad-style-editing-and-vim-31o?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "I'm a pharmacy student, not a developer – here's the app I built with Codex",
-      "description": "Every year, UK pharmacy graduates rank foundation training programmes through a system called Oriel. This year there are about 4,000 of them, and most people compare them in a spreadsheet. I'm a final-year pharmacy student in London, I was doing exactly that, and I hated it. So I",
-      "url": "https://dev.to/phivosmicha/im-a-pharmacy-student-not-a-developer-heres-the-app-i-built-with-codex-45b2?ref=devdeals",
+      "title": "Writing a PRD for an existing codebase: what changes when the app already exists",
+      "description": "Writing a PRD for an existing codebase: what changes when the app already exists Most PRD guides assume a blank page: pick a stack, design the schema, name the tables. Real work rarely starts there. You are usually adding a feature to an app that already has users, a database ful",
+      "url": "https://dev.to/web-dev-mehedi/writing-a-prd-for-an-existing-codebase-what-changes-when-the-app-already-exists-3gdh?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "How I Prepare PDF Text for an Audiobook",
-      "description": "Part 1 of Building All to Audiobook Our sample PDF has a running \"CHAPTER ONE\" header above \"Chapter II. The shore.\" I remove the repeated margin text before narration, keeping the chapter title and story. Building All to Audiobook I ran into these problems while building All to ",
-      "url": "https://dev.to/cleora/how-i-prepare-pdf-text-for-an-audiobook-5c7i?ref=devdeals",
+      "title": "Building a Luxury Indian Wedding Invitation Suite on Next.js 14 and Oracle ARM",
+      "description": "Indian weddings are among the most elaborate cultural celebrations in the world. Spanning 3 to 7 distinct ceremonies—Haldi, Mehndi, Sangeet, Pheras, and Reception—they involve hundreds of guests attending across multiple days and venues. Yet, most modern event and wedding website",
+      "url": "https://dev.to/shadilink/building-a-luxury-indian-wedding-invitation-suite-on-nextjs-14-and-oracle-arm-37lc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
     },
     {
-      "title": "A heartbeat can't tell you the speedometer is lying: reading the glass back on QNX 8.0",
-      "description": "A car brakes from 49 km/h to a stop. The instrument cluster keeps showing 48 . The renderer process is running. If you watch its liveness tick, it may still be ticking. If you ask it what it drew, it says the right number. Every check that lives inside or beside the renderer come",
-      "url": "https://dev.to/edycutjong/a-heartbeat-cant-tell-you-the-speedometer-is-lying-reading-the-glass-back-on-qnx-80-1gbd?ref=devdeals",
+      "title": "Day 12: +358 downloads yesterday",
+      "description": "Yesterday: 8,813 combined downloads (+358) , with 1,187 to go to 10,000. plumber-linter: 2,739 (+167) hexlens: 1,815 (+7) environmental-peek: 1,789 (+170) react-dismiss: 1,358 (+3) @parasraju /plumber-mcp: 1,112 (+11) What shipped yesterday hexlens v0.7.2 — IOC export (STIX/JSON)",
+      "url": "https://dev.to/parasraju/day-12-358-downloads-yesterday-3abo?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
-      "date": "Sun, 22 Nov 2026",
+      "date": "Mon, 23 Nov 2026",
       "badge": "COMMUNITY DEAL",
       "price": "Free / Discounted",
       "is_featured": false
