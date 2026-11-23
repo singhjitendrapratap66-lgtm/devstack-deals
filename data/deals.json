@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-23 05:59:14 UTC",
+    "updated_at": "2026-11-23 17:55:38 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,8 +63,118 @@
       "date": "Nov 23, 2026"
     },
     {
+      "title": "Ladybird Is Now in Alpha",
+      "description": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 451 # Comments: 111",
+      "url": "https://ladybird.org/posts/alpha/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "description": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 778 # Comments: 1937",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "description": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 132 # Comments: 72",
+      "url": "https://github.com/mikuta0407/win4wine?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The next circle of security hell",
+      "description": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 162 # Comments: 82",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "description": "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 157 # Comments: 76",
+      "url": "https://github.com/os6/nospeaker?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "description": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 785 # Comments: 273",
+      "url": "https://z.ai/blog/glm-5.4?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "description": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 226 # Comments: 276",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "description": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 528 # Comments: 221",
+      "url": "https://github.com/AFK-surf/xnulinux?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The New Docker: Built to Run on Trust",
+      "description": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 109 # Comments: 184",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "description": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 170 # Comments: 69",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Mon, 23 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "description": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 304 # Comments: 48",
+      "description": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 795 # Comments: 144",
       "url": "https://spelunkr.tv?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,30 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 197 # Comments: 154",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "description": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 142 # Comments: 66",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 370 # Comments: 149",
+      "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 679 # Comments: 278",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +196,7 @@
     },
     {
       "title": "A miniature San Francisco with live buses, planes and boats",
-      "description": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 209 # Comments: 82",
+      "description": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 353 # Comments: 108",
       "url": "https://smallsf.com/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,19 +206,8 @@
       "is_featured": false
     },
     {
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "description": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 119 # Comments: 15",
-      "url": "https://nyx.net/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Assume People Are Not Interested in Your Blog Post",
-      "description": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 130 # Comments: 60",
+      "description": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 299 # Comments: 145",
       "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -140,19 +217,8 @@
       "is_featured": false
     },
     {
-      "title": "What Happened to Silicon Valley?",
-      "description": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 546 # Comments: 295",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "description": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 424 # Comments: 212",
+      "description": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 611 # Comments: 346",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -162,75 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "Perplexity and Intelligence",
-      "description": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 539 # Comments: 365",
-      "url": "https://openai.com/index/perplexity-and-intelligence/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 141 # Comments: 47",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "description": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 297 # Comments: 72",
-      "url": "https://github.com/gulivan/worker755?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Masullo on the Riemann Hypothesis",
-      "description": "Article URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50598441 Points: 145 # Comments: 63",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1241 # Comments: 687",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "description": "Article URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527 Comments URL: https://news.ycombinator.com/item?id=50547698 Points: 167 # Comments: 29",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 18 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Building Orbyte: A Zero-Allocation Pure Go AI & API Gateway (~30µs Core Execution)",
-      "description": "Hi devs! I built Orbyte — a zero-allocation pure Go AI & API orchestration gateway designed to eliminate cloud compute overhead ( ~30µs–60µs core execution, <1.1MB RAM). Since our free beta node is hosted in US-Oregon , I'm kindly inviting 20–25 developers worldwide to run a sing",
-      "url": "https://dev.to/founder_orbyte_8a95f0f74d/building-orbyte-a-zero-allocation-pure-go-ai-api-gateway-30us-core-execution-21ko?ref=devdeals",
+      "title": "Your name on the receipt: autosaving one field without a sign-up",
+      "description": "The time card calculator on my site prints a little receipt at the bottom of the page. It shows the week, the hours, the overtime, and the pay. For a long time it had one gap: nowhere on it was the name of the person who worked those hours. A receipt with no name is a piece of pa",
+      "url": "https://dev.to/mobeenahmedgondal/your-name-on-the-receipt-autosaving-one-field-without-a-sign-up-40lm?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Saving a time card in localStorage: why the data stays and how Clear all wipes it",
-      "description": "When I built the time card calculator, one of the first things people asked for was simple: \"Can it remember my hours?\" Nobody wants to retype seven days of clock-in and clock-out times every time they open the page. But the site has no accounts, no sign-up, and no server that st",
-      "url": "https://dev.to/mobeenahmedgondal/saving-a-time-card-in-localstorage-why-the-data-stays-and-how-clear-all-wipes-it-48ai?ref=devdeals",
+      "title": "ZoneID Translit: convert Uzbek Latin and Cyrillic in text, Word, Excel and PowerPoint files",
+      "description": "Hi, I'm Otabek, a Python/FastAPI backend developer from Namangan, Uzbekistan. Uzbek is written in both Latin and Cyrillic, and people constantly need to convert documents between the two. So I built ZoneID Translit , a Telegram bot and web tool that does it for you. What it does ",
+      "url": "https://dev.to/o1bragimov/zoneid-translit-convert-uzbek-latin-and-cyrillic-in-text-word-excel-and-powerpoint-files-4ml4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "How I Built a Rent-Cap Calculator That Handles California, Washington and Oregon Rules",
-      "description": "I build small, free, client-side calculators for US landlords and renters. The hardest one so far is not the maths — it is the rules. A rent increase that is legal in one state can be illegal in another, and in California the answer changes by county. Here is how the calculator h",
-      "url": "https://dev.to/asghar_ali_3b49d970a8bba8/how-i-built-a-rent-cap-calculator-that-handles-california-washington-and-oregon-rules-36i1?ref=devdeals",
+      "title": "MediaFast 3.0 Launches: A Reddit Marketing Tool Built by a Founder Who Got Banned From Reddit Six Times",
+      "description": "BAKU, Azerbaijan, November 23, 2026. Arthur, the founder of MediaFast , today released MediaFast 3.0, a Reddit marketing tool for founders of small software companies and apps. MediaFast started as a fix for Arthur's own problem. His Reddit accounts were suspended six times while",
+      "url": "https://dev.to/arthur_mediafast/mediafast-30-launches-a-reddit-marketing-tool-built-by-a-founder-who-got-banned-from-reddit-six-4lk7?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Eight new browser calculators and converters, with the math shown",
-      "description": "On 22 November I added eight tools to theomnikit.com, my site of small tools that run in the browser: four maths calculators (area, probability, triangle and z-score) and four file tools (EPUB to PDF, ODT to PDF, a voice changer and a vocal remover). I wrote this with AI help and",
-      "url": "https://dev.to/theomnikit/eight-new-browser-calculators-and-converters-with-the-math-shown-off?ref=devdeals",
+      "title": "ZoneID Guard: a free AI security system for your PC, controlled from Telegram",
+      "description": "Hi, I'm Otabek, a Python/FastAPI backend developer from Namangan, Uzbekistan. I built ZoneID Guard , a free Windows app that turns your PC and webcam into a smart security assistant. What it does If someone enters your room while you are away, the app detects the person, takes a ",
+      "url": "https://dev.to/o1bragimov/zoneid-guard-a-free-ai-security-system-for-your-pc-controlled-from-telegram-4nkb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "Pebbles Grow Old Now",
-      "description": "Hey dev.to — Lepp again. Entry three in building Neuro-Kindred (a free, calm social app for neurodivergent adults, 18+) in the open. Last time: the database mystery. This time: the pebbles themselves — and first, a promise I have to keep. The follow-up I owe you Last entry I said",
-      "url": "https://dev.to/leppercaun22_58f090dde953/pebbles-grow-old-now-5al?ref=devdeals",
+      "title": "My Black Friday 2026 Deals: 40% Off Every WordPress Plugin and Theme",
+      "description": "Once a year I put everything I sell on sale, and this is that week. Until 1 December 2026 (IST), every plan of my premium WordPress plugins and themes is 40% off with the code BLACKFRIDAY (BLACKFRIDAY40 works too). Two new Stackless plugins are also out at a launch price that won",
+      "url": "https://dev.to/wpgaurav/my-black-friday-2026-deals-40-off-every-wordpress-plugin-and-theme-9c7?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Kagelin v1.50 to v1.51: a matte UI pass, zero-dependency",
-      "description": "This post is late. I shipped v1.50.0 on November 3rd, v1.51.0 on November 12th, then took a week off, so here is the changelog for both releases plus the v1.51.1 patch, in one go. Kagelin is a local-first task, habit, and calendar app built on Next.js 16 (App Router) with Supabas",
-      "url": "https://dev.to/oneakira/kagelin-v150-v151-a-matte-ui-pass-zero-dependency-37k3?ref=devdeals",
+      "title": "Giving Someone a Drupal Permission? See What Changes First",
+      "description": "Have you ever hesitated before ticking a Drupal permission because you weren’t sure what access it would give someone? A permission name tells you very little about the pages and actions it could unlock on your site. I built Permission Preview to help you check first. On the Perm",
+      "url": "https://dev.to/stingo36/giving-someone-a-drupal-permission-see-what-changes-first-1818?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "File size labels on quality options: honest numbers, never guesses",
-      "description": "When I first built the download page on ramrom.io , the quality dropdown was simple: 1080p, 720p, 480p, 360p. Pick one, get the file. It worked, and nobody complained. But I kept noticing something in my own use: I would pick 1080p on my phone, then watch the download crawl, then",
-      "url": "https://dev.to/mobeenahmedgondal/file-size-labels-on-quality-options-honest-numbers-never-guesses-1ejk?ref=devdeals",
+      "title": "I made a 4B local model grade mock interviews, and it has to quote you before it can mark you down",
+      "description": "I built Local AI Interviewer , an open-source mock-interview coach that runs on your own computer. You give it questions, or let it build them from your resume. It asks them out loud, takes your typed or spoken answer, asks a follow-up when your answer leaves a gap, and ends with",
+      "url": "https://dev.to/yuva_kunaal/i-made-a-4b-local-model-grade-mock-interviews-and-it-has-to-quote-you-before-it-can-mark-you-down-2nkb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "The Wrong Fix, Five Times: One Week of Player Feedback on My 30 MB Model",
-      "description": "A week ago I released StepForge, a free app that listens to a song and writes the dance steps for it. Players found plenty wrong with it. Seven days and two releases later, the model's score against human-made steps went from 0.656 to 0.689, level with the best open-source tool I",
-      "url": "https://dev.to/sweetpapa/the-wrong-fix-five-times-one-week-of-player-feedback-on-my-30-mb-model-38bi?ref=devdeals",
+      "title": "CiteTime – Explore scientific papers as chronological timelines",
+      "description": "What if you could see the evolution of a scientific research topic instead of scrolling through hundreds of search results? I built CiteTime to explore research papers chronologically. Search → Timeline → Export → Share. Free to use: https://citetime.vercel.app/ ResearchTools #Op",
+      "url": "https://dev.to/saurabh_gayali_551ce3c99b/citetime-explore-scientific-papers-as-chronological-timelines-311?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "I Built a 4.4 MB Windows Text Editor That Switches Between Notepad-Style Editing and Vim",
-      "description": "Sometimes I just want to open a file, change one line, and leave. Notepad is fine until I need search across a folder or a Vim motion. A full IDE is more than that moment needs. So I built NeNe Nib , a text editor for Windows 11. It's one 4.4 MB executable (as Windows reports it;",
-      "url": "https://dev.to/hideyukimori/i-built-a-44-mb-windows-text-editor-that-switches-between-notepad-style-editing-and-vim-31o?ref=devdeals",
+      "title": "One Long Key Name, One Double Free: Inside the GPGME Bug That Shook Every App That Verifies Signatures",
+      "description": "On Friday, November 20, the GnuPG project published a security advisory with a sentence I have read three times now and still find a little hard to believe. A crafted OpenPGP key with a very long user ID can trigger a double free in GPGME, the library almost every program on your",
+      "url": "https://dev.to/indirectb/one-long-key-name-one-double-free-inside-the-gpgme-bug-that-shook-every-app-that-verifies-102?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "Writing a PRD for an existing codebase: what changes when the app already exists",
-      "description": "Writing a PRD for an existing codebase: what changes when the app already exists Most PRD guides assume a blank page: pick a stack, design the schema, name the tables. Real work rarely starts there. You are usually adding a feature to an app that already has users, a database ful",
-      "url": "https://dev.to/web-dev-mehedi/writing-a-prd-for-an-existing-codebase-what-changes-when-the-app-already-exists-3gdh?ref=devdeals",
+      "title": "Saving a Telegram chat's photos and videos in posting order: what I learned building a Windows app",
+      "description": "I wanted one folder per Telegram group with every photo and video in it, numbered in the order they were posted. Telegram's cache doesn't give you that: files sit in folders by type, with names like 5229911934_y.jpg . Telegram Desktop's \"Export chat history\" is closer, but it's a",
+      "url": "https://dev.to/orbitfoxstudio_a7ae56b6ad/saving-a-telegram-chats-photos-and-videos-in-posting-order-what-i-learned-building-a-windows-app-48d4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Building a Luxury Indian Wedding Invitation Suite on Next.js 14 and Oracle ARM",
-      "description": "Indian weddings are among the most elaborate cultural celebrations in the world. Spanning 3 to 7 distinct ceremonies—Haldi, Mehndi, Sangeet, Pheras, and Reception—they involve hundreds of guests attending across multiple days and venues. Yet, most modern event and wedding website",
-      "url": "https://dev.to/shadilink/building-a-luxury-indian-wedding-invitation-suite-on-nextjs-14-and-oracle-arm-37lc?ref=devdeals",
+      "title": "I built an AI deal bot on a Mac mini — but a human approves every post",
+      "description": "Why I built it I'm an IT director by day in Raleigh, NC. I love a good deal, but I hate deal sites. Most of them post everything: 70%-off off-brand gadgets, \"deals\" on laptops with 8 GB of RAM, sales that ended three hours ago. You scroll past 50 bad items to find one good one. S",
+      "url": "https://dev.to/redvolvodavid/i-built-an-ai-deal-bot-on-a-mac-mini-but-a-human-approves-every-post-429a?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "Day 12: +358 downloads yesterday",
-      "description": "Yesterday: 8,813 combined downloads (+358) , with 1,187 to go to 10,000. plumber-linter: 2,739 (+167) hexlens: 1,815 (+7) environmental-peek: 1,789 (+170) react-dismiss: 1,358 (+3) @parasraju /plumber-mcp: 1,112 (+11) What shipped yesterday hexlens v0.7.2 — IOC export (STIX/JSON)",
-      "url": "https://dev.to/parasraju/day-12-358-downloads-yesterday-3abo?ref=devdeals",
+      "title": "How I Built Two Zero-Bloat Android Apps: My Momentum & Fitness Quest",
+      "description": "Most habit and fitness apps feel like they were built to harvest attention rather than help you stick to a routine. You download a simple tracker, and before logging a single day, you are hit with a sign-up screen, a long onboarding quiz, a subscription paywall, and constant noti",
+      "url": "https://dev.to/itech_accesories_b86af4c5/how-i-built-two-zero-bloat-android-apps-my-momentum-fitness-quest-15hj?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Mon, 23 Nov 2026",
