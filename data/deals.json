@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-24 03:52:02 UTC",
+    "updated_at": "2026-11-24 17:02:00 UTC",
     "total_items": 31
   },
   "deals": [
@@ -63,8 +63,118 @@
       "date": "Nov 24, 2026"
     },
     {
+      "title": "Tidal Bans AI-Generated Music",
+      "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 125 # Comments: 80",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 579 # Comments: 243",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "description": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 160 # Comments: 24",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Just a Few Bugs",
+      "description": "Article URL: https://www.justafewbugs.xyz/ Comments URL: https://news.ycombinator.com/item?id=50625953 Points: 100 # Comments: 33",
+      "url": "https://www.justafewbugs.xyz/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "description": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 176 # Comments: 73",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "2035 came early",
+      "description": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 728 # Comments: 271",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "description": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 186 # Comments: 97",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Drone Maps of Salvage Yards",
+      "description": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 151 # Comments: 58",
+      "url": "https://salvageyarddrone.wordpress.com/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "description": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 675 # Comments: 307",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "description": "Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https://news.ycombinator.com/item?id=50595168 Comments URL: https://news.ycombinator.com/item?id=50622638 Points: 237 # Comments: 364",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Tue, 24 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
       "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "description": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 273 # Comments: 137",
+      "description": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 634 # Comments: 319",
       "url": "https://stalw.art/blog/microsoft-exchange-replacement/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,19 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "VP ≠ VNP over Every Field",
-      "description": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 284 # Comments: 239",
-      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "description": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 147 # Comments: 33",
+      "description": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 313 # Comments: 65",
       "url": "https://www.bored.com/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -97,7 +196,7 @@
     },
     {
       "title": "GPUI is getting its own repository",
-      "description": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 169 # Comments: 59",
+      "description": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 354 # Comments: 127",
       "url": "https://github.com/zed-industries/gpui?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -107,41 +206,8 @@
       "is_featured": false
     },
     {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "description": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 908 # Comments: 212",
-      "url": "https://arm.jonpalmisc.com/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Kagi Mail (public beta)",
-      "description": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 373 # Comments: 280",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "description": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1313 # Comments: 726",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
       "title": "Ladybird is now in alpha",
-      "description": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1553 # Comments: 367",
+      "description": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 2308 # Comments: 564",
       "url": "https://ladybird.org/posts/alpha/?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -152,7 +218,7 @@
     },
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "description": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2248 # Comments: 3279",
+      "description": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 2731 # Comments: 3592",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -162,75 +228,9 @@
       "is_featured": false
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "description": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "description": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 223 # Comments: 117",
-      "url": "https://github.com/mikuta0407/win4wine?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-      "description": "https://x.com/codycollier/status/2124505859883716918 Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 292 # Comments: 166",
-      "url": "https://github.com/os6/nospeaker?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "description": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 1080 # Comments: 350",
-      "url": "https://z.ai/blog/glm-5.4?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "description": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 958 # Comments: 165",
-      "url": "https://spelunkr.tv?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Mon, 23 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "C++26 is done (again): ISO C++ meeting trip report",
-      "description": "Article URL: https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/ Comments URL: https://news.ycombinator.com/item?id=50600838 Points: 108 # Comments: 115",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Sun, 22 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Generating 300 DPI Print-Ready Wall Calendars in Python (Zero InDesign Required)",
-      "description": "This is Part 4 of the zero-bloat engineering series behind SOL-2027 — an interactive web explorer and print suite reviving Eastman Kodak’s 1928–1989 13-month International Fixed Calendar ( 13 × 28 + Year Day ) for 2027: Part 1: For 61 Years, Kodak Ran on a 13-Month Calendar — So ",
-      "url": "https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-300-dpi-print-ready-wall-calendars-in-python-zero-indesign-required-1ghm?ref=devdeals",
+      "title": "Accessibility on a Tool Page: Labels, Focus States, and a Keyboard-Only Download",
+      "description": "I built my video downloader for people in a hurry. Paste a link, tap Download, get the file. That is the whole job, and for a long time I judged the page by one thing: does it work fast for someone using a mouse on a fast connection? Then I tried using it with the keyboard alone.",
+      "url": "https://dev.to/mobeenahmedgondal/accessibility-on-a-tool-page-labels-focus-states-and-a-keyboard-only-download-1l2c?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -239,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "Our push notifications arrived silent, empty, and wrong about the time. Three bugs, one night.",
-      "description": "We shipped push notifications for StarBrook News — our free, no-paywall news app — in Build #24 of the new native Android app. The server side was already live: a subscribe endpoint, a weather-alerts sender, a token table. The first real test was a freeze warning for Oklahoma Cit",
-      "url": "https://dev.to/matthew_douglas_2fa684680/our-push-notifications-arrived-silent-empty-and-wrong-about-the-time-three-bugs-one-night-48me?ref=devdeals",
+      "title": "I Built lot off Free, 100% Client-Side PDF, Image & Finance Tools in Next.js (Zero Server Uploads)",
+      "description": "Most \"free\" online PDF and image utilities follow the same frustrating pattern: you upload a sensitive file (like a bank statement, contract, or passport photo) to a random server, wait for processing, and then hit a paywall, signup wall, or watermark. To fix this, I built WiseMi",
+      "url": "https://dev.to/wisemixmedia_09b5f2f45f31/i-built-lot-off-free-100-client-side-pdf-image-finance-tools-in-nextjs-zero-server-uploads-4o07?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -250,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Our host ran out of credits at 11:31 PM. By noon the next day, our site was on Cloudflare.",
-      "description": "Saturday night, 11:31 PM, an email landed: our host had used all available credits. The sites were still up — every page returned 200 — but nothing new could deploy. That sounds harmless until Sunday morning, when the news edition was built at 7:00 AM and the live page still show",
-      "url": "https://dev.to/matthew_douglas_2fa684680/our-host-ran-out-of-credits-at-1131-pm-by-noon-the-next-day-our-site-was-on-cloudflare-1l8l?ref=devdeals",
+      "title": "Introducing Duet: Frontier Intelligence Meets Autonomous Software Engineering",
+      "description": "Today, I'm excited to introduce Duet , an AI coding harness developed by Fondation, an independent AI and computing company. We're building Duet around a fundamental idea: more intelligence shouldn't necessarily require more tokens, more compute, or higher costs. Meet Frontier I ",
+      "url": "https://dev.to/leonnett/introducing-duet-frontier-intelligence-meets-autonomous-software-engineering-9ai?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -261,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Our Android app can never be updated without a Mac — so we're building a new one, native",
-      "description": "We ship StarBrook, a privacy-first Android browser and news app. Version 0.4.58 is live today, free, with no tracking, no ads, and no account needed to read the news. And it can never be updated. Not \"hard to update.\" Never. Here's why. The trap Our release builds come out of Git",
-      "url": "https://dev.to/matthew_douglas_2fa684680/our-android-app-can-never-be-updated-without-a-mac-so-were-building-a-new-one-native-207i?ref=devdeals",
+      "title": "A month after launch, 98% of my traffic is still bots",
+      "description": "A month ago I wrote about my launch week: the logs said 749 page views, and after filtering, the real number was 31. A few people asked the obvious follow-up: does it get better once the launch spike is over? So here's the month. Since launch, my site has served 22,351 HTML reque",
+      "url": "https://dev.to/patrick_obrien_9d32049d27/a-month-after-launch-98-of-my-traffic-is-still-bots-2151?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -272,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "We audited our news app against CNN. 12 things were broken. We fixed them in one batch.",
-      "description": "Not a redesign. An inspection — seven tracks, every popular outlet as the bar, and a fix list that went straight to production the same day. A few nights ago I told the team to stop pushing features and inspect everything instead. \"Full system inspection. Check all gaps. All impr",
-      "url": "https://dev.to/matthew_douglas_2fa684680/we-audited-our-news-app-against-cnn-12-things-were-broken-we-fixed-them-in-one-batch-ja?ref=devdeals",
+      "title": "PullViva in 47 seconds: make contributors defend their pull request",
+      "description": "If you maintain open source, try this on one repo. PullViva adds one required check to pull requests, and authors answer questions about their own diff before merge. Switched off by default, so nothing changes until owners enable it pullviva.fyi",
+      "url": "https://dev.to/ar9avg/pullviva-in-47-seconds-make-contributors-defend-their-pull-request-10gh?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -283,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "13 of 23 stories wouldn't open. We audited every article link in our news app.",
-      "description": "A user tapped through our news stories and half of them wouldn't load — or play audio. The fix wasn't a bigger retry button. It was admitting some stories can never load, and saying so honestly. He sent a video at 12:44 in the morning, tapping through stories in StarBrook News. \"",
-      "url": "https://dev.to/matthew_douglas_2fa684680/13-of-23-stories-wouldnt-open-we-audited-every-article-link-in-our-news-app-15gl?ref=devdeals",
+      "title": "What I learned building Brimlight, a native macOS menu bar app with a 3D cat",
+      "description": "The menu bar is the one strip of the Mac screen I look at all day, and it's always flat gray. So I built Brimlight: it draws animated themes under the menus, hangs decorations along the edge, and puts a 3D cat in the empty space that hunts your cursor. It launched on Product Hunt",
+      "url": "https://dev.to/vlad_indie_dev/what-i-learned-building-brimlight-a-native-macos-menu-bar-app-with-a-3d-cat-4o5o?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -294,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Five chats, one engine: why we merged our whole product line into Makryden One",
-      "description": "We had five AI products. Pulse for grooming shops. Core for digital assets. Haven for real estate. Roam for travel. Forge for business sales. Each one was a separate chat, a separate pitch, a separate price. A small business owner landing on our site had to figure out which box t",
-      "url": "https://dev.to/matthew_douglas_2fa684680/five-chats-one-engine-why-we-merged-our-whole-product-line-into-makryden-one-3beb?ref=devdeals",
+      "title": "How we ranked 100,000 AI spaceships by making them fight each other",
+      "description": "Play WARSHIP WORKSHOP free in your browser . It is a 3D space auto battler: you build a ship from parts, press FIGHT, and watch it battle a rival on its own. This post is about one problem behind it that turned out to be harder than the ships: how do you decide how strong 100,000",
+      "url": "https://dev.to/antgamesai/how-we-ranked-100000-ai-spaceships-by-making-them-fight-each-other-4il3?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -305,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "I built Kineticons — 2,083 open-source icons that move like they mean it",
-      "description": "Most icon sets are frozen pictures. Kineticons is different: 2,083 open-source animated icons where every icon moves the way its object does. The bell swings. The padlock shuts. The battery fills. Website: https://kineticons.fabwaseem.com GitHub: https://github.com/fabwaseem/kine",
-      "url": "https://dev.to/fabwaseem/i-built-kineticons-2083-open-source-icons-that-move-like-they-mean-it-1663?ref=devdeals",
+      "title": "I built a bulk domain checker. DNS answers most names, and one problem is still open",
+      "description": "I built a small tool that checks a long list of domain names and says which ones are registered and which look free. This is how it works and the one problem I have not solved. It is an Apify actor, published under cyrus_1 . I built it with an AI-assisted workflow: a small team o",
+      "url": "https://dev.to/cyrus_1/i-built-a-bulk-domain-checker-dns-answers-most-names-and-one-problem-is-still-open-hck?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -316,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "I built Benchline — 61 free developer tools your AI agent can call, no API key needed",
-      "description": "Every developer has a folder of tiny tools: format this JSON, decode that JWT, check this robots.txt, generate an llms.txt. I kept rebuilding them, so I built Benchline — 61 free tools in the browser, where every tool is also an MCP tool your AI agent can call. Website: https://b",
-      "url": "https://dev.to/fabwaseem/i-built-benchline-61-free-developer-tools-your-ai-agent-can-call-no-api-key-needed-3e0c?ref=devdeals",
+      "title": "Cutting our AI launch film to 9:16 without generating a single shot again",
+      "description": "We recently wrote about what broke while we made a 1:46 launch film with AI models . Then we needed a vertical version for Instagram. The rule was simple: same edit, same timings, same audio. Nothing in the 16:9 film could change, and no shot was generated again. Today one script",
+      "url": "https://dev.to/wiro/cutting-our-ai-launch-film-to-916-without-generating-a-single-shot-again-11fb?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -327,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "I built FireVoice — a free, open-source voice studio that runs 100% locally",
-      "description": "Your voice is yours. The words you dictate, the voice you clone, the audio you transcribe — none of it should have to leave your computer to work. That's the idea behind FireVoice , a free, open-source desktop voice studio I built. Text-to-speech, voice cloning, voice design, dia",
-      "url": "https://dev.to/fabwaseem/i-built-firevoice-a-free-open-source-voice-studio-that-runs-100-locally-23eo?ref=devdeals",
+      "title": "Set Your Floor: The Two Numbers That Decide Every Offer",
+      "description": "Every gig driver I talk to has a feel for a good offer. The problem is feel changes when you are tired, when rent is close, or when the app has kept you waiting an hour. A floor does not change. Before a shift, pick two numbers and let them decide for you: (1) a minimum gross per",
+      "url": "https://dev.to/vajgrtlabs/set-your-floor-the-two-numbers-that-decide-every-offer-2pd5?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -338,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "Ask the AI you already use to organize your sources",
-      "description": "Even when you already pay for an AI app, having a note tool summarize your sources means setting up one more AI connection inside that tool. I thought it would be easier to start if the AI app you already use (the Claude or ChatGPT desktop app) could use your Graphium notes from ",
-      "url": "https://dev.to/kumagallium/ask-the-ai-you-already-use-to-organize-your-sources-55ce?ref=devdeals",
+      "title": "git bisect doesn't work on lockfiles — so I built whichdep",
+      "description": "Your CI was green yesterday. Today a Dependabot PR, a cargo update , or a fresh install bumped 15 packages at once and your test suite went red. git bisect can't help you here: your code didn't change — your lockfile did. So you end up doing the dreaded manual loop: pinning packa",
+      "url": "https://dev.to/kameh0use/git-bisect-doesnt-work-on-lockfiles-so-i-built-whichdep-4d37?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
@@ -349,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "I cut the 7 Deadly Sins test to 21 statements and 4 minutes on purpose",
-      "description": "A four-minute browser quiz has one job that is easy to get wrong: it has to be short enough that people finish it, and specific enough that the result feels earned. Most of the ones I have taken fail on one side or the other. Fifty questions and you quit at 30. Five questions and",
-      "url": "https://dev.to/copero_games/i-cut-the-7-deadly-sins-test-to-21-statements-and-4-minutes-on-purpose-2522?ref=devdeals",
+      "title": "We built ApnaWard – An AI-assisted CivicTech platform to report and track neighbourhood problems",
+      "description": "Hey everyone! We are Team Innovatrix Nexus , and we've been working on a project called ApnaWard . The idea came from a simple problem: people regularly face issues like potholes, overflowing garbage, water leakage, drainage problems and broken streetlights, but reporting these i",
+      "url": "https://dev.to/shivam_kumargupta_5c8078/we-built-apnaward-an-ai-assisted-civictech-platform-to-report-and-track-neighbourhood-problems-3bo?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Tue, 24 Nov 2026",
