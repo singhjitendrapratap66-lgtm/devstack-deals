@@ -2,7 +2,7 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-25 16:52:39 UTC",
+    "updated_at": "2026-11-26 01:37:53 UTC",
     "total_items": 31
   },
   "deals": [
@@ -18,7 +18,7 @@
       "estimated_payout": "$25 per active referral",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 25, 2026"
+      "date": "Nov 26, 2026"
     },
     {
       "title": "GitHub Student Developer Pack (Free SaaS Suite)",
@@ -32,7 +32,7 @@
       "estimated_payout": "Organic Traffic Driver",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 25, 2026"
+      "date": "Nov 26, 2026"
     },
     {
       "title": "Supabase - Open Source Firebase Alternative",
@@ -46,7 +46,7 @@
       "estimated_payout": "20% recurring",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 25, 2026"
+      "date": "Nov 26, 2026"
     },
     {
       "title": "AppSumo AI Productivity & Lifetime SaaS Deals",
@@ -60,11 +60,110 @@
       "estimated_payout": "15% - 25% per transaction",
       "is_featured": true,
       "source": "Official Partner",
-      "date": "Nov 25, 2026"
+      "date": "Nov 26, 2026"
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "description": "Article URL: https://modaic.dev/blog/latency-doesnt-lie Comments URL: https://news.ycombinator.com/item?id=50648823 Points: 210 # Comments: 59",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "description": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 256 # Comments: 116",
+      "url": "https://github.com/lsernau/grh-lean?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "description": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 191 # Comments: 126",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "description": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 134 # Comments: 53",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "72-hour fasting can reset your immune system, USC study shows",
+      "description": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/ Comments URL: https://news.ycombinator.com/item?id=50647158 Points: 153 # Comments: 106",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "description": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 871 # Comments: 717",
+      "url": "https://scottaaronson.blog/?p=10379&ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "description": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50644980 Points: 119 # Comments: 30",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "1Password Security Incident",
+      "description": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1117 # Comments: 482",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "description": "Article URL: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/ Comments URL: https://news.ycombinator.com/item?id=50643199 Points: 108 # Comments: 168",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Wed, 25 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
     },
     {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "description": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 168 # Comments: 45",
+      "description": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 437 # Comments: 106",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -74,9 +173,9 @@
       "is_featured": false
     },
     {
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "description": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 137 # Comments: 72",
-      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/?ref=devdeals",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "description": "Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 183 # Comments: 64",
+      "url": "https://s.conao3.com/blog/2026/e4f733?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 25 Nov 2026",
@@ -85,19 +184,8 @@
       "is_featured": false
     },
     {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "description": "Article URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/ Comments URL: https://news.ycombinator.com/item?id=50642496 Points: 127 # Comments: 114",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "description": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 237 # Comments: 202",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "description": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 443 # Comments: 332",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -108,7 +196,7 @@
     },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "description": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 224 # Comments: 126",
+      "description": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 315 # Comments: 173",
       "url": "https://github.com/xoxorwr/pw-loudness-eq?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
@@ -118,9 +206,9 @@
       "is_featured": false
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "description": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 267 # Comments: 59",
-      "url": "https://gpu-demo-gallery.pages.dev/?ref=devdeals",
+      "title": "Smart people who give a shit use tools",
+      "description": "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools Comments URL: https://news.ycombinator.com/item?id=50639698 Points: 275 # Comments: 213",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Wed, 25 Nov 2026",
@@ -129,97 +217,9 @@
       "is_featured": false
     },
     {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "description": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 183 # Comments: 38",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "description": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 196 # Comments: 77",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "description": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 684 # Comments: 109",
-      "url": "https://buttons.joshwcomeau.com/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Macrohistory in Six Facts",
-      "description": "Article URL: https://basilhalperin.com/essays/macrohistory.html Comments URL: https://news.ycombinator.com/item?id=50637891 Points: 128 # Comments: 70",
-      "url": "https://basilhalperin.com/essays/macrohistory.html?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "description": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 362 # Comments: 128",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "description": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 377 # Comments: 158",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "description": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 868 # Comments: 480",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "description": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 354 # Comments: 63",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/?ref=devdeals",
-      "category": "Open Source & Free Tools",
-      "source": "GitHub Trending & Explore",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "description": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 328 # Comments: 92",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/?ref=devdeals",
+      "title": "Predicting LoRA size for any dataset",
+      "description": "Article URL: https://engram.com/blog/lora-size Comments URL: https://news.ycombinator.com/item?id=50635783 Points: 109 # Comments: 11",
+      "url": "https://engram.com/blog/lora-size?ref=devdeals",
       "category": "Open Source & Free Tools",
       "source": "GitHub Trending & Explore",
       "date": "Tue, 24 Nov 2026",
@@ -228,9 +228,75 @@
       "is_featured": false
     },
     {
-      "title": "The CTR lesson: why a clear title beats a clever one",
-      "description": "I used to write page titles the way I thought a clever writer would. Puns, wordplay, a little mystery. Then I opened Search Console for ramrom.io and looked at which of my pages people actually clicked — and the clever titles were losing badly to the plain ones. The pattern was h",
-      "url": "https://dev.to/mobeenahmedgondal/the-ctr-lesson-why-a-clear-title-beats-a-clever-one-120p?ref=devdeals",
+      "title": "Morrow: Morrow (formerly The Morning Paper) - web edition: curated news, stock desk, portfolio + alerts that sync once…",
+      "description": "Stop scrolling for a second. New on my GitHub: Morrow. Morrow (formerly The Morning Paper) - web edition: curated news, stock desk, portfolio + alerts that sync once you sign in, and Morrow Brief, a daily sourced digest on Telegram: channel t.me/morrowbrief and bot @Morrow_brief_",
+      "url": "https://dev.to/juw12/morrow-morrow-formerly-the-morning-paper-web-edition-curated-news-stock-desk-portfolio--j6j?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Rename photos by the date they were taken with exiftool from the command line",
+      "description": "You have a folder of photos named IMG_0412.jpg , IMG_0413.JPG , DSC_2281.jpg . You want them named by when they were taken, like 2024-07-14 18.03.21.jpg , so they sort in order. How do you do it? You ask an AI, and get a loop with stat and mv . Every photo is named today. The fil",
+      "url": "https://dev.to/yingtse/rename-photos-by-the-date-they-were-taken-with-exiftool-from-the-command-line-575a?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A Decade-Old Bug Owned the Elixir Registry in 13 Minutes",
+      "description": "A Decade-Old Bug Owned the Elixir Registry in 13 Minutes On Monday evening, someone sent 69 requests to Hex.pm and walked away with operating system command execution on six production servers. The whole thing took 13 minutes. The bug they used had been sitting in the code since ",
+      "url": "https://dev.to/indirectb/a-decade-old-bug-owned-the-elixir-registry-in-13-minutes-1bmc?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "SpeedrunNow has one platformer and a lot of ways to race a clock",
+      "description": "A short time trial is over before you can talk yourself out of another attempt. You know where you lost time, the restart key is right there, and the person you want to beat is yourself from a moment ago. That’s the appeal of SpeedrunNow. It’s free, there’s no signup or download,",
+      "url": "https://dev.to/twowang59/speedrunnow-has-one-platformer-and-a-lot-of-ways-to-race-a-clock-eej?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Five design decisions behind a daily cash-secured put screener",
+      "description": "Disclosure: I build and run PutFinder, the tool described here. This post is about how the screen is put together, not about results, and none of it is investment advice. A cash-secured put is a short put backed by enough cash to buy 100 shares at the strike. People who sell them",
+      "url": "https://dev.to/jefferyhe/five-design-decisions-behind-a-daily-cash-secured-put-screener-3o62?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "PS2linux MX4SIO project progress",
+      "description": "Little teaser about my PS2linux MX4SIO project progress After 1 months of working MX4SIO SD card adapter along side working with custom IOP module, loaded through kernelloader and with patched Linux 2.6.35.4 block driver Booting into Debian userland on PS2 with the root file syst",
+      "url": "https://dev.to/debarshis/ps2linux-mx4sio-project-progress-3dd6?ref=devdeals",
+      "category": "Developer Tools",
+      "source": "Dev.to Discounts & Tools",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Smilefjes, tilbakekallinger og legemiddelmangel: hva norske åpne data faktisk lar deg sjekke",
+      "description": "Før du bestiller bord på en restaurant, kjøper rosiner eller henter ut medisinen på apoteket, finnes det offentlige svar på tre ganske konkrete spørsmål. Problemene er at svarene ligger hos Mattilsynet, Direktoratet for medisinske produkter og EU, i ulike formater og med ulik opp",
+      "url": "https://dev.to/sikjeonbbang/smilefjes-tilbakekallinger-og-legemiddelmangel-hva-norske-apne-data-faktisk-lar-deg-sjekke-4e1h?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
@@ -239,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "I built my portfolio as a Persona 3 Reload-style game",
-      "description": "I mostly work on deep learning and computer vision. Frontend isn't my home turf, so building this was a detour, and an enjoyable one. The idea Two things I like: music and the Persona 3 Reload UI. I kept thinking about how the game's menus feel. Every selection has a sound, a mot",
-      "url": "https://dev.to/rohitpoul/i-built-my-portfolio-as-a-persona-3-reload-style-game-9ck?ref=devdeals",
+      "title": "Why my habit app never resets your streak to zero",
+      "description": "Most habit trackers are built around one number: the streak. Miss a day and it drops to zero. That rule is simple to build, but it punishes the exact moment someone needs help the most, and a lot of people quit right there. I built Anchor (iPhone) around the opposite rule: one ba",
+      "url": "https://dev.to/adrian_petre_19d15df69db2/why-my-habit-app-never-resets-your-streak-to-zero-19dp?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
@@ -250,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "I built Vaultix — a minimal link-in-bio and portfolio hub for developers",
-      "description": "Most link-in-bio tools feel like they were designed for influencers and social media marketers rather than developers. When you just want one clean place to share your GitHub, side projects, and socials, they often feel cluttered or overly flashy. So I built Vaultix — a minimal, ",
-      "url": "https://dev.to/vaultix/i-built-vaultix-a-minimal-link-in-bio-and-portfolio-hub-for-developers-2kkj?ref=devdeals",
+      "title": "Modeling Japan's 10 Regional Tiered Electricity Tariffs in a Zero-Backend Web App",
+      "description": "When building a consumer utility calculator for Japan, a common shortcut is multiplying wattage by the national guideline rate (31 JPY/kWh). In practice, actual household electricity bills vary by up to 1.8x depending on the regional utility, consumption tier, and contract struct",
+      "url": "https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
@@ -261,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "I gave my AI agents a supervisor: signed approvals, refusal tests, and a 1,000-agent failure",
-      "description": "Drafted with AI assistance and checked line by line against the reports before posting. I spent 27 years in trucking and dairy logistics. In that world, nobody touches a load on a handshake. Every handoff has a name on it, a time on it, and a signature when the stakes are real. A",
-      "url": "https://dev.to/helmianlabs/i-gave-my-ai-agents-a-supervisor-signed-approvals-refusal-tests-and-a-1000-agent-failure-5b07?ref=devdeals",
+      "title": "Un richiamo, un farmaco introvabile, un prodotto pericoloso: cosa verificare con i dati aperti italiani ed europei",
+      "description": "Ogni settimana vengono pubblicati in Italia decine di avvisi che riguardano oggetti che abbiamo già in casa: un lotto di formaggio ritirato per rischio microbiologico, un farmaco che in farmacia non si trova, un giocattolo segnalato in Europa perché pericoloso. Le informazioni so",
+      "url": "https://dev.to/sikjeonbbang/un-richiamo-un-farmaco-introvabile-un-prodotto-pericoloso-cosa-verificare-con-i-dati-aperti-1igk?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
@@ -272,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "I shipped an iPhone app in a week. Here is what the first days looked like",
-      "description": "I build with AI tools every day, and I had a problem: I could not stop. There was always one more prompt, and my evenings were gone. I wrote about that in my first post here . So I built an app for it. This post is about the other side: what it was like to ship it. What the app d",
-      "url": "https://dev.to/zsoltcsizmadia/i-shipped-an-iphone-app-in-a-week-here-is-what-the-first-days-looked-like-4dnc?ref=devdeals",
+      "title": "놀이터 안전검사부터 승강기·아파트 회계감사까지: 공공데이터로 만든 생활 조회 서비스 두 개",
+      "description": "공공데이터포털(data.go.kr)에는 쓸 만한 자료가 정말 많습니다. 어린이놀이시설 안전검사 결과, 전국 승강기 검사 이력, 건축물대장, 아파트 외부회계감사 결과까지. 문제는 그 자료가 API·CSV·XML로 흩어져 있고, 필드명이 기관마다 다르고, 판정 문자열이 합격 · 조건부합격(1개월/서류검사) · 조건후합격 · 차기안전검사 처럼 제각각이라 일반인이 \"우리 애 다니는 어린이집 놀이터, 우리 아파트 엘리베이터\"를 확인하려면 사실상 불가능하다는 점입니다. 그래서 두 개의 조회 서비스를 만들었습",
+      "url": "https://dev.to/sikjeonbbang/noliteo-anjeongeomsabuteo-seungganggiapateu-hoegyegamsaggaji-gonggongdeiteoro-mandeun-saenghwal-johoe-seobiseu-du-gae-3pp4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
@@ -283,75 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "I'm Looking for 5 Developers to Break My Cloud Dev Platform (Not to Tell Me It's Cool) 🔨",
-      "description": "I've spent the last six posts writing about a problem: environment setup eats your time, your storage, your momentum, and quietly filters out the ideas you never bother testing. Now I need to stop writing and find out whether I actually solved it. I'm looking for 5 developers to ",
-      "url": "https://dev.to/koda2026/im-looking-for-5-developers-to-break-my-cloud-dev-platform-not-to-tell-me-its-cool-4ji8?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Meet LoomPDF: Your Next Go-To PDF Tool? 🚀",
-      "description": "Hi DEV! 👋 I’d like to share a web project I built: LoomPDF. 🔗 Check out LoomPDF: https://loompdf-free.empdev.workers.dev/ I’m sharing it with the community to get feedback from people outside my own development process. If you give it a try, I’d love to hear what feels intuitive,",
-      "url": "https://dev.to/kawaii_ne/meet-loompdf-your-next-go-to-pdf-tool-26ed?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "Rebuilding my diary app in Compose Multiplatform, and the build check that keeps it minimal",
-      "description": "I've had a small diary app on Google Play for a few years. It started as a Java/Kotlin View app, and by this year touching anything in it felt risky. So I rewrote it in Compose Multiplatform, which also meant I could finally put it on iOS. Here's a 19-second look: promo video The",
-      "url": "https://dev.to/sjunh812/rebuilding-my-diary-app-in-compose-multiplatform-and-the-build-check-that-keeps-it-minimal-pa?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "I Asked 8 AI Models to Design Their Own Gladiators. They Had to Confess a Flaw.",
-      "description": "I run Kraken Entertainment, a tiny indie studio in New Mexico. For our new series, Silicon Colosseum, we gave eight AI models the exact same challenge packet: design your own gladiator. Base models only — no custom personas, no specialty training, no tools, no live data. Each mod",
-      "url": "https://dev.to/levi_heichelbech_d95b5231/i-asked-8-ai-models-to-design-their-own-gladiators-they-had-to-confess-a-flaw-f6i?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "downshift-server: Serve a pytorch / HF-embedding model in 3 steps",
-      "description": "Quick Setup A hands-on walkthrough of downshift-server 1.0: an embedding model behind the OpenAI route, your own PyTorch model, and a check that catches a wrong ONNX export. Step 1:Install torch (the CPU build is fine) and downshift with the Hugging Face extra: pip install torch ",
-      "url": "https://dev.to/nikhil_ranjan/downshift-server-serve-a-pytorch-hf-embedding-model-in-3-steps-4a3l?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "I always wanted lyrics floating over my screen while I work, so I built it",
-      "description": "I love music. It's on all day while I work: a playlist in the background, code in front of me. And for a long time I've wished for one thing: the lyrics, right there on my screen, on top of whatever I'm doing. Not in another window I have to switch to. Not in a lyrics tab buried ",
-      "url": "https://dev.to/nirajkhetre/i-always-wanted-lyrics-floating-over-my-screen-while-i-work-so-i-built-it-3nm6?ref=devdeals",
-      "category": "Developer Tools",
-      "source": "Dev.to Discounts & Tools",
-      "date": "Wed, 25 Nov 2026",
-      "badge": "COMMUNITY DEAL",
-      "price": "Free / Discounted",
-      "is_featured": false
-    },
-    {
-      "title": "[Boost]",
-      "description": "I built Vaultix – a minimal bio link & portfolio hub for developers Vaultix Vaultix Vaultix Follow Nov 25 I built Vaultix – a minimal bio link & portfolio hub for developers # showdev # ai # webdev # buildinpublic 1 reaction Add Comment 1 min read",
-      "url": "https://dev.to/vaultix/-4ena?ref=devdeals",
+      "title": "Restoring an expired WordPress site from the Wayback Machine: what came back, and what didn't",
+      "description": "Restoring an expired WordPress site from the Wayback Machine: what came back, and what didn't A short field note on a restore we ran on one of our own domains. It is a case study, not a client job — the full write-up with screenshots lives on waybackpress.com/talkmanunited-waybac",
+      "url": "https://dev.to/waybackpress/restoring-an-expired-wordpress-site-from-the-wayback-machine-what-came-back-and-what-didnt-1m09?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Wed, 25 Nov 2026",
