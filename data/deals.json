@@ -2,8 +2,8 @@
   "metadata": {
     "site_name": "DevStack & AI Deals Daily",
     "site_description": "Curated daily software discounts, developer freebies, cloud credits & AI lifetime tools.",
-    "updated_at": "2026-11-27 01:31:42 UTC",
-    "total_items": 16
+    "updated_at": "2026-11-27 16:14:46 UTC",
+    "total_items": 31
   },
   "deals": [
     {
@@ -63,9 +63,174 @@
       "date": "Nov 27, 2026"
     },
     {
-      "title": "1-Wall Floor Plan Scale Calibration & Parametric Wall Resizing in Pure TypeScript",
-      "description": "When someone snaps a photo of a hand-drawn floor plan or traces an existing PDF listing sheet, the geometry starts out in arbitrary pixel coordinates. Turning that rough sketch into true-scale architectural inches ( 1/4\" = 1'-0\" ) and then letting the user type exact laser-measur",
-      "url": "https://dev.to/clara_sutton/1-wall-floor-plan-scale-calibration-parametric-wall-resizing-in-pure-typescript-392?ref=devdeals",
+      "title": "US Air Force's cloud computing platform hacked",
+      "description": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 140 # Comments: 80",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "description": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 152 # Comments: 70",
+      "url": "https://eprint.iacr.org/2026/3020.pdf?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "description": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 108 # Comments: 73",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "description": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 206 # Comments: 116",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "description": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 516 # Comments: 225",
+      "url": "https://construct22.com/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "description": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 252 # Comments: 79",
+      "url": "https://www.buynothingday.co.uk/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "description": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 481 # Comments: 418",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Fri, 27 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 927 # Comments: 448",
+      "url": "https://janlukas.blog/posts/ai-self-hosting?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "description": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 462 # Comments: 116",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "description": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 484 # Comments: 247",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "description": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 153 # Comments: 35",
+      "url": "https://github.com/eisenzopf/rvoip?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "description": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 122 # Comments: 11",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "description": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 316 # Comments: 157",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "description": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 482 # Comments: 568",
+      "url": "https://github.com/antonpictures/youtube-punisher?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "description": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 412 # Comments: 101",
+      "url": "https://devnull.land/amd-specific-llama-cpp?ref=devdeals",
+      "category": "Open Source & Free Tools",
+      "source": "GitHub Trending & Explore",
+      "date": "Thu, 26 Nov 2026",
+      "badge": "COMMUNITY DEAL",
+      "price": "Free / Discounted",
+      "is_featured": false
+    },
+    {
+      "title": "Vinyl picture discs without faces (and designing a dark-room browser karaoke stage that stays legible)",
+      "description": "Every time we add a new song to Kitchen Radio , every piece of the visual system gets tested under one uncomfortable constraint: zero human singers appear on the cover art or the stage. No portraits, no band photos, and no stock crowd silhouettes holding microphones. Instead, eac",
+      "url": "https://dev.to/waituntilyoutry/vinyl-picture-discs-without-faces-and-designing-a-dark-room-browser-karaoke-stage-that-stays-5fog?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -74,9 +239,9 @@
       "is_featured": false
     },
     {
-      "title": "How I Built an SSRF-Guarded Website Change Monitor (NestJS, BullMQ, Cheerio & Playwright)",
-      "description": "Most website change monitors fall into two traps: Pixel-screenshot diffing fires false alarms whenever a cookie banner shifts by 2px, a rotating promo loads, or a timestamp ticks. Naive fetch() scrapers break on noisy DOM chrome, get trapped by redirect-based SSRF, or choke when ",
-      "url": "https://dev.to/eren_polat_500b955f5a6651/how-i-built-an-ssrf-guarded-website-change-monitor-nestjs-bullmq-cheerio-playwright-oo5?ref=devdeals",
+      "title": "my app is dying and it's 100% my fault",
+      "description": "ok so this is kind of a confession post for the past few months i've been completely addicted to building this thing... like 15 hours a day addicted. i'm losing my hair over it, not even joking When i first shared it, a bunch of people came by. most left. a few stayed. now there'",
+      "url": "https://dev.to/banjuq/my-app-is-dying-and-its-100-my-fault-3ehc?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -85,9 +250,9 @@
       "is_featured": false
     },
     {
-      "title": "Look back at what you kept on a given day, on one screen (This week in Graphium, Nov 16 - 22)",
-      "description": "This week I worked on a screen for looking back at what you kept, and on the paths between Graphium and what lives outside it: AI conversations, files on a shared drive, and documents that have to be handed in as Word. 1. Look back at what you kept on a given day, on one screen H",
-      "url": "https://dev.to/kumagallium/keep-what-you-decided-while-talking-to-an-ai-in-the-same-place-as-your-other-records-this-week-in-2h8b?ref=devdeals",
+      "title": "I checked my own repos before launch. Here's what I found, and the tool I built from it",
+      "description": "I made a handful of side projects public this month. Before posting them anywhere, I went through each one the way a stranger would: clone it fresh, follow the README, read the history. Three things turned up that I would have shipped without noticing. 1. A key that was \"deleted\"",
+      "url": "https://dev.to/maddy824/i-checked-my-own-repos-before-launch-heres-what-i-found-and-the-tool-i-built-from-it-1jjf?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -96,9 +261,9 @@
       "is_featured": false
     },
     {
-      "title": "Building PROTON: An All-in-One AI Workspace & Digital Hub with React, TypeScript, and Gemini",
-      "description": "Hello DEV Community! 👋 I’m excited to share PROTON , a personal AI workspace and digital hub I’ve been building from Georgia using React , TypeScript , and Google Gemini . https://proton-core-final.vercel.app/dashboard What is PROTON? Instead of jumping between dozens of separate",
-      "url": "https://dev.to/geocybermafia/building-proton-an-all-in-one-ai-workspace-digital-hub-with-react-typescript-and-gemini-3hl6?ref=devdeals",
+      "title": "How to play car crash games on a school Chromebook: Beam Drive, Realistic Car Crash King and more (free)",
+      "description": "Short answer: to play a car crash physics game on a Chromebook, open it in Chrome and use the keyboard: WASD drives in all three games below, and space is the handbrake. On SlowDen.com try Beam Drive Car Crash Test Simulator (drive, walk or fly around a crash sandbox), Realistic ",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/how-to-play-car-crash-games-on-a-school-chromebook-beam-drive-realistic-car-crash-king-and-more-1ion?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -107,9 +272,9 @@
       "is_featured": false
     },
     {
-      "title": "I created a hobby project using R and Shiny.",
-      "description": "I created a small hobby project in my spare time using R and Shiny. I know, R sucks and is supposedly only good for statistical computing. But I decided to use it anyway. Don't ask me questions. Just use it, fork it, break it, critique it — whatever you want. I probably won't be ",
-      "url": "https://dev.to/oddler/i-created-a-hobby-project-using-r-and-shiny-4aa5?ref=devdeals",
+      "title": "How to play block puzzle games on a school Chromebook: QBlock Puzzle, Tap Away 3D and Block Blast 2048 (free)",
+      "description": "Short answer: to play a block puzzle game on a school Chromebook, open it in Chrome; there is nothing to install. Three free ones on SlowDen.com : QBlock Puzzle (drag blocks to fill and clear lines), Tap Away Block Puzzle 3D (tap blocks so they fly off a rotating 3D shape) and Bl",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/how-to-play-block-puzzle-games-on-a-school-chromebook-qblock-puzzle-tap-away-3d-and-block-blast-15h4?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -118,9 +283,9 @@
       "is_featured": false
     },
     {
-      "title": "Put the photo you took on your phone straight into the note you're writing",
-      "description": "In the middle of a task, you take a photo of what's in front of you. When you sit down to write the note, that photo is still on the phone. Sending it to yourself, saving it on the computer, and pasting it into the note is a long way to go, so the photos just pile up. I made it s",
-      "url": "https://dev.to/kumagallium/put-the-photo-you-took-on-your-phone-straight-into-the-note-youre-writing-1fdb?ref=devdeals",
+      "title": "At Run 13,497, Kiro Disproved Our Own Theorem: Building PhantomFork for Kiroween 2026",
+      "description": "Written as part of the **Kiroween 2026 Hackathon * ( Skeleton Crew category + Best Kiro Crew App ).* Live Demo (zero login, zero API keys): https://phantomfork.vercel.app Main Skeleton Repo (MIT): https://github.com/lingfengQAQ/phantomfork Kiro Crew App Repo (MIT): https://github",
+      "url": "https://dev.to/ksdf_lisjdf_769b87b7b966d/at-run-13497-kiro-disproved-our-own-theorem-building-phantomfork-for-kiroween-2026-3d9f?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -129,9 +294,9 @@
       "is_featured": false
     },
     {
-      "title": "Computing US Architectural Print Scales, Sheet-Fit Matrices, and Ruler Conversions in Pure TypeScript",
-      "description": "A floor plan exported to PDF looks clean on a laptop screen until someone sends it to a FedEx plotter or home laser printer and puts a triangular architectural scale ruler against the paper. If the drawing was exported without subtracting border margins and the title block height",
-      "url": "https://dev.to/clara_sutton/computing-us-architectural-print-scales-sheet-fit-matrices-and-ruler-conversions-in-pure-11jb?ref=devdeals",
+      "title": "I Built an Agent for Other Agents",
+      "description": "Suppose I ask my AI agent to fix a typo. It spins up another agent. That agent spins up Mei, the worker I built for jobs like this. The fix takes one line. The org chart takes three. Obviously, I don’t need three agents to fix a typo. But there’s a reason I’d want three different",
+      "url": "https://dev.to/2youg1/i-built-an-agent-for-other-agents-16gg?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -140,9 +305,9 @@
       "is_featured": false
     },
     {
-      "title": "Modeling NKBA Kitchen Island Clearances, Seating Overhangs, and Work-Aisle Lock Solvers in Pure TypeScript",
-      "description": "A kitchen island looks roomy on a 14' x 12' sketch until you subtract 24\" perimeter base cabinets on two or three walls, add a 15\" counter-height knee overhang for bar stools, and open a dishwasher door opposite the island. Suddenly a \"generous\" 42\" aisle collapses to 29\" , stool",
-      "url": "https://dev.to/clara_sutton/modeling-nkba-kitchen-island-clearances-seating-overhangs-and-work-aisle-lock-solvers-in-pure-357b?ref=devdeals",
+      "title": "Reading a paycheck: gross, taxable wages, and why they never match",
+      "description": "The first time I sat down to build a paycheck calculator, I thought the hard part would be the maths. It wasn't. The hard part was learning what each line on a pay stub actually means — and why three numbers that all claim to be your pay never agree with each other. Gross pay is ",
+      "url": "https://dev.to/mobeenahmedgondal/reading-a-paycheck-gross-taxable-wages-and-why-they-never-match-2oii?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -151,9 +316,9 @@
       "is_featured": false
     },
     {
-      "title": "Our schema diff saw 2 changes. Replaying the agent's real calls found 5 that came back different.",
-      "description": "I wrote this as part of the Kiroween 2026 hackathon (Frankenstein category). One field renamed in an MCP server. The server's tests were updated with it, so they stay green. A caller that still reads total finds it gone. That is the failure I wanted to catch before shipping, and ",
-      "url": "https://dev.to/edycutjong/our-schema-diff-saw-2-changes-replaying-the-agents-real-calls-found-5-that-came-back-different-2jlh?ref=devdeals",
+      "title": "How to block Steam on your computer while you study: Steam Families, startup apps, and an app that closes Steam and Roblox",
+      "description": "Short answer: there are three ways to block Steam on a computer, depending on who it's for. For a child's account , a parent can use Steam Families , which sets playtime limits and restricts games. To make Steam less tempting , stop it opening when Windows starts. And to block St",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/how-to-block-steam-on-your-computer-while-you-study-steam-families-startup-apps-and-an-app-that-413k?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -162,9 +327,9 @@
       "is_featured": false
     },
     {
-      "title": "LIMBO: offline apps that show you the edit they could not merge",
-      "description": "I wrote this as part of the Kiroween 2026 hackathon (Skeleton Crew category). The angle: a merge that loses an edit silently is worse than one that fails At a lake with no signal, Sari ticks \"tent\" on a shared packing list while a friend deletes it. Back in range, one edit wins a",
-      "url": "https://dev.to/edycutjong/limbo-offline-apps-that-show-you-the-edit-they-could-not-merge-3fel?ref=devdeals",
+      "title": "Christmas countdown games online: 12 free Christmas games, one a day for the 12 days before Christmas (no download)",
+      "description": "Short answer: a simple Christmas countdown game plan is one free Christmas browser game a day for the 12 days before Christmas : start on 13 December with Catch the Snowmen! , fly Santa's sleigh in Santa Gift Delivery Christmas Game on day 3, build a gingerbread house in Gingerbr",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/christmas-countdown-games-online-12-free-christmas-games-one-a-day-for-the-12-days-before-17l2?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -173,9 +338,9 @@
       "is_featured": false
     },
     {
-      "title": "My Kiro hooks saw 5% of the writes. Here is how I found out.",
-      "description": "I wrote four hooks to stop Kiro from breaking my project's one rule. They fired, they blocked a bad write in a live test, and I was ready to call it done. Then I counted what they had actually seen: about 5% of the writes. This post is written as part of the Kiroween 2026 hackath",
-      "url": "https://dev.to/edycutjong/my-kiro-hooks-saw-5-of-the-writes-here-is-how-i-found-out-3ife?ref=devdeals",
+      "title": "How to stop procrastinating on homework: 6 ways to start, and a free app that closes Steam, Roblox and Minecraft",
+      "description": "Short answer: to stop procrastinating on homework, make the first step tiny (\"open the worksheet and do question 1\"), decide the exact time you'll start, and remove the easy escape: on a laptop that means closing the games and chat for the length of the session. On Windows, a fre",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/how-to-stop-procrastinating-on-homework-6-ways-to-start-and-a-free-app-that-closes-steam-roblox-1hj9?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
@@ -184,9 +349,9 @@
       "is_featured": false
     },
     {
-      "title": "I gave a Kiro agent a Commodore 64 and a checksum it can't argue with",
-      "description": "The human problem first: in 1984 you typed a program out of a magazine, hit RUN, and got ?SYNTAX ERROR IN 20 . Forty years later the page is a scan, free OCR has misread the slashed zero as an 8 , and the program is dead again. The obvious fix is to hand the listing to an LLM. Th",
-      "url": "https://dev.to/edycutjong/i-gave-a-kiro-agent-a-commodore-64-and-a-checksum-it-cant-argue-with-5hbn?ref=devdeals",
+      "title": "How to study for finals effectively: 7 research-backed steps, and a free app that closes Steam, Roblox and Minecraft",
+      "description": "Short answer: to study for finals effectively, swap rereading for testing yourself , spread your sessions over several days instead of one long cram, mix topics within a session, and protect each session from distractions. On a Windows PC, a free app called SeaSweep can close Ste",
+      "url": "https://dev.to/liza_18827c15bdd387c4cd9c/how-to-study-for-finals-effectively-7-research-backed-steps-and-a-free-app-that-closes-steam-3120?ref=devdeals",
       "category": "Developer Tools",
       "source": "Dev.to Discounts & Tools",
       "date": "Fri, 27 Nov 2026",
